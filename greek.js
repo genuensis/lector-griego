@@ -141,8 +141,8 @@
         const map = new Map();
         for (const line of txt.split('\n')) {
           if (!line) continue;
-          const [id, beta, lang, gloss, w, reg] = line.split('\t');
-          map.set(parseInt(id, 36), { beta, lang, gloss, w: parseInt(w || '0', 36), reg: reg || '' });
+          const [id, beta, lang, gloss, w, reg, en] = line.split('\t');
+          map.set(parseInt(id, 36), { beta, lang, gloss, w: parseInt(w || '0', 36), reg: reg || '', en: en || '' });
         }
         return map;
       }));
@@ -196,7 +196,7 @@
         g.formes.sort((a, b) => (b.exact ? 1 : 0) - (a.exact ? 1 : 0));
         out.push({
           lid: g.id + (g.pre ? '|' + g.pre : ''), cle: L0.beta, lemme: pres.length ? pres.join(' + ') + ' + ' + lem : lem, base: lem,
-          preverbes: pres, indMorph: '', trad: L0.gloss, lang: L0.lang, freq: L0.w, exact: g.exact, cm: g.cm,
+          preverbes: pres, indMorph: pres.length || !L0.en ? '' : (L0.en.startsWith('(') ? ' ' : ', ') + L0.en, trad: L0.gloss, lang: L0.lang, freq: L0.w, exact: g.exact, cm: g.cm,
           homonyme: /\d$/.test(L0.beta) ? L0.beta.slice(-1) : '', formes: g.formes, regime: pres.length ? '' : L0.reg
         });
       }

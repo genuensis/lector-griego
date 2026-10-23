@@ -167,7 +167,8 @@ button, input, label.btn { font: inherit; color: inherit; }
 .lem + .lem { border-top: 1px solid var(--line); }
 .lem-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 8px; }
 .lem-name { font-family: var(--f-text); font-weight: 700; font-size: 1.12rem; color: var(--accent); }
-.lem-ind { font-family: var(--f-text); font-style: italic; color: var(--muted); }
+.lem-head { flex: 1 1 12rem; min-width: 0; }
+.lem-ind { font-family: var(--f-text); color: var(--muted); white-space: pre-wrap; }
 .gloss { font-size: 0.98rem; }
 .gloss .more { border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0 0 0 4px; font-size: 0.85rem; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -347,7 +348,7 @@ body.no-reg .regime { display: none; }
   <div class="row" id="hoverRow"><input type="checkbox" id="optHover"><label for="optHover">Mostrar el significado al pasar el ratón</label></div>
   <div class="row"><button class="btn" type="button" id="btnForget">Olvidar el documento guardado</button></div>
   <h2 style="margin-top:14px">Acerca de</h2>
-  <p>Las formas y sus análisis (<b id="lemCount">unos 98 000 lemas</b>) proceden de <b>Eulexis</b>, de Philippe Verkerk (Biblissima; licencia GNU GPL v3), basado en los datos de Diogenes (P. Heslin) y del proyecto Perseus. Las glosas españolas (<b>traducción IA</b>) las ha redactado Claude a partir de las glosas inglesas de Perseus y de los diccionarios Bailly y LSJ que acompañan a Eulexis; las más frecuentes y los homónimos se revisaron después una segunda vez. Las notas de <b>construcción</b> de los 4000 verbos más frecuentes también las ha redactado Claude y se revisaron por muestreo. Unos 6900 lemas (sobre todo nombres propios raros) no tenían glosa en ninguna fuente; Claude los ha glosado con su propio conocimiento y van marcados como <b>IA, sin fuente</b>: tómalos con más cautela y contrástalos en Logeion.</p>
+  <p>Las formas y sus análisis (<b id="lemCount">unos 98 000 lemas</b>) proceden de <b>Eulexis</b>, de Philippe Verkerk (Biblissima; licencia GNU GPL v3), basado en los datos de Diogenes (P. Heslin) y del proyecto Perseus. Las glosas españolas, los enunciados y las notas de construcción se han redactado para este lector a partir de las glosas de Perseus y de los diccionarios Bailly y LSJ que acompañan a Eulexis. Los lemas marcados <b>sin fuente</b> (sobre todo nombres propios raros) no tenían glosa en ninguno de ellos: conviene contrastarlos en Logeion.</p>
   <p>Eulexis no tiene en cuenta el contexto: cuando una forma admite varias lecturas, aparecen todas, primero las que coinciden con los acentos del texto y después las más habituales.</p>
   <p>Tus documentos se abren en este navegador y no se envían a ningún sitio.</p>
 </div>
@@ -655,7 +656,7 @@ function segsBox(segs) {
 const MORE_AT = 6;
 function shownLatin(s) { return s.replace(/ў/g, 'y̆').replace(/Ў/g, 'Y̆'); }
 function plain(s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ў/g, 'y').replace(/Ў/g, 'Y'); }
-const LANG = { en: 'glosa en inglés', fr: 'glosa en francés', ia: 'traducción IA', ix: 'IA, sin fuente' };
+const LANG = { en: 'glosa en inglés', fr: 'glosa en francés', ix: 'sin fuente' };
 function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
 
 function renderAnalyses(form, res, opts = {}) {
@@ -678,15 +679,15 @@ function renderAnalyses(form, res, opts = {}) {
       const lem = el('div', 'lem' + (isCtx ? ' is-ctx' : ''));
       const top = el('div', 'lem-top');
       const nm = el('span', 'lem-name', shownLatin(a.lemme)); nm.lang = 'grc';
-      top.append(nm);
-      if (a.indMorph) { const ind = el('span', 'lem-ind', shownLatin(a.indMorph)); ind.lang = 'grc'; top.append(ind); }
+      const hd = el('span', 'lem-head'); hd.append(nm); top.append(hd);
+      if (a.indMorph) { const ind = el('span', 'lem-ind', shownLatin(a.indMorph)); ind.lang = 'grc'; hd.append(ind); }
       if (!opts.inline || opts.allowSave) top.append(Vocab.button(a, form, opts.sentence || ''));
       lem.append(top);
       const tags = el('div', 'tags');
       if (isCtx && list.length > 1) tags.append(el('span', 'tg ctx', 'más probable en esta frase'));
       if (a.exact === false) tags.append(el('span', 'tg', 'otra acentuación'));
       if (a.preverbes && a.preverbes.length) tags.append(el('span', 'tg', 'verbo compuesto'));
-      if (a.lang && a.lang !== 'es') tags.append(el('span', 'tg', LANG[a.lang] || a.lang));
+      if (LANG[a.lang]) tags.append(el('span', 'tg', LANG[a.lang]));
       if (a.ext) tags.append(el('span', 'tg', 'léxico ampliado'));
       if (a.via) tags.append(el('span', 'tg', 'véase ' + plain(a.via)));
       if (a.formes.some((x) => x.enclitique)) {
@@ -705,7 +706,7 @@ function renderAnalyses(form, res, opts = {}) {
       } else g.textContent = txt;
       if (a.lang === 'en' || a.lang === 'fr') g.lang = a.lang;
       lem.append(g);
-      if (a.regime) { const rg = el('div', 'regime'); const lb = el('b', null, 'Construcción'); rg.append(lb, document.createTextNode(a.regime)); rg.title = 'Nota de construcción redactada por IA'; lem.append(rg); }
+      if (a.regime) { const rg = el('div', 'regime'); const lb = el('b', null, 'Construcción'); rg.append(lb, document.createTextNode(a.regime)); lem.append(rg); }
       // análisis morfológicos agrupados por forma
       const byForm = new Map();
       for (const fm of a.formes) {
