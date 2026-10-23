@@ -1,0 +1,3079 @@
+b	*(/arpalos	ix	Hárpalo (tesorero de Alejandro)	0
+17	*(/hgulos	ix	Hégilo	0
+23	*(/osios	ix	Hosio	0
+2z	*(agnago/rh	ix	Hagnágora	0
+3v	*(alw/tia	ia	Halotias (fiesta en Tegea)	11
+4r	*(eca/polis	ia	Hexápolis (confederación de seis ciudades dorias de Asia Menor)	2q
+5n	*(ellanodike/w	ia	ser helanódica, juez de los juegos	1i
+6j	*(ermai=os	ia	de Hermes, consagrado a Hermes; provechoso, ventajoso	dl
+7f	*(erpetosi=tai	ia	herpetositas (tribu de comedores de serpientes)	1v
+8b	*(hfaistia/s	ia	nombre de un emplasto	1c
+97	*(hliosko/pos	ix	Helioscopo	0
+a3	*(hraklew/ths	ia	= Ἡρακλειώτης, heracleota, de Heraclea	e1
+az	*(ierw/numos	ix	Jerónimo	0
+bv	*(ippo/morfos	ia	de forma de caballo	1o
+cr	*(ippono/mos	ia	que cría caballos	14
+dn	*(omhroke/ntrwn	ia	centón homérico	1y
+ej	*(udre/h	ix	Hidrea (isla de la Argólide, hoy Hidra)	0
+ff	*(uperberetai=os	ia	Hiperbereteo (último mes del calendario macedonio)	6p
+gb	*(urtaki/dhs	ia	hijo de Hírtaco (Asio)	0
+h7	*)/agbalos	ix	Agbalo	0
+i3	*)/aleus	ix	= Ἄλεος: Áleo (rey de Tegea)	0
+iz	*)/amfis	ix	Anfis (poeta cómico)	0
+jv	*)/anoxos	ix	Ánoco (atleta de Tarento)	0
+kr	*)/arbhla	ix	Arbela (ciudad de Asiria)	0
+ln	*)/arxwn	ix	Arcón	0
+mj	*)/eforos	ix	Éforo (historiador de Cime)	0
+nf	*)/erastos	ix	Erasto (filósofo platónico)	0
+ob	*)/idmwn	ix	Idmón (adivino de los Argonautas)	0
+p7	*)/isqmios	ia	ístmico, del Istmo	0
+q3	*)/oloros	ix	Óloro (padre de Tucídides; rey tracio)	0
+qz	*)=hlis	ia	Élide (región del Peloponeso occidental); Élide (su capital)	0
+rv	*)abrada/tas	ix	Abradatas (rey de Susa)	0
+sr	*)adrhsti/nh	ia	hija de Adrasto	0
+tn	*)afidnai=os	ix	de Afidnas, afidneo	0
+uj	*)agamh/dhs	ix	Agamedes (constructor, hermano de Trofonio)	0
+vf	*)age/rwxos	ix	Agéroco	0
+wb	*)agora/kritos	ix	Agorácrito (escultor de Paros)	0
+x7	*)aisxri/wn	ix	= Αἰσχρίων: Escrión	0
+y3	*)akoumeno/s	ix	Acúmeno (médico ateniense)	0
+yz	*)ala/bandos	ix	Alabando (epónimo de Alabanda)	0
+zv	*)alecandristh/s	ia	partidario de Alejandro	1y
+10r	*)alka/ndrh	ia	Alcandra (esposa de Pólibo, en Tebas de Egipto)	0
+11n	*)alkmaiwni/dai	ix	Alcmeónidas (familia noble ateniense)	0
+12j	*)ama/rion	ix	Amario (santuario de Zeus en Acaya)	0
+13f	*)amfi/alos	ia	Anfíalo (feacio)	0
+14b	*)amfiktuoniko/s	ia	= Ἀμφικτιονικός, anfictiónico	7l
+157	*)amnisia/des	ix	Amnisíades (ninfas del río Amniso, en Creta)	0
+163	*)amurtai=os	ix	Amirteo (rey de Egipto)	0
+16z	*)anaciro/h	ix	Anaxírroe	0
+17v	*)androda/mas	ix	Androdamante	0
+18r	*)anqe/mios	ix	Antemio	0
+19n	*)anti/kura	ix	Anticira (ciudad de Fócide, famosa por el eléboro)	0
+1aj	*)antile/wn	ix	Antileonte	0
+1bf	*)apellai=os	ia	Apeleo (mes macedonio y de varios estados dorios)	4t
+1cb	*)apollwniako/s	ia	= Ἀπολλώνιος, de Apolo	2d
+1d7	*)aqhnoge/nhs	ix	Atenógenes	0
+1e3	*)areiko/s	ia	de Ares	0
+1ez	*)argo/las	ia	argolas (clase de serpiente)	20
+1fv	*)ari/gnwtos	ix	Arignoto; cf. ἀρίγνωτος, bien conocido, ilustre	0
+1gr	*)arifra/dhs	ix	Arifrades (ateniense); cf. ἀριφραδής, muy claro	0
+1hn	*)aristo/noun	ix	= Ἀριστόνους: Aristónoo	0
+1ij	*)arkadi/h	ix	Arcadia (jón.)	0
+1jf	*)arsa/mhs	ia	Arsames	0
+1kb	*)arto/nths	ix	Artontes (persa)	0
+1l7	*)arxedi/kh	ix	Arquédice (hija de Hipias)	0
+1m3	*)asfali/wn	ia	Asfalión (servidor de Menelao)	0
+1mz	*)askw/lia	ix	Ascolias (fiesta ática de Dioniso en que se saltaba sobre odres)	0
+1nv	*)astu/filos	ix	Astífilo	0
+1or	*)ata/rbhxis	ix	Atarbequis (ciudad del Delta egipcio)	0
+1pn	*)attikwniko/s	ia	aticónico (alteración cómica de ático según laconio)	2d
+1qj	*)axladai=os	ix	Acladeo (focense)	0
+1rf	*)efoudi/wn	ix	Efudión	0
+1sb	*)eleuqerai/	ia	Eléuteras (en la frontera entre el Ática y Beocia)	39
+1t7	*)endumi/wn	ix	Endimión (pastor amado por Selene)	0
+1u3	*)eph/bolos	ix	Epébolo; cf. ἐπήβολος, que ha alcanzado, dueño de + gen.	0
+1uz	*)epiknhmi/dioi	ia	epicnemidios (locros que habitaban junto al monte Cnemis)	2m
+1vv	*)era/sinos	ix	Erasino (río de la Argólide)	0
+1wr	*)erga/nh	ix	Ergane (epíteto de Atenea, «obrera»)	0
+1xn	*)eruci/maxos	ix	Erixímaco (médico, en el Banquete de Platón)	0
+1yj	*)exe/mmwn	ia	Equemón	0
+1zf	*)hli/as	ix	Elías (profeta)	0
+20b	*)ia/neira	ia	Yanira	0
+217	*)iasi/wn	ix	Yasión (amante de Deméter)	0
+223	*)ifime/dwn	ix	Ifimedonte	0
+22z	*)illuri/s	ia	Iliria; iliria (fem.)	0
+23v	*)io/nh	ix	Íone (nereida)	0
+24r	*)isago/rhs	ix	Iságoras (jón.; ateniense rival de Clístenes)	0
+25n	*)isqmo/qi	ia	en el Istmo	1l
+26j	*)iw/annhs	ix	Juan	0
+27f	*)oasi=tai	ia	habitantes de un oasis	i
+28b	*)oi+kle/hs	ix	= Ὀϊκλῆς: Oícles (padre de Anfiarao)	0
+297	*)olumpiko/s	ia	de Olimpia, olímpico	7g
+2a3	*)onoma/sas	ix	Onomasas; cf. ὀνομάζω: nombrar	0
+2az	*)orfiko/s	ia	de Orfeo, órfico	0
+2bv	*)orti/loxos	ia	Ortíloco (hijo de Alfeo)	0
+2cr	*)wkea/nhs	ia	Oceanes (antiguo nombre del Nilo)	2j
+2dn	*a)ttiki/wn	ia	querido ateniensito	1t
+2ej	*ai)/quia	ia	pardela (ave marina)	0
+2ff	*ai)gai=os	ia	de Egas; egeo: Αἰγαῖον πέλαγος, el mar Egeo	6n
+2gb	*ai)gu/s	ix	= Αἶγυς: Egis (ciudad de Laconia)	0
+2h7	*ai)qali/dhs	ia	del demo de Etálidas	0
+2i3	*ai)twli/s	ia	etolia, de Etolia (adj. f.)	g
+2iz	*au)so/nios	ia	ausonio, de Italia	0
+2jv	*ba/ktra	ia	Bactra (hoy Balj, capital de Bactriana)	6f
+2kr	*bafu/rhs	ix	Bafires	0
+2ln	*bakxiko/s	ia	de Baco, báquico; τὰ Βακχικά: los misterios de Baco	0
+2mj	*baubw/	ix	Baubo (personaje de los misterios eleusinos)	0
+2nf	*bi/twn	ia	Bitón	0
+2ob	*bohdro/mia	ia	Boedromias (fiesta ateniense en memoria de la victoria de Teseo sobre las amazonas)	4p
+2p7	*boreia/s	ia	= hija de Bóreas, Boréade (poét.)	p
+2q3	*boukefa/las	ia	Bucéfalo (caballo de Alejandro Magno)	2s
+2qz	*bria/khs	ix	Briaces	0
+2rv	*bubli/s	ix	Biblis (hija de Mileto)	0
+2sr	*ceno/damos	ix	Jenódamo	0
+2tn	*da/mason	ix	= δαμάζω: domar, someter	0
+2uj	*dalmati/a	ia	Dalmacia	0
+2vf	*damo/nikos	ix	Damónico	0
+2wb	*data/mhs	ix	Datames (sátrapa de Capadocia)	0
+2x7	*dei=mos	ia	Deimo, el Espanto (personificado)	0
+2y3	*delfoi/	ia	Delfos (ciudad de Fócide, sede del oráculo de Apolo); el oráculo; los delfios	lp
+2yz	*dhia/neira	ia	Deyanira («la que destruye a su esposo»)	0
+2zv	*dhmhtriano/s	ix	Demetriano	0
+30r	*dhmw/	ia	Demo	0
+31n	*di/ullos	ix	Diilo (historiador ateniense)	0
+32j	*dikai/arxos	ix	Dicearco (filósofo peripatético)	0
+33f	*dioge/nhs	ia	Diógenes	t
+34b	*dionusofa/nhs	ix	Dionisófanes	0
+357	*do/bhros	ix	Dobero (ciudad de Peonia)	0
+363	*douli/xios	ix	de Duliquio, duliquio	0
+36z	*du/ras	ix	Diras (río de Malide)	0
+37v	*dwsia/das	ix	Dosíadas (poeta)	0
+38r	*eu)/boia	ia	Eubea (isla junto a la costa del Ática)	si
+39n	*eu)/nomos	ia	Éunomo; bien gobernado, con buenas leyes	0
+3aj	*eu)ago/rhs	ix	Evágoras (jón.)	0
+3bf	*eu)eti/wn	ix	Evetión	0
+3cb	*eu)krati/dhs	ix	Eucrátides (rey de Bactriana)	0
+3d7	*eu)poli/deios	ia	al estilo de Éupolis; τὸ Εὐπολίδειον: metro eupolideo	3m
+3e3	*eu)rua/nac	ix	Eurianacte (espartano)	0
+3ez	*eu)rusqeu/s	ia	Euristeo	0
+3fv	*eu)xa/ristos	ia	Eucaristo (nombre propio; lit. «agradable»)	0
+3gr	*fa=sis	ia	Fasis (río de la Cólquide; río de Armenia, llamado Araxes en su curso bajo)	56
+3hn	*falhro/nde	ia	a Falero (con movimiento)	0
+3ij	*farnaza/qrhs	ix	Farnazatres (persa)	0
+3jf	*ferekra/ths	ix	Ferécrates (comediógrafo)	0
+3kb	*fi/lios	ia	protector de la amistad (epíteto de Zeus)	0
+3l7	*filh/sios	ix	Filesio (epíteto de Apolo)	0
+3m3	*filodw/rhtos	ix	Filodoreto	0
+3mz	*fle/gwn	ix	Flegonte (de Tralles)	0
+3nv	*foini/kh	ia	Fenicia	4z
+3or	*freattu/s	ix	Freatis (tribunal del Pireo)	0
+3pn	*fuleu/s	ia	Fileo	0
+3qj	*ga/rgaros	ix	Gárgaro (cumbre del Ida; ciudad de la Tróade)	0
+3rf	*gara/ths	ix	Garates (río de Arcadia)	0
+3sb	*gene/sios	ia	protector del linaje (epíteto); τὰ Γενέσια: fiesta en memoria del natalicio de los difuntos	0
+3t7	*gigantofo/ntis	ia	matadora de gigantes	1f
+3u3	*gnh/sippos	ix	Gnesipo	0
+3uz	*gorgo/nion	ia	= ἠρύγγη, cardo corredor	t
+3vv	*gru/neios	ix	Grineo (epíteto de Apolo, de Grinio)	0
+3wr	*ka/llinos	ix	= Καλλῖνος: Calino (poeta elegíaco de Éfeso)	0
+3xn	*ka/rios	ia	cario; el Cario (sobrenombre de Zeus); ἡ Καρία: Caria	4j
+3yj	*kadmhi/s	ia	cadmea, tebana; ἡ Καδμηίς: Tebas, la Cadmea	0
+3zf	*kalau/reia	ia	Calauria (isla frente a Trecén)	91
+40b	*kalli=nos	ix	Calino (poeta elegíaco de Éfeso)	0
+417	*kalu/dnai	ia	Calidnas (islas)	0
+423	*kapi/twn	ix	Capitón	0
+42z	*karpofo/roi	ix	Carpóforas (Deméter y Core)	0
+43v	*kasto/reios	ia	de Cástor	84
+44r	*ke/rkura	ia	Corcira (Corfú, isla del mar Jonio)	6d
+45n	*kelai/nhs	ix	= Κελαιναί: Celenas (ciudad de Frigia)	0
+46j	*kerdw/	ia	Cerdo (lit. «la astuta», la zorra)	0
+47f	*khfeu/s	ia	Cefeo (rey de Etiopía); Cefeo (constelación)	2h
+48b	*ki/ssh	ix	Cisa	0
+497	*kissh=s	ia	Cises (tracio)	0
+4a3	*klei+ppi/dhs	ix	Cleípides (general ateniense)	0
+4az	*kleo/laos	ix	Cleolao	0
+4bv	*kleyu/drh	ia	Clepsidra (fuente de la Acrópolis de Atenas)	0
+4cr	*knakalh/sios	ix	Cnacalesio (epíteto de Ártemis)	0
+4dn	*ko/ptos	ix	Coptos (ciudad del Alto Egipto)	0
+4ej	*koirata/das	ix	Ceratadas (tebano)	0
+4ff	*kompastiko/s	ia	jactancioso, fanfarrón (como nombre cómico)	0
+4gb	*korubantia/w	ia	celebrar los ritos de los Coribantes, estar poseído de frenesí coribántico; περί + ac.: estar obsesionado por algo	91
+4h7	*kra/qis	ix	Cratis (río de Acaya; río del sur de Italia)	0
+4i3	*kre/wn	ia	Creonte (rey de Tebas; rey de Corinto; otros)	0
+4iz	*kri/asos	ix	Críaso (rey de Argos)	0
+4jv	*kro/tos	ia	Croto (lit. «estrépito»)	0
+4kr	*kthsi/hs	ix	= Κτησίας: Ctesias (jón.)	0
+4ln	*ku/pronde	ia	adv. a Chipre (con movimiento)	0
+4mj	*kudaqhnaieu/s	ia	del demo de Cidateneo	0
+4nf	*kullopodi/wn	ia	el Cojo, patizambo (epíteto de Hefesto)	0
+4ob	*kuqh/ra	ia	= Citerea (dór.)	0
+4p7	*kwluergi/h	ix	Coliergia	0
+4q3	*la/mia	ia	Lamia (monstruo femenino que devoraba hombres y niños; coco)	3p
+4qz	*lafri/h	ix	Lafria (epíteto de Ártemis)	0
+4rv	*lamaxi/ppion	ia	pequeño Lámaco a caballo	21
+4sr	*laomh/dhs	ix	Laomedes	0
+4tn	*le/ntoulos	ix	Léntulo	0
+4uj	*leo/ntixos	ix	Leontico	0
+4vf	*leuka/sion	ix	Leucasio (localidad de Arcadia)	0
+4wb	*lewko/rion	ia	Leocorio (templo de las hijas de Leo, en el Cerámico)	0
+4x7	*lhtogenh/s	ia	nacido de Leto	4i
+4y3	*liburniko/s	ia	de Liburnia, liburnio; τὰ Λιβυρνικά: libúrnicas, naves ligeras	o
+4yz	*lo/kros	ix	Locro (epónimo de los locrios); pl. locrios	0
+4zv	*lu/khs	ix	Licas	0
+50r	*ludo/s	ia	de Lidia, lidio	94
+51n	*lukole/wn	ix	Licoleón	0
+52j	*lusimaxei/a	ix	Lisimaquia (ciudad del Quersoneso tracio)	0
+53f	*ma/lxos	ix	Malco	0
+54b	*ma=gos	ia	Mago (n. pr.)	0
+557	*maina/lios	ia	del monte Ménalo; ἡ Μαιναλία: territorio del Ménalo	0
+563	*malieu/s	ia	= Μηλιεύς, malio (dór.)	i
+56z	*margi/ths	ia	Margites (personaje necio y engreído; poema satírico atribuido a Homero)	46
+57v	*maxa/tas	ix	Macatas	0
+58r	*me/nios	ix	Menio	0
+59n	*megado/sths	ix	Megadostes	0
+5aj	*mela/nwpos	ix	Melanopo	0
+5bf	*meli/twn	ix	Melitón	0
+5cb	*menekra/ths	ia	Menécrates (lit. «firme en fuerza»)	0
+5d7	*mesopotami/ths	ia	habitante de Mesopotamia, mesopotamio	0
+5e3	*mh/tis	ia	¿acaso? (= μή τις)	0
+5ez	*mhno/filos	ix	Menófilo	0
+5fv	*mi/ndaros	ix	Míndaro (navarco espartano)	0
+5gr	*miqrai=on	ia	mitreo, santuario de Mitra	1h
+5hn	*mnhsiklh=s	ix	Mnesicles (arquitecto de los Propileos)	0
+5ij	*molossi/a	ia	Molosia (comarca del Epiro)	d
+5jf	*mou=sa	ia	Musa	v2
+5kb	*mu/ndios	ia	de Mindo (pequeña ciudad de la costa de Caria)	0
+5l7	*mukhni/s	ia	micénica, de Micenas (fem.)	0
+5m3	*mutilh/nh	ia	Mitilene (ciudad principal de Lesbos)	5q
+5mz	*nau/kratis	ia	Náucratis (ciudad del delta egipcio)	5p
+5nv	*ne/arxos	ix	Nearco (almirante de Alejandro)	0
+5or	*neilogenh/s	ia	nacido del Nilo	2c
+5pn	*nh/i+on	ia	Neyo (monte de Ítaca)	0
+5qj	*ni=sa	ia	Nisa	0
+5rf	*nikodh/mos	ix	= Nicodemo	0
+5sb	*noume/rios	ix	Numerio	0
+5t7	*oi)/mh	ia	Eme (lit. «canto»)	0
+5u3	*oi)nwa/tis	ix	de Énoe (epíteto de Ártemis)	0
+5uz	*ou)rani/a	ia	Urania (sobrenombre de Afrodita; musa de la astronomía; una Oceánide)	ik
+5vv	*pa/nios	ia	= de Pan, pánico; frenético	1z
+5wr	*paflagw/n	ia	paflagonio	6p
+5xn	*paiwnia/	ix	Peonia	0
+5yj	*pamfuli/a	ia	Panfilia (región de Asia Menor)	1e
+5zf	*pani/wnes	ia	todos los jonios, la confederación jonia	57
+60b	*paraibasi/on	ix	Parebasio	0
+617	*parqenw/n	ia	Partenón	0
+623	*patira/mfhs	ix	Patiranfes (auriga de Jerjes)	0
+62z	*pe/rdikkos	ix	= Perdicas	0
+63v	*pei/rhs	ix	Pires	0
+64r	*pelargiko/s	ia	Pelárgico (muro de la Acrópolis de Atenas; lit. «de la cigüeña»)	0
+65n	*peprwme/nh	ix	el Destino (personificado)	0
+66j	*periklei/dhs	ix	Periclides	0
+67f	*petrai/a	ix	Petrea (oceánide)	0
+68b	*phnelo/peia	ia	Penélope (hija de Icario, esposa de Odiseo)	3l
+697	*pieri/hqen	ia	desde Pieria	0
+6a3	*plagktai/	ia	las Planctas, las Rocas Errantes	0
+6az	*pleurw/nios	ia	de Pleurón, pleuronio	0
+6bv	*po/ntinos	ix	Pontino (nombre romano)	0
+6cr	*polieu/s	ia	Polieo, protector de la ciudad (epíteto de Zeus)	88
+6dn	*polu/stratos	ix	Polístrato	0
+6ej	*polume/dwn	ix	Polimedonte	0
+6ff	*porno/pios	ia	Pornopio (mes de Cime) = Παρνόπιος	26
+6gb	*potniai/	ia	Potnias (ciudad de Beocia)	67
+6h7	*preuge/nhs	ix	Preugenes	0
+6i3	*pro/noos	ia	Prónoo (n. pr.)	0
+6iz	*propo/dhs	ix	Propodas (rey de Corinto)	0
+6jv	*prwtogenei/a	ix	Protogenia (hija de Deucalión)	0
+6kr	*pu/lwn	ia	Pilón (n. pr.)	0
+6ln	*pulago/ras	ia	pilágoras, delegado en el consejo anfictiónico de Pilas	bd
+6mj	*puqiko/s	ia	pítico, pitio, de Pito; ἆθλα Πυθικά: los Juegos Píticos	e0
+6nf	*purai/xmhs	ia	Pirecmes (n. pr.)	0
+6ob	*qai/s	ia	Tais (cortesana)	0
+6p7	*qe/sprwtos	ix	Tesproto (epónimo de los tesprotos)	0
+6q3	*qemistago/ras	ix	Temistágoras	0
+6qz	*qeodw/rhtos	ia	Teodoreto (n. pr.)	0
+6rv	*qessa/leios	ia	= Θεσσαλός: tesalio	g
+6sr	*qhbaigenh/s	ia	= Θηβαγενής: nacido en Tebas	d
+6tn	*qou/mantis	ix	Túmantis	0
+6uj	*qrasudh/ios	ix	Trasideo (jón.)	0
+6vf	*questia/dhs	ia	Tiestíada, hijo de Tiestes (Egisto)	0
+6wb	*sa/kai	ia	los sacas (pueblo escita)	0
+6x7	*sabakw=n	ix	Sabacón (rey etíope de Egipto)	0
+6y3	*samarei/a	ia	Samaria	0
+6yz	*sarma/ths	ia	= Σαυρομάτης: sármata	1a
+6zv	*sauromatiko/s	ix	sauromático, de los saurómatas	0
+70r	*sei=rai	ix	Siras	0
+71n	*seuh=ros	ix	Severo	0
+72j	*si/dh	ia	Side (ciudad de Panfilia)	0
+73f	*sido/nes	ia	los sidonios, hombres de Sidón	4j
+74b	*simiako/n	ia	simíaco (metro llamado así por Simias)	1u
+757	*ska/mandros	ia	Escamandro (río de la Tróade; su dios)	8q
+763	*skierei/a	ix	Escierea (fiesta de Dioniso en Arcadia)	0
+76z	*sku/qaina	ia	escita (mujer); nombre de esclava	1k
+77v	*smi/nqios	ia	= Esminteo (epíteto de Apolo)	d
+78r	*sou/sios	ia	de Susa	1b
+79n	*spartiatiko/s	ia	de Esparta, de los espartiatas	0
+7aj	*sta/sippos	ix	Estasipo	0
+7bf	*sti/lpwn	ia	Estilpón (n. pr.)	0
+7cb	*strofi/os	ix	Estrofio (padre de Pílades)	0
+7d7	*su/fac	ix	Sífax (rey de Numidia)	0
+7e3	*sura/kousa	ia	= Siracusa	f
+7ez	*swfa/nhs	ix	Sófanes (de Decelia)	0
+7fv	*swti/wn	ix	Sotión	0
+7gr	*tainari/zw	ia	celebrar las Tenarias	1j
+7hn	*tartaro/frouros	ia	guardián del Tártaro	1b
+7ij	*te/kmhssa	ia	Tecmesa (cautiva de Áyax)	0
+7jf	*tektoni/dhs	ia	hijo de Tecton (Polineo)	0
+7kb	*tene/h	ix	Tenea (aldea de Corinto)	0
+7l7	*th/leklos	ix	Teleclo (rey de Esparta)	0
+7m3	*thrhi/s	ix	Tereide	0
+7mz	*tilfou=sa	ix	Tilfusa (fuente de Beocia)	0
+7nv	*timokra/ths	ia	Timócrates	0
+7or	*titanografi/a	ia	historia de los Titanes	1o
+7pn	*torw/nh	ia	Torona (ciudad de Macedonia)	0
+7qj	*tri/krana	ix	Tricrana (isla de la Argólide)	0
+7rf	*tritopa/twr	ia	bisabuelo; pl.: Tritopátores (divinidades veneradas en Atenas)	do
+7sb	*trwni/s	ix	Trónide (lugar de Fócide)	0
+7t7	*turofa/gos	ia	Tirófago («Comequesos», nombre de ratón)	0
+7u3	*xa/rmis	ix	Carmis	0
+7uz	*xalkidiko/s	ia	de Calcis, calcídico; ἡ Χαλκιδική: territorio de Calcis o Calcídica	0
+7vv	*xarw/ndhs	ix	= Χαρώνδας: Carondas (legislador de Catania)	0
+7wr	*xi/leus	ix	Quileo (de Tegea)	0
+7xn	*xoro/s	ia	Coro (n. pr.)	0
+7yj	*xrusaori/s	ix	Crisaóride	0
+7zf	*ywfi/s	ix	Psófide (ciudad de Arcadia)	0
+80b	*zhi+/las	ix	Zeilas (rey de Bitinia)	0
+817	a(/dicis	ia	acuerdo (tarent.)	1x
+823	a(/pac	ia	una vez, una sola vez; de una vez para siempre; una vez que	19w
+82z	a(bro/ths	ia	delicadeza, refinamiento; molicie, lujo; afectación	d5
+83v	a(fh/	ia	sentido del tacto; tacto, contacto; presa (en la lucha); encendido	14v
+84r	a(gnistiko/s	ia	= ἁγνευτικός, purificatorio	10
+85n	a(li/klustos	ia	bañado por el mar	5g
+86j	a(li/zwos	ia	que vive en el mar	2m
+87f	a(likrh/pis	ia	a la orilla del mar	1p
+88b	a(lmeu/w	ia	poner en salmuera, escabechar	1r
+897	a(lu/sion	ia	cadenilla	2t
+8a3	a(maceu/w	ia	ser carretero; recorrer en carro; pas.: ser transitado por carros	9e
+8az	a(marthtiko/s	ia	propenso a errar	2d
+8bv	a(pali/as	ia	lechón	2c
+8cr	a(plotome/w	ia	hacer una incisión simple	38
+8dn	a(rmatodro/mos	ia	que corre en carro	1o
+8ej	a(rpa/candros	ia	que arrebata a los hombres	31
+8ff	a(yi/maxos	ia	= φιλοκίνδυνος, amigo del peligro, provocador	2o
+8gb	a)/briktos	ia	desvelado, insomne	1x
+8h7	a)/dendros	ia	sin árboles	2j
+8i3	a)/ella	ia	torbellino de viento, tempestad, huracán	cn
+8iz	a)/fippos	ia	que no sabe montar a caballo; poco apto para la caballería (terreno)	8p
+8jv	a)/fukos	ia	sin afeites	10
+8kr	a)/gkistron	ia	anzuelo	6a
+8ln	a)/graulos	ia	que vive o pernocta en el campo	b9
+8mj	a)/idros	ia	ignorante	0
+8nf	a)/khma	ia	remedio, cura	26
+8ob	a)/komos	ia	sin cabellera, calvo	2w
+8p7	a)/ktitos	ia	no cultivado	1v
+8q3	a)/lgistos	ia	muy doloroso, el más doloroso	4m
+8qz	a)/lludis	ia	a otra parte, en otra parte	a3
+8rv	a)/margos	ia	insaciable	10
+8sr	a)/micos	ia	= ἄμικτος, sin mezcla	15
+8tn	a)/muos	ia	sin músculo aparente	2h
+8uj	a)/naspis	ia	sin escudo	1w
+8vf	a)/neuros	ia	sin tendones; sin fuerza, flojo	5d
+8wb	a)/normos	ia	sin puerto, inabordable	42
+8x7	a)/ntarxos	ia	promagistrado	14
+8y3	a)/ogkos	ia	sin volumen, delgado; inmaterial	6p
+8yz	a)/peimi2	ia	irse, marcharse, partir	sl	intr. · + gen. o ἐκ/ἀπό + gen.: irse de · + εἰς/πρός + ac.
+8zv	a)/ploia	ia	imposibilidad de navegar, tiempo contrario a la navegación	9k
+90r	a)/pratos	ia	no vendido; invendible	59
+91n	a)/qhlus	ia	no afeminado; no femenino	1j
+92j	a)/rakos	ia	almorta, especie de guisante silvestre	6w
+93f	a)/rkesma	ia	= ἄρκεσις, socorro	r
+94b	a)/rraistos	ia	ileso	17
+957	a)/rua	ia	nueces	q
+963	a)/sigmos	ia	sin sigma	54
+96z	a)/spartos	ia	no sembrado; que crece sin cultivo	58
+97v	a)/stolos	ia	sin vestido; no equipado	3d
+98r	a)/tefros	ia	sin ceniza (epíteto del laurel)	12
+99n	a)/trofos	ia	mal alimentado; extenuado; no nutritivo	c5
+9aj	a)/xnh	ia	eflorescencia de la superficie; tamo, paja; espuma; rocío; lágrima	yv
+9bf	a)/yeustos	ia	que no miente, veraz	4e
+9cb	a)=tos	ia	insaciable (+ gen.)	t
+9d7	a)basa/nistos	ia	no sometido a tortura; sin sufrimiento; no examinado	9r
+9e3	a)blhxro/s	ia	débil, indefenso; suave, dulce (muerte)	83
+9ez	a)bu/rseutos	ia	no curtido	18
+9fv	a)cio/mnhstos	ia	= ἀξιομνημόνευτος, memorable	11
+9gr	a)cioqau/mastos	ia	digno de admiración	29
+9hn	a)da/mastos	ia	indomable, inflexible	66
+9ij	a)dei/mantos	ia	que no se asusta, intrépido; donde no hay nada que temer	7l
+9jf	a)dhfagi/a	ia	voracidad, glotonería	40
+9kb	a)dia/doxos	ia	sin sucesor, perpetuo	21
+9l7	a)dia/spastos	ia	no separado, ininterrumpido	5j
+9m3	a)dianohsi/a	ia	inconcebibilidad	1f
+9mz	a)dikhte/os	ia	que debe ser agraviado (adj. verbal de ἀδικέω)	0
+9nv	a)do/khtos	ia	imprevisto, inesperado; ἐκ τοῦ ἀδοκήτου: de improviso	hp
+9or	a)duname/w	ia	carecer de fuerza, ser incapaz (+ inf.)	35
+9pn	a)eci/bios	ia	que crece mientras se vive	1q
+9qj	a)ei/zwos	ia	siempre vivo, eterno; perenne (planta)	dt
+9rf	a)eimeristo/s	ia	divisible hasta el infinito	1i
+9sb	a)elpti/a	ia	sorpresa, suceso imprevisto; ἐξ ἀελπτίης: de improviso	3r
+9t7	a)eromaxi/a	ia	combate en los aires	17
+9u3	a)fa/brwma	ia	vestido de mujer (en Mégara)	26
+9uz	a)fane/w	ia	no comparecer	3o
+9vv	a)fe/yhma	ia	decocción	2r
+9wr	a)feu/w	ia	encender, quemar, chamuscar; cocer	b3
+9xn	a)fi/a	ia	celidonia menor (planta)	20
+9yj	a)filo/neikos	ia	no amigo de disputas, conciliador	60
+9zf	a)fo/bhtos	ia	sin temor de (+ gen.)	2z
+a0b	a)foplisth/s	ia	el que desarma	1j
+a17	a)fra=ton	ia	espuma, crema batida (lat. aphratum)	3k
+a23	a)frontiste/w	ia	despreocuparse de (+ gen.); ser despreocupado, indiferente	8g
+a2z	a)fupnismo/s	ia	vigilia, el mantenerse despierto	14
+a3v	a)ga/w	ia	= ἀγάζομαι, admirar; envidiar	n
+a4r	a)ganakthte/on	ia	hay que quejarse o indignarse	13
+a5n	a)gaqoerge/w	ia	hacer el bien, hacer bien; ayudar	2h
+a6j	a)ge/loios	ia	no ridículo	2w
+a7f	a)geliko/s	ia	de rebaño	1v
+a8b	a)ggeliafore/w	ia	llevar mensajes	1a
+a97	a)gkalidagwgo/s	ia	que lleva una brazada o un haz (bestia de carga)	3t
+aa3	a)gkulo/kwlos	ia	de miembros torcidos	1l
+aaz	a)glaismo/s	ia	adorno, ornamento	0
+abv	a)gne/w	ia	= ἄγω, conducir (dór.)	1p
+acr	a)gora/omai	ia	tomar parte en una asamblea; arengar; hablar, decir	l0	intr. · + dat.: hablar con
+adn	a)gre/ths	ia	= ἡγεμών, jefe; dios de los campos (Apolo en Quíos)	4x
+aej	a)grio/fwnos	ia	de voz salvaje, de lenguaje bárbaro	37
+aff	a)grodi/aitos	ia	que vive en el campo	1c
+agb	a)grw/ths	ia	rústico; salvaje	2a
+ah7	a)gwni/a	ia	lucha en los juegos, ejercicio; lucha en general; ansiedad, angustia	k6
+ai3	a)gxi/ploos	ia	cercano por mar, a corta navegación	2t
+aiz	a)gxistiko/s	ia	propio del parentesco próximo (ἀγχιστεία)	1t
+ajv	a)hdo/nion	ia	ruiseñor pequeño (dim. de ἀηδών)	1g
+akr	a)ikh/s	ix	= ἀεικής: indecoroso, vergonzoso	0
+aln	a)ka/toptos	ia	no observado, inadvertido	y
+amj	a)kamph/s	ia	= ἄκαμπτος, inflexible, rígido	3q
+anf	a)kaqekte/omai	ia	estar desocupado, vacío	2h
+aob	a)kata/seistos	ia	inconmovible	z
+ap7	a)katapo/nhtos	ia	inagotable, infatigable	1u
+aq3	a)ke/leustos	ia	no mandado, espontáneo	3x
+aqz	a)kerseko/mhs	ia	de cabellera intonsa, de larga cabellera; en la flor de la juventud	at
+arv	a)khli/dwtos	ia	sin mancha, inmaculado	56
+asr	a)kkiph/sios	ia	esturión	1n
+atn	a)ko/llhtos	ia	no pegado, no adherido; no cicatrizado; imposible de unir	6f
+auj	a)kola/sthma	ia	acto licencioso	2q
+avf	a)kontodo/kos	ia	alcanzado por el dardo	1s
+awb	a)koustiko/s	ia	relativo al oído, auditivo; que escucha de buen grado, dócil a (+ gen.)	cn
+ax7	a)krato/frwn	ia	falto de dominio de sí	29
+ay3	a)kribasth/s	ia	legislador; investigador	1y
+ayz	a)kro/drua	ia	frutos de árbol, frutos de cáscara dura	jp
+azv	a)kro/tonos	ia	tenso al máximo, musculoso	1z
+b0r	a)krobuste/w	ia	ser incircunciso	2e
+b1n	a)kronugw=s	ia	tocándose por el borde	29
+b2j	a)kroteleu/tion	ia	final, remate (de un verso, de un poema)	4q
+b3f	a)krwthri/asma	ia	mutilación	1t
+b4b	a)ktinwto/s	ia	adornado con rayos; dentado (de ruedas)	3q
+b57	a)la/lhmai	ia	andar errante (pf. de ἀλάομαι)	cf
+b63	a)lao/s	ia	ciego; οἱ ἀλαοί: los muertos; que ciega	j4
+b6z	a)le/pistos	ia	sin escamar; sin pelar; no espadado (del lino)	4k
+b7v	a)leh/s	ia	ἀλεὴς ὕπνος: siesta en las horas de calor	2x
+b8r	a)lektruw/n	ia	gallo, gallina; ave	7z
+b9n	a)lfitei=on	ia	molino para harina de cebada	1y
+baj	a)lgunth/r	ia	que causa dolor	1l
+bbf	a)lhto/s	ia	= ἀλετός (poét.), molienda	2k
+bcb	a)lith/rios	ia	culpable, criminal; + gen.: contra	d1
+bd7	a)lkuoni/des	ia	días del alción (días serenos de invierno)	0
+be3	a)llhgoriko/s	ia	figurado, alegórico	40
+bez	a)llo/gnwtos	ia	desconocido, irreconocible, extraño	14
+bfv	a)lloini/a	ia	consumo de varios vinos, mezcla de bebidas	1x
+bgr	a)llotriofagi/a	ia	acción de comer el pan ajeno	i
+bhn	a)logoeidh/s	ia	irracional	1x
+bij	a)lu/h	ia	encaje de la esteva	3k
+bjf	a)lwpe/keios	ia	de zorra	7l
+bkb	a)mai/eutos	ia	aún no dado a luz; sin ayuda de comadrona	3k
+bl7	a)mau/rwma	ia	oscurecimiento	37
+bm3	a)mbluwsmo/s	ia	vista débil, turbia	22
+bmz	a)me/qektos	ia	imparticipable	5s
+bnv	a)melhtiko/s	ia	escrito descuidadamente (de una nota musical)	2n
+bor	a)meta/klastos	ia	inquebrantable, inflexible	1y
+bpn	a)metrobaqh/s	ia	inmensamente profundo	1f
+bqj	a)mfeli/ssw	ia	enrollar alrededor, envolver; med.: enrollar algo alrededor de algo	6x
+brf	a)mfi/doxmos	ia	tan grueso que llena ambas manos	2v
+bsb	a)mfi/kurtos	ia	convexo por ambos lados; de dos cuernos (luna)	8x
+bt7	a)mfi/rutos	ia	bañado alrededor, rodeado por el mar (poét.)	5r
+bu3	a)mfiblhstreu/w	ia	pescar con red	1c
+buz	a)mfidone/w	ia	agitar en todos sentidos o violentamente	33
+bvv	a)mfika/rhnos	ia	bicéfalo, de dos cabezas	31
+bwr	a)mfima/xomai	ia	combatir alrededor de (+ ac.); combatir por (+ gen.)	8w
+bxn	a)mfipli/ssw	ia	ponerse a horcajadas	u
+byj	a)mfistefh/s	ia	colocado alrededor como una corona; lleno hasta el borde	43
+bzf	a)mforeu/s	ia	ánfora; medida de líquidos (unos 20 l)	io
+c0b	a)mhth/r	ia	segador	5g
+c17	a)mistu/lleutos	ia	= ἀμίστυλλος, no cortado en trozos	2h
+c23	a)mnhsi/a	ia	olvido; amnistía	34
+c2z	a)moibh/	ia	cambio; retribución, recompensa, compensación; respuesta; castigo	vp
+c3v	a)mpala/gma			0
+c4r	a)mpelourgiko/s	ia	relativo al cultivo de la vid; fem.: viticultura	5m
+c5n	a)mu/ristos	ia	no perfumado	46
+c6j	a)musthri/astos	ia	no iniciado	1v
+c7f	a)na/desmos	ia	= ἀναδέσμη, cinta; venda para el pecho	2w
+c8b	a)na/gnwsma	ia	texto para leer; lectura	54
+c97	a)na/kwlos	ia	de piernas o miembros cortos; recortado	4l
+ca3	a)na/ndrwtos	ia	sin marido	1c
+caz	a)na/pthsis	ia	vuelo hacia arriba	1s
+cbv	a)na/rruma	ia	víctima (de sacrificio)	29
+ccr	a)na/tlhma	ia	sufrimiento, paciencia	z
+cdn	a)nabaqmi/s	ia	escalón, peldaño	18
+cej	a)naboliko/s	ia	llenado por máquina; diferido, aplazado	82
+cff	a)nada/simos	ia	que se ha de repartir de nuevo	1t
+cgb	a)nadiplo/w	ia	redoblar, duplicar	9i
+ch7	a)nafobe/w	ia	asustar, espantar	15
+ci3	a)nafwnhtikw=s	ia	como exclamación	1d
+ciz	a)nagkope/dh	ia	grillete	z
+cjv	a)nagwgeu/s	ia	el que hace subir; correa (del escudo, de la sandalia)	6c
+ckr	a)naimorra/ghtos	ia	sin hemorragia	2b
+cln	a)nakaini/zw	ia	renovar	79
+cmj	a)nakla/zw	ia	lanzar gritos, gritar	73
+cnf	a)nakoirane/w	ia	mandar, gobernar	1x
+cob	a)nakrou/w	ia	preludiar (un instrumento); hacer retroceder, detener bruscamente; med.: ciar	qf	tr. · med.: ciar, retroceder
+cp7	a)nakwxa/zw	ia	detener (una nave)	1g
+cq3	a)nalo/w	ia	= ἀναλίσκω, gastar, consumir; med.: destruirse	d
+cqz	a)namarth/s	ia	infalible	16
+crv	a)namime/omai	ia	imitar	t
+csr	a)nanoe/w	ia	recordar, traer a la memoria	1x
+ctn	a)napau/simos	ia	de descanso, para el descanso	1h
+cuj	a)napida/w	ia	= διαπιδάω, rezumar	1i
+cvf	a)napo/grafos	ia	no registrado; de contrabando	6j
+cwb	a)napomph/	ia	reenvío, transporte; evocación (de los muertos)	bc
+cx7	a)naqea/omai	ia	contemplar de nuevo	1t
+cy3	a)nari/qmhtos	ia	innumerable; infinito	5j
+cyz	a)narro/fhsis	ia	succión (por un tubo)	20
+czv	a)naskeuaste/on	ia	hay que refutar	1z
+d0r	a)nastei/bw	ia	pisotear	16
+d1n	a)nasu/romai	ix	arremangarse, levantarse la ropa	0
+d2j	a)natomh/	ia	disección	7h
+d3f	a)nauch/s	ia	que no crece	54
+d4b	a)naxw/neusis	ia	fundición (de estatuas)	1o
+d57	a)nazumo/w	ia	hacer fermentar, esponjar; pas.: fermentar	3u
+d63	a)ndrapo/dion	ia	esclavillo	2d
+d6z	a)ndrianti/skos	ia	estatuilla	43
+d7v	a)ndrobate/w	ia	sodomizar	1b
+d8r	a)ndrologi/a	ia	reclutamiento (lectura dudosa)	32
+d9n	a)ne/gertos	ia	no interrumpido por el despertar	2c
+daj	a)ne/liktos	ia	sin vueltas ni recodos	2c
+dbf	a)ne/stios	ia	sin hogar; errante, vagabundo	7g
+dcb	a)necixni/astos	ia	cuyo rastro no se puede seguir, inescrutable	29
+dd7	a)neiki/a	ia	reconciliación (nombre pitagórico de la péntada y de la enéada)	3w
+de3	a)nele/htos	ia	despiadado	2h
+dez	a)nemotrafh/s	ia	= ἀνεμοτρεφής, alimentado por el viento	y
+dfv	a)nepaiti/atos	ia	no acusado	19
+dgr	a)nepi/kritos	ia	no decidido, indeterminado; confuso	br
+dhn	a)nepieikh/s	ia	sin indulgencia, duro, poco razonable	6v
+dij	a)nepista/qmeutos	ia	exento de alojamiento militar	3b
+djf	a)nerga/zomai	ia	amasar, elaborar	11
+dkb	a)neufhme/w	ia	lanzar un grito (de dolor o de horror)	e3	intr.
+dl7	a)nh/lipos	ia	descalzo	2m
+dm3	a)nhlegh/s	ia	despreocupado, temerario	2i
+dmz	a)ni/eros	ia	no consagrado, profano	8q
+dnv	a)nierwsti/	ia	impíamente, sin ritos sagrados	v
+dor	a)nisoplhqh/s	ia	desigual en número	21
+dpn	a)no/moios	ia	desemejante, diferente de, + dat.	ap
+dqj	a)nohti/a	ia	= ἀνοησία, insensatez (át.)	1q
+drf	a)nokwxeu/w	ia	= ἀνακωχεύω, retener, contener (át.)	he	tr. e intr.
+dsb	a)nomoiogenh/s	ia	de distinto género	32
+dt7	a)nortali/zw	ia	batir las alas en señal de victoria; ufanarse	1u
+du3	a)nqa/rpagma	ia	objeto tomado en represalia o como prenda	2b
+duz	a)nqh/eis	ia	de colores vivos	2x
+dvv	a)nqobafi/a	ia	tinte de colores vivos	1s
+dwr	a)nqotro/fos	ia	= ἀνθοβοσκός, que produce flores	14
+dxn	a)nqrwpeu/omai	ia	vivir o actuar como un hombre	48
+dyj	a)nqrwpoktoni/a	ia	homicidio; sacrificio humano	10
+dzf	a)nqupalla/ssw	ia	sustituir; intercambiar (casos o modos, ret.)	82
+e0b	a)nta/llaktos	ia	tomado como equivalente	1u
+e17	a)ntakolouqi/a	ia	= ἀντακολούθησις, implicación recíproca; correspondencia	2m
+e23	a)ntani/sthmi	ia	tr.: levantar en respuesta o contra; intr.: resistir (+ dat.); luchar uno contra otro	7a
+e2z	a)ntariqme/w	ia	contar uno frente a otro	1d
+e3v	a)nte/romai	ia	preguntar a su vez	0
+e4r	a)nteisakte/on	ia	hay que restituir	2g
+e5n	a)ntenanti/wsis	ia	lítotes (ret.)	3y
+e6j	a)ntepimetre/w	ia	medir a su vez	16
+e7f	a)nteuergete/w	ia	devolver un favor, corresponder a un beneficio	2t
+e8b	a)nti/doulos	ia	tratado como esclavo, en lugar de esclavo	4x
+e97	a)nti/luros	ia	semejante a la lira, que responde a la lira	37
+ea3	a)nti/pracis	ia	resistencia, oposición	3f
+eaz	a)nti/tacis	ia	formación en orden de batalla contra; resistencia	90
+ebv	a)ntibasileu/s	ia	interrex	17
+ecr	a)ntidhmagwge/w	ia	ser jefe de un partido popular rival	2z
+edn	a)ntidoce/w	ia	ser de opinión contraria (= ἀντιδοξάζω)	38
+eej	a)ntifra/ssw	ia	oponer una barrera, atrancar, blindar; interponerse, interceptar	lu	tr. · + dat.: interponerse ante
+eff	a)ntikallwpi/zomai	ia	ufanarse de algo por contraste con otra cosa	29
+egb	a)ntiki/nhsis	ia	movimiento contrario	3a
+eh7	a)ntila/mpw	ia	hacer señales luminosas en respuesta; reflejar la luz; brillar enfrente, deslumbrar (+ dat.)	dp	tr. e intr. · + dat.: brillar frente a
+ei3	a)ntimai/nomai	ia	enfurecerse contra o a su vez; corresponder con pasión	4w
+eiz	a)ntimetalleu/w	ia	contraminar	29
+ejv	a)ntioxeu/omai	ia	copular de modo inverso	1q
+ekr	a)ntiparaqe/w	ia	cargar contra el enemigo, flanquear	2g
+eln	a)ntipe/rhqen	ia	desde el otro lado	3c
+emj	a)ntipole/mios	ia	que hace la guerra contra, beligerante, enemigo	8j
+enf	a)ntiproskune/w	ia	postrarse a su vez, adorar a su vez	1g
+eob	a)ntiskote/w	ia	obstaculizar, oscurecer	1c
+ep7	a)ntistra/thgos	ia	general enemigo; propretor, procónsul (en Roma)	jo
+eq3	a)ntiteixi/zw	ia	levantar contrafortificaciones; fortificar en lugar de	5u
+eqz	a)ntitupo/w	ia	expresar como en una imagen	1z
+erv	a)ntli/on	ia	= ἀντλιατήρ, cubo	1a
+esr	a)ntroeidh/s	ia	semejante a una caverna, cavernoso	1r
+etn	a)nu/w	ia	llevar a término, cumplir, acabar; recorrer rápidamente; obtener, conseguir	423	tr. · + ac. de lugar: recorrer · ἀνύσας + imperat.: ¡rápido! · οὐδὲν ἀ.: no conseguir nada
+euj	a)nupo/dikos	ia	no sujeto a proceso, impune	3p
+evf	a)nw/dunos	ia	exento de dolor; indoloro; calmante	p8
+ewb	a)nwmologhme/nws	ia	reconocidamente	2l
+ex7	a)oidoto/kos	ia	que engendra cantos, inspirador del canto	1h
+ey3	a)pa/llacis	ia	posibilidad de retirada	3x
+eyz	a)pa/tmisis	ia	evaporación	1h
+ezv	a)pagri/wsis	ia	vuelta al estado salvaje	1s
+f0r	a)paithtiko/s	ia	exigente; τὸ ἀ.: estado de necesidad	24
+f1n	a)pallotri/wsis	ia	enajenación; extrañamiento (+ gen.)	58
+f2j	a)panaxwre/w	ia	retirarse, alejarse	5o
+f3f	a)paqh/s	ia	que no sufre, ileso, intacto; que no ha experimentado (+ gen.); impasible	1l2
+f4b	a)parallaci/a	ia	indistinguibilidad; inmutabilidad	5d
+f57	a)parke/w	ia	bastar, ser suficiente; contentarse con	a5
+f63	a)paspa/zomai	ia	despedirse de, + ac.	3v
+f6z	a)paulismo/s	ia	ataque por dormir a la luz de la luna	3e
+f7v	a)pe/rdw	ia	realizar, llevar a cabo	1d
+f8r	a)pei/rwn1	ia	inexperto, ignorante	lq
+f9n	a)peiro/gamos	ia	no casado, virgen	2r
+faj	a)peklanqa/nomai	ia	olvidar por completo, dejar de lado, + gen.	32
+fbf	a)penanti/os	ia	opuesto, situado enfrente	0
+fcb	a)peri/graptos	ia	no anulado, válido	1l
+fd7	a)perio/ristos	ia	ilimitado, infinito; indefinible	6e
+fe3	a)peuqh/s	ia	desconocido, de quien no se tiene noticia; ignorante de	7v
+fez	a)ph/xhsis	ia	resonancia, eco	54
+ffv	a)pi/melos	ia	sin grasa, magro	59
+fgr	a)pisxnante/on	ia	hay que adelgazar	1h
+fhn	a)plusi/a	ia	suciedad; aplisia (esponja de color amarillo sucio)	4f
+fij	a)po/desis	ia	ligadura, atadura	47
+fjf	a)po/geios	ia	que viene de tierra (viento); τὰ ἀ.: amarras; alejado de la tierra	m2
+fkb	a)po/knisis	ia	acción de pellizcar, despunte	1n
+fl7	a)po/loipos	ia	restante, sobrante; τὰ ἀπόλοιπα: atrasos impagados	41
+fm3	a)po/peira	ia	prueba, ensayo	5c
+fmz	a)po/qrausis	ia	rotura, fractura	46
+fnv	a)po/skhyis	ia	fijación (de humores en una parte del cuerpo)	5b
+for	a)po/tauros	ia	apartado del toro	1l
+fpn	a)po/xuma	ia	lo derramado; = ζώπισσα, pez raspada de las naves; cierto emplasto	4t
+fqj	a)pobi/wsls	ia	cese de la vida, muerte	0
+frf	a)poce/nwsis	ia	estancia en el extranjero	2n
+fsb	a)pode/w2	ia	faltar (para completar), ser menos de; ser inferior a (+ gen.)	hs	intr. · + gen.: faltar, ser inferior a · ὀλίγου + inf.: faltar poco para
+ft7	a)podhlo/w	ia	exponer, revelar, manifestar	75
+fu3	a)podioriste/on	ia	hay que delimitar, hay que separar	24
+fuz	a)poduth/rion	ia	vestuario de los baños, apoditerio	3n
+fvv	a)pofoita/w	ia	dejar de frecuentar	ee	intr. · + gen.: dejar de frecuentar
+fwr	a)pogalakti/zw	ia	destetar	36
+fxn	a)pografh/	ia	registro, lista; denuncia escrita, acusación	sl
+fyj	a)poikono/mhsis	ia	acción de deshacerse de algo	1o
+fzf	a)pokaqari/zw	ia	limpiar, purificar	1j
+g0b	a)pokekalumme/nws	ia	abiertamente, al descubierto	2a
+g17	a)poklhrwte/on	ia	hay que decidir por sorteo	1m
+g23	a)pokopte/on	ia	hay que cortar	1q
+g2z	a)pokrote/w	ia	chasquear los dedos; golpear contra el suelo	2k
+g3v	a)polagxa/nw	ia	obtener por sorteo una parte de; no obtener en el sorteo	el	tr. · + ac. o gen.: obtener por sorteo parte de
+g4r	a)polhptiko/s	ia	relativo al cobro de una deuda	2e
+g5n	a)polopi/zw	ia	= ἀπολέπω, pelar, desollar	3n
+g6j	a)pomanqa/nw	ia	desaprender, olvidar	4k
+g7f	a)pomnhmo/neuma	ia	dicho o hecho memorable; pl.: Memorables (obra de Jenofonte)	65
+g8b	a)ponemhth/s	ia	distribuidor	15
+g97	a)ponwti/zw	ia	hacer volver la espalda, poner en fuga	31
+ga3	a)popera/twsis	ia	terminación, fin; término final	6b
+gaz	a)poplhgi/a	ia	= ἀποπληξία, apoplejía	t
+gbv	a)popri/asqai	ia	comprar	3k
+gcr	a)popwma/zw	ia	destapar, quitar la tapa	1k
+gdn	a)poqhri/wsis	ia	conversión en fiera; embrutecimiento	3y
+gej	a)porhtiko/s	ia	inclinado a dudar, escéptico, aporético	7c
+gff	a)porripi/zw	ia	disipar soplando	4e
+ggb	a)posfh/lwsis	ia	fracaso	u
+gh7	a)poski/dnamai	ia	dispersarse, alejarse de, + gen.	0
+gi3	a)poso/bhma	ia	lo que ahuyenta el mal; = ἀποσόβησις, ahuyentamiento	3u
+giz	a)posta/tis	ia	rebelde (fem. de ἀποστάτης)	29
+gjv	a)posterhtiko/s	ia	inclinado a despojar, a robar	43
+gkr	a)postratopedeu/omai	ia	acampar aparte, lejos de (+ gen.)	48
+gln	a)posxi/zw	ia	hender, separar cortando; desgajar, separar	o1	tr. · + ἀπό + gen.: separar de · pas. + gen.
+gmj	a)potelestiko/s	ia	que realiza, que produce (+ gen.); consecutivo (gram.)	an
+gnf	a)potmhte/on	ia	hay que cortar; hay que extirpar	3t
+gob	a)potropia/zw	ia	apartar de sí; med.: conjurar con un sacrificio expiatorio	5o
+gp7	a)pouri/a	ia	descendencia de libre y esclava	1d
+gq3	a)poxruso/w	ia	convertir en oro o en dinero	24
+gqz	a)pozeu/gnumai	ix	desuncir; separar	0
+grv	a)pro/qesmos	ia	sin plazo fijo	20
+gsr	a)pro/syaustos	ia	intocable	1g
+gtn	a)prosde/htos	ia	= ἀπροσδεής, que no necesita	1w
+guj	a)prostasi/astos	ia	sin protector ni tutor	2l
+gvf	a)pw/mastos	ia	sin tapa	1v
+gwb	a)qallh/s	ia	sin verdor, sin follaje	b
+gx7	a)qelgh/s	ia	no apaciguado; que no calma	2y
+gy3	a)qh/htos	ia	= ἀθέατος, que no se puede contemplar, invisible (jón.)	35
+gyz	a)qloqeti/a	ia	= ἀθλοθεσία, cargo de atloteta	d
+gzv	a)qurma/tion	ia	juguetito; favorito	24
+h0r	a)raio/fqalmos	ia	de pocas yemas (sarmiento)	1t
+h1n	a)rdalo/w	ia	embadurnar, ensuciar; aplicar un emplasto; pas.: estar sucio	58
+h2j	a)reta/w	ia	prosperar, ser feliz	8e
+h3f	a)rgino/eis	ia	blanco brillante (terrenos calcáreos)	8p
+h4b	a)rgurismo/s	ia	obtención de dinero, lucro	4e
+h57	a)rguropoii/a	ia	producción de plata	0
+h63	a)ri/dalos	ia	= ἀρίδηλος, muy claro (dór.)	j
+h6z	a)riqmo/s	ia	número, cantidad; cuenta, cómputo; rango, consideración; orden, ritmo	3o4
+h7v	a)risto/mantis	ia	excelente adivino	1h
+h8r	a)rixa/omai	ia	= ἀναρριχάομαι, trepar	w
+h9n	a)rneio/s	ia	de cordero; ὁ ἀ.: carnero	8q
+haj	a)rotri/ama	ia	tierra arada	1m
+hbf	a)rra/bdwtos	ia	no estriado; sin acanaladuras (columnas)	3b
+hcb	a)rrenwpa/s	ia	= ἀνδρόγυνος, mujer de aspecto varonil	1a
+hd7	a)rruti/dwtos	ia	sin arrugas	2o
+he3	a)rth/r	ia	especie de zapato de fieltro; lo que sirve para transportar	36
+hez	a)rti/tropos	ia	de costumbres sencillas	5t
+hfv	a)rtilo/gws	ia	con facilidad de palabra	1a
+hgr	a)rto/pths	ia	panadero; molde para cocer pan	35
+hhn	a)rtuma/tion	ia	condimento (dim. de ἄρτυμα)	1q
+hij	a)rwmatofo/ros	ia	que produce aromas	5f
+hjf	a)rxe/laos	ia	que manda al pueblo, caudillo	3s
+hkb	a)rxi/fulos	ia	jefe de tribu	1b
+hl7	a)rxikubernh/ths	ia	piloto jefe, jefe de la timonería	2d
+hm3	a)rxiupaspisth/s	ia	jefe de los hipaspistas	1o
+hmz	a)sbolw/dhs	ia	lleno de hollín, fuliginoso	v
+hnv	a)sfalti/zw	ia	oler a asfalto	13
+hor	a)ska/lhron	ia	= σκαλίας (planta)	3g
+hpn	a)skhth/s	ia	el que practica un arte o profesión; atleta; asceta	92
+hqj	a)smeniste/on	ia	hay que aceptar con gusto	2d
+hrf	a)spidapoblh/s	ia	que arroja el escudo, cobarde	25
+hsb	a)sqe/neia	ia	debilidad; enfermedad; penuria, pobreza	fp
+ht7	a)stasi/a	ia	inestabilidad, inconstancia	1x
+hu3	a)stero/eis	ia	estrellado; brillante como un astro	74
+huz	a)sto/mwtos	ia	sin orificio; no templado, sin filo (metal)	3z
+hvv	a)stragalwto/s	ia	hecho de tabas, guarnecido de tabas	85
+hwr	a)strofanh/s	ia	= ἀστροφαής, brillante como un astro	d
+hxn	a)stu/felos	ia	no áspero, liso, llano	2a
+hyj	a)su/gxutos	ia	no confundido, sin confusión	5u
+hzf	a)su/ntatos	ia	sin esfuerzo, relajado	3w
+i0b	a)sumpa/qeia	ia	falta de simpatía o compasión	1j
+i17	a)sunno/mws	ia	irregularmente	1m
+i23	a)sxhmone/w	ia	comportarse indecorosamente, faltar al decoro	91
+i2z	a)tarbh/s	ia	intrépido, sin temor a (+ gen.); que no inspira temor	6e
+i3v	a)telh/s	ia	sin fin, sin resultado, vano; inacabado, imperfecto; no iniciado; exento de impuestos	21r
+i4r	a)ti/etos	ia	no honrado, despreciado	4d
+i5n	a)tmi/s	ia	vapor húmedo, vapor	c2
+i6j	a)tra/pelos	ia	= δυστράπελος, intratable	2k
+i7f	a)trixe/w	ia	carecer de pelo	13
+i8b	a)tufi/a	ia	modestia, ausencia de orgullo	28
+i97	a)xa/lkeutos	ia	no forjado en bronce	2s
+ia3	a)xeiragw/ghtos	ia	indomado	v
+iaz	a)xqe/w	ia	cargar	1d
+ibv	a)xrhmosu/nh	ia	falta de dinero, pobreza	1j
+icr	a)ya/maqos	ia	sin arena	16
+idn	a)zale/os	ia	seco, árido, reseco	cv
+iej	ai(ma/th	ia	= λεκάνη, jofaina	16
+iff	ai(matopw/ths	ia	bebedor de sangre, que chupa la sangre	2t
+igb	ai(mobo/tos	ia	que se alimenta de sangre	1r
+ih7	ai(mwde/w	ia	tener dentera	4a
+ii3	ai)/kisma	ia	maltrato, ultraje, tortura	3t
+iiz	ai)/tios	ia	causante, autor, responsable de (+ gen.); culpable; τὸ αἴτιον: causa	12m
+ijv	ai)doiw/dhs	ia	semejante a los genitales	2a
+ikr	ai)giali/ths	ia	costero, del litoral	2u
+iln	ai)gono/mos	ia	= αἰγινόμος, que apacienta cabras	16
+imj	ai)neto/s	ia	alabado, loable	47
+inf	ai)noge/neios	ia	de terribles mandíbulas	1h
+iob	ai)olo/nwtos	ia	de lomo moteado	1k
+ip7	ai)qalo/w	ia	ennegrecer como el hollín	49
+iq3	ai)qroba/ths	ia	que camina por el éter; funámbulo	2w
+iqz	ai)sxeo/muqos	ia	que dice cosas vergonzosas	1b
+irv	ai)sxu/nw	ia	afear, desfigurar; deshonrar, avergonzar; pas.: avergonzarse (+ inf. o part.), sentir respeto ante	21o	tr. · pas. + ac.: sentir respeto ante · pas. + inf.: no hacer por vergüenza · pas. + part.: avergonzarse de hacer
+isr	ai)tiologhte/on	ia	hay que investigar las causas	24
+itn	ai)yhro/s	ia	pronto, rápido	ac
+iuj	au)/xhma	ia	motivo de orgullo, gloria; presunción, jactancia	9v
+ivf	au)comeio/w	ia	hacer crecer y menguar	2t
+iwb	au)lei/a	ia	= αὐλαία, cortina	1a
+ix7	au)louro/s	ia	guardián del patio o del aprisco	1g
+iy3	au)qe/nths	ia	autor de un crimen con su propia mano, asesino; dueño, señor	if
+iyz	au)ta/reskos	ia	satisfecho de sí, obstinado	2f
+izv	au)th=mar	ia	el mismo día	3e
+j0r	au)to/grafos	ia	escrito de propia mano, autógrafo	3n
+j1n	au)to/pistos	ia	digno de crédito por sí mismo, evidente	66
+j2j	au)to/swma	ia	el cuerpo en sí, cuerpo ideal	1y
+j3f	au)toboa/w	ia	dar testimonio de sí mismo	1j
+j4b	au)toe/nths	ia	= αὐθέντης, asesino	45
+j57	au)togennhtiko/s	ia	productivo por sí mismo	20
+j63	au)tokti/sths	ia	creador de sí mismo	1j
+j6z	au)tonuxi/	ia	esa misma noche	4b
+j7v	au)topwliko/s	ia	= αὐτοπώλης; αὐτοπωλική: venta de los propios productos	3r
+j8r	au)tosxedo/n	ia	allí mismo, de cerca, cuerpo a cuerpo; al punto, en seguida	a8
+j9n	au)toxorh/ghtos	ia	provisto por sí mismo	1c
+jaj	ba/cis	ia	respuesta de oráculo; rumor, fama, renombre	ly
+jbf	ba/qusma	ia	lugar profundo, hondonada	1p
+jcb	ba/ttos	ia	tartamudo	z
+jd7	bai/ths	ia	= βαίτη, zamarra de pastor	0
+je3	balanhfo/ros	ia	que produce dátiles	1b
+jez	balli/stra	ia	balista, catapulta	2p
+jfv	baqra/dion	ia	banquito	2b
+jgr	baqu/qric	ia	de cabellera espesa; de espeso vellón	3p
+jhn	baquku/mwn	ia	de olas profundas	42
+jij	barbaro/omai	ia	volverse bárbaro	0
+jjf	baru/kotos	ia	cargado de rencor	1h
+jkb	baru/timos	ia	caro, precioso	5l
+jl7	baruhkoe/w	ia	ser duro de oído	1g
+jm3	barusu/mforos	ia	infortunado, desdichado	59
+jmz	basileu/s	ia	rey, soberano; el Gran Rey, rey de Persia; arconte rey (en Atenas); jefe, señor	341
+jnv	basuni/as	ia	cierto pastel	1e
+jor	batu/lh	ia	enana	36
+jpn	bdelu/ktropos	ia	= βδελυκτός, odioso, execrable	z
+jqj	bebaiwte/on	ia	hay que confirmar	1r
+jrf	beloulki/a	ia	extracción de dardos	1g
+jsb	bh/ssw	ia	toser	7l
+jt7	bi/sbh	ia	podadera (palabra mesapia)	2m
+ju3	biblida/rion	ia	= βιβλάριον, librito	1h
+juz	biofeidh/s	ia	que ahorra sus recursos, económico	1b
+jvv	biw/simos	ia	que se ha de vivir; soportable, vivible	9q
+jwr	blapth/rios	ia	= βλαπτικός, nocivo	16
+jxn	blefari/s	ia	pestaña	4w
+jyj	blhxro/s	ia	débil, flojo, lánguido	ii
+jzf	bo/a	ia	boga (pez, = σάλπη)	1h
+k0b	bo/smoros	ia	= βόσμορον, mijo	0
+k17	bohdromiw/n	ix	Boedromión (tercer mes del año ático)	0
+k23	boiwtiourgh/s	ia	de fabricación beocia	0
+k2z	bombu/kinos	ia	de seda	28
+k3v	boqro/w	ia	= βοθρεύω, cavar; formar hoyos (de la caries o de un tumor)	3e
+k4r	bosko/s	ia	pastor, boyero	7r
+k5n	botrui/ths	ia	calamina en racimo	0
+k6j	bou/leuma	ia	resolución, designio, plan; consejo, parecer	aw
+k7f	bou/tomos	ia	butomo, junco florido (planta)	0
+k8b	boufo/rbia	ia	rebaños de bueyes	1l
+k97	boukra/nion	ia	cabeza de buey; nombre de varias plantas; aparato para reducir luxaciones	4v
+ka3	boume/trhs	ia	magistrado encargado de los sacrificios (etol.)	1r
+kaz	bouqusi/a	ia	sacrificio de bueyes o de novillas	53
+kbv	bowti/a	ia	tierra de labor; labranza	1m
+kcr	bradu/pnoos	ia	de respiración lenta	1f
+kdn	braka/rios	ia	fabricante de calzones	3g
+kej	braxu/upnos	ia	de sueño corto	0
+kff	braxuskelh/s	ia	de piernas cortas	3i
+kgb	brekto/s	ia	remojado	18
+kh7	bro/mios	ia	resonante, ruidoso; Bromio (epíteto de Baco)	lv
+ki3	broth/sios	ia	= βρότειος, mortal, humano	5l
+kiz	bru/llw	ia	pedir de beber (como los niños)	24
+kjv	bruxeto/s	ia	castañeteo de dientes; fiebre con escalofríos	1k
+kkr	bu/blos	ia	papiro (planta); hoja de papiro; libro	1bc
+kln	buqa/w	ia	penetrar hondo	1v
+kmj	busso/qen	ia	desde el fondo del mar	7v
+knf	bwlw/dhs	ia	= βωλοειδής, terroso	1i
+kob	cana/w	ia	fatigarse cardando lana; trabajar duro, cansarse	5d
+kp7	ce/sma	ia	objeto pulido o tallado, estatua de madera; raspadura	85
+kq3	ceno/logos	ia	que recluta mercenarios	0
+kqz	cenota/fion	ia	sepultura de extranjeros (glosa de πολυάνδριον)	w
+krv	chro/sarkos	ia	de carne enjuta	1c
+ksr	cifismo/s	ia	danza de espadas; esgrima	1w
+ktn	cu/rion	ia	navajita	1b
+kuj	culofa/gos	ia	que come madera	24
+kvf	culoto/mos	ia	leñador; que corta madera	3m
+kwb	curodo/kh	ia	estuche de navajas	25
+kx7	da/ketos	ix	que muerde, mordedor	0
+ky3	da/ssw	ia	= δατέομαι, dividir, repartir	1u
+kyz	dafoinh/eis	ia	= δαφοινός, rojo sangre	1l
+kzv	daidalo/xeir	ia	de manos hábiles	1w
+l0r	daitreu/w	ia	repartir; trinchar la carne y distribuir las porciones	ed	tr. e intr.
+l1n	daktuli/dion	ia	anillito, sortija	5u
+l2j	damasi/xqwn	ia	que doma la tierra (epíteto de Posidón)	1p
+l3f	darda/ptw	ia	desgarrar; devorar	bl
+l4b	dasupo/deios	ia	de liebre	2c
+l57	de/	ia	partícula pospositiva: y; pero, en cambio; μέν… δέ: por un lado… por otro; en apódosis: entonces, pues	3kk
+l63	de/on	ia	lo necesario, lo debido, lo conveniente	nm
+l6z	deci/mhlos	ia	que recibe ofrendas de ovejas	3u
+l7v	dei/khlon	ia	representación, imagen; espectáculo mímico	6r
+l8r	deikth/rion	ia	lugar de exhibición; = δεῖγμα, muestra	4r
+l9n	deino/ths	ia	carácter terrible, rigor; carácter extraordinario; habilidad, elocuencia	ct
+laj	deipnolo/xos	ia	gorrón, parásito	2n
+lbf	deka/mnous	ia	= δεκάμνοος, de diez minas	5p
+lcb	dekadarxe/w	ia	ser decurión	16
+ld7	dekastadiai=os	ia	de diez estadios de altura	1j
+le3	dele/asma	ia	cebo	1d
+lez	demnioth/rhs	ia	que guarda cama; que vela el lecho	3z
+lfv	dendroph/mwn	ia	funesto para los árboles	1y
+lgr	dermatw/dhs	ia	semejante a la piel, coriáceo	51
+lhn	despoti/skos	ia	amito, señorito	1c
+lij	deutero/fwnos	ia	que habla después de otro, que repite (Eco)	1r
+ljf	dh/mios	ia	del pueblo, público; ὁ δ.: verdugo	m5
+lkb	dhlhgateu/w	ia	asignar como impuesto	1w
+ll7	dhmh/latos	ia	desterrado por el pueblo	14
+lm3	dhmo/tis	ia	mujer del pueblo; mujer del mismo demo	0
+lmz	dhmosiwni/a	ia	arriendo de las rentas públicas	1u
+lnv	di/arma	ia	elevación (del alma, del estilo); travesía por mar	6f
+lor	di/frac	ia	asiento	1w
+lpn	di/kranon	ia	horca, horquilla	0
+lqj	di/nhma	ia	rotación	1a
+lrf	di/puros	ia	de dos luces; cocido dos veces; ὁ δίπυρος: bizcocho	6p
+lsb	di/tulos	ia	de dos jorobas	1a
+lt7	di/zw	ia	dudar, vacilar; med.: buscar	h1	intr. · med. + ac.: buscar
+lu3	dia/fauma	ia	alba, amanecer	1g
+luz	dia/klusma	ia	colutorio, enjuague bucal	4k
+lvv	dia/locos	ia	oblicuo, de soslayo	1j
+lwr	dia/pemyis	ia	distribución (del alimento en el cuerpo); envío (de una carta)	3n
+lxn	dia/rhma	ia	= λέμβος, barca	1f
+lyj	dia/spasma	ia	desgarro, brecha, interrupción; depilatorio	1s
+lzf	dia/tthsis	ia	acción de cribar	1a
+m0b	diabai/nw	ia	estar con las piernas abiertas; atravesar, cruzar, franquear; pasar (a un tema)	1bt	intr. · + ac.: atravesar, cruzar
+m17	diaboli/a	ia	= διαβολή, calumnia	4c
+m23	diadhmatofo/ros	ia	que lleva diadema	1l
+m2z	diaeidh/s	ia	transparente, límpido	17
+m3v	diafqei/rw	ia	destruir, aniquilar; matar; corromper, sobornar; seducir; pas.: perecer	2cv	tr. · pas.: perecer, corromperse
+m4r	diagana/kthsis	ia	arrebato de indignación	20
+m5n	diagrammi/zw	ia	dividir con líneas; jugar a las damas	1x
+m6j	diaiqria/zw	ia	estar completamente despejado o sereno (el tiempo)	45
+m7f	diakaqari/zw	ia	= διακαθαίρω, limpiar a fondo	1z
+m8b	diakh/rucis	ia	venta en subasta	3a
+m97	diako/smasis	ia	ordenación, disposición	0
+ma3	diakra/zw	ia	gritar sin cesar; gritar a porfía	4f
+maz	diakumai/nw	ia	agitar o levantar las olas de (+ ac.); agitar como las olas	29
+mbv	dialei/pw	ia	dejar un intervalo (de lugar o tiempo); intr.: cesar, interrumpirse, mediar (un tiempo)	1f4	tr. · intr.: mediar (un tiempo), cesar · + part. con neg.: no dejar de
+mcr	dialogi/zomai	ia	hacer cuentas, calcular exactamente; reflexionar, considerar; discutir	kb	intr. · + ac. · + περί + gen.: reflexionar sobre
+mdn	diamarta/nw	ia	extraviarse, equivocarse por completo; fracasar en, no lograr (+ gen.)	so	intr. · + gen.: errar, no lograr
+mej	diameri/zw	ia	repartir, distribuir; dividir, separar	bc
+mff	diamo/rfwsis	ia	acción de dar forma, conformación	4f
+mgb	dianagignw/skw	ia	leer de cabo a rabo	2v
+mh7	dianoe/w	ia	tener en mente, proponerse	160	+ inf.: proponerse · + ac. e inf.: pensar que · med. igual
+mi3	diapannuxi/zw	ia	pasar toda la noche (en vela o en fiesta)	16
+miz	diaperai/wsis	ia	transporte; travesía	2y
+mjv	diaple/kw	ia	deshacer (un tejido), separar; trenzar, tejer; urdir hasta el final	jj	tr.
+mkr	diapolitei/a	ia	rivalidad política, lucha de partidos	2c
+mln	diapro/	ia	de parte a parte, a través	8
+mmj	diaqe/ths	ia	el que dispone u ordena	4l
+mnf	diari/qmhsis	ia	enumeración detallada	23
+mob	diarroize/w	ia	atravesar silbando + gen.	20
+mp7	diasfendona/w	ia	alcanzar con proyectiles de honda; dispersar como con una honda	6r
+mq3	diaskeuh/	ia	equipamiento, atuendo	gg
+mqz	diaspleko/w	ia	agotar con la lujuria	19
+mrv	diastre/fw	ia	torcer, retorcer, desfigurar; pervertir, corromper	17j	tr.
+msr	diata/ssw	ia	disponer en orden, formar (un ejército); distribuir, repartir; ordenar, prescribir	19g	tr. · + ac. e inf.: ordenar
+mtn	diatimhth/s	ia	tasador	2d
+muj	diatriptiko/s	ia	apto para triturar	1n
+mvf	diaulwni/zw	ia	pasar por un canal estrecho; dejar pasar corrientes de aire	3s
+mwb	diaxw/risis	ia	separación	1g
+mx7	diazu/gia	ia	divorcio; desavenencias conyugales	0
+my3	didu/skw	ia	revestir	0
+myz	die/mpilos	ia	bien cubierto con gorro de fieltro	1t
+mzv	diecite/on	ia	hay que narrar, describir	2r
+n0r	diekdu/omai	ia	escabullirse a través	4w
+n1n	dieniauti/zw	ia	vivir un año entero	2k
+n2j	diermhneutiko/s	ia	interpretativo	2f
+n3f	dieuluto/w	ia	= διευλυτέω, liquidar una deuda; justificarse	3z
+n4b	difqe/rion	ia	pequeña piel (dim. de διφθέρα)	1n
+n57	digo/natos	ia	de dos nudos o articulaciones	1b
+n63	dihrqrwme/nws	ia	articuladamente, con claridad	36
+n6z	dika/rhnos	ia	de dos cabezas	2g
+n7v	dikaiopragi/a	ia	acción justa	4p
+n8r	diko/ndulos	ia	de dos falanges; provisto de dos nudos	3f
+n9n	diktueu/s	ia	pescador con red	22
+naj	dimoiriai=os	ia	de dos tercios	1v
+nbf	dio/spuron	ia	fruto del almez	24
+ncb	dioisteu/w	ia	atravesar con una flecha	0
+nd7	diorgi/zomai	ia	irritarse mucho	4x
+ne3	dioxli/zw	ia	separar, abrir	1i
+nez	diplo/s	ia	= διπλόος, doble (poét.)	4e
+nfv	disa/kkion	ia	alforja	3m
+ngr	dissologi/a	ia	repetición de palabras	1i
+nhn	ditoniai=os	ia	= δίτονος, de dos tonos	1c
+nij	diwkth/r	ia	perseguidor	13
+njf	dixhleu/w	ia	tener la pezuña hendida	0
+nkb	dixomhni/a	ia	plenilunio, mediados del mes	6n
+nl7	dizugh/s	ia	= δίζυξ, de dos huesos	24
+nm3	do/lwma	ia	trampa, ardid	2p
+nmz	docasmo/s	ia	formación de opiniones; glorificación	3q
+nnv	dogmatopoii/a	ia	establecimiento de doctrinas	0
+nor	dokimasth/rion	ia	prueba, medio de examen	37
+npn	dolixh/retmos	ia	de largos remos	4a
+nqj	dolorrafe/w	ia	tender asechanzas	16
+nrf	doratopaxh/s	ia	del grosor de una lanza	1q
+nsb	dorka/deios	ia	de corzo, de gacela	5e
+nt7	dorukni/dion	ia	dim. de δορύκνιον	19
+nu3	douleleu/qeros	ia	liberto	13
+nuz	dourhnekh/s	ia	a tiro de lanza	2x
+nvv	dra/skasis	ia	huida, fuga	17
+nwr	drakontofo/ros	ia	dragonario; de serpientes	0
+nxn	drasthrio/ths	ia	actividad, energía	1c
+nyj	drimu/ssw	ia	hacer escocer; tratar con dureza	59
+nzf	drosoei/mwn	ia	vestido de rocío	1w
+o0b	drumo/nios	ia	que frecuenta los bosques (epíteto de Ártemis)	24
+o17	du/o	ia	dos	1r9
+o23	du/sgamos	ia	de unión funesta, malcasado	56
+o2z	du/smaxos	ia	difícil de combatir, invencible; difícil de decidir	7p
+o3v	du/speptos	ia	difícil de digerir, indigesto	68
+o4r	du/srigos	ia	muy friolero, sensible al frío	83
+o5n	du/syuktos	ia	poco sensible al frío	1g
+o6j	dunamokubosto/n	ia	la fracción 1/x⁵	1k
+o7f	dusa/luktos	ia	difícil de evitar, ineludible	28
+o8b	dusai/wn	ia	de vida desgraciada, infortunado	58
+o97	dusanaqumi/atos	ia	difícil de evaporar	16
+oa3	dusapolo/ghtos	ia	difícil de defender o excusar; difícil de responder o explicar	5h
+oaz	dusda/krutos	ia	amargamente llorado; que hace llorar amargamente	4w
+obv	dusdiaxw/rhtos	ia	indigesto, difícil de evacuar; estreñido	54
+ocr	duse/kneustos	ia	del que es difícil salir nadando	1c
+odn	duseca/luktos	ia	difícil de evitar	w
+oej	dusekfw/nhtos	ia	difícil de pronunciar	17
+off	dusepi/bolos	ia	difícil de atacar; arriesgado; infructuoso	47
+ogb	dusfeggh/s	ia	de luz débil, sombrío	19
+oh7	dusgnwsi/a	ia	dificultad de conocer, ignorancia	32
+oi3	dusi/wtos	ia	que no se oxida fácilmente	1h
+oiz	duskatapole/mhtos	ia	difícil de vencer en la guerra	13
+ojv	duskrinh/s	ia	difícil de distinguir, indistinto	1x
+okr	dusmeta/blhtos	ia	difícil de cambiar	1o
+oln	duso/milos	ia	de trato funesto; de trato difícil	3l
+omj	dusouria/w	ia	= δυσουρέω, orinar con dificultad	18
+onf	dusparocu/nomai	ia	sufrir un acceso fuerte (de fiebre)	22
+oob	duspno/htos	ia	de respiración difícil (dudoso)	1u
+op7	duspro/sormos	ia	= δυσπροσόρμιστος, de difícil desembarco	z
+oq3	dusqumiko/s	ia	melancólico	1i
+oqz	dusterph/s	ia	penoso, aflictivo	18
+orv	dusw/dinos	ia	de parto penoso, que causa dolores penosos	1o
+osr	dusxrh/sthma	ia	inconveniente	1g
+otn	dwde/katos	ia	duodécimo	4l
+ouj	dwdeka/skalmos	ia	de doce remos	1b
+ovf	dwmati=tis	ia	de la casa, doméstica	0
+owb	dwrokope/w	ia	sobornar	1u
+ox7	e(/khlos	ia	tranquilo, sosegado, sin temor; inactivo, ocioso	lv
+oy3	e(/ndeka	ia	once; οἱ ἕ.: los Once (magistrados atenienses)	7f
+oyz	e(/wlos	ia	de la víspera; pasado, rancio, marchito; trasnochado	12x
+ozv	e(bdomhkosto/duos	ia	septuagésimo segundo	1b
+p0r	e(ca/s	ia	el número seis, media docena	3v
+p1n	e(capla/sios	ia	séxtuple	4z
+p2j	e(chkontae/ths	ia	sexagenario	2y
+p3f	e(driko/s	ia	del ano, anal	2v
+p4b	e(katere/w	ia	golpearse las nalgas con los talones alternativamente (en la danza)	2g
+p57	e(katonta/klinos	ia	de cien lechos, con cabida para cien lechos	3h
+p63	e(katostoeikosto/gdoon	ia	la ciento veintiochava parte	1c
+p6z	e(koureu/w	ia	= ἑκυρεύω (beoc.)	k
+p7v	e(lhqere/w	ia	= εἱληθερέω, calentarse al sol	x
+p8r	e(likwto/s	ia	roscado como un tornillo	1g
+p9n	e(lkwtiko/s	ia	que ulcera; exasperante	2m
+paj	e(ndekaeth/s	ia	de once años	1o
+pbf	e(ortw/dhs	ia	festivo, solemne	27
+pcb	e(pta/phxus	ia	de siete codos	35
+pd7	e(ptakaideka/kis	ia	diecisiete veces	1k
+pe3	e(ptatei/xhs	ix	de siete murallas	0
+pez	e(rmo/glufos	ix	escultor de hermas	0
+pfv	e(sso/omai	ia	= ἡσσάομαι, ser vencido (jón.)	j
+pgr	e(tairismo/s	ia	prostitución	20
+phn	e(tero/ktupos	ia	que repite el sonido (Eco)	1k
+pij	e(terobarh/s	ia	que carga más de un lado	1e
+pjf	e(terokline/w	ia	inclinarse hacia un lado	3f
+pkb	e(terosxh/mwn	ia	de figura o aspecto diferente	6n
+pl7	e(ya/ndra	ia	que cuece a los hombres (Medea)	35
+pm3	e)/caulos	ia	gastado de tanto tocar (flauta)	1l
+pmz	e)/dafos	ia	suelo, fondo, base; cimientos; fondo (de la nave)	xu
+pnv	e)/ggaios	ia	de la tierra, terrestre; indígena; subterráneo; terroso	t9
+por	e)/gkomma	ia	obstáculo, impedimento	27
+ppn	e)/gxristos	ia	que sirve para untar, untado	2l
+pqj	e)/kduma	ia	despojo, vestido quitado	21
+prf	e)/kkopos	ia	cansado	y
+psb	e)/kpaglos	ia	terrible, espantoso; asombroso, extraordinario; adv.: terriblemente	141
+pt7	e)/kqambos	ia	pasmado, aterrado; terrible	40
+pu3	e)/kteisis	ia	pago completo	cm
+puz	e)/kyucis	ia	enfriamiento	28
+pvv	e)/lpw	ia	hacer esperar; med.: esperar, suponer; temer	1le	tr. · med. + ac. o inf. (fut.): esperar, suponer, temer
+pwr	e)/mfortos	ia	cargado de, + gen.; cargado	3e
+pxn	e)/mpaisma	ia	obra en relieve, repujado	1g
+pyj	e)/mpodos	ia	= ἐμπόδιος, que estorba	20
+pzf	e)/naros	ia	sujeto a maldición, maldito	2i
+q0b	e)/ndoma	ia	remisión (de la fiebre)	1v
+q17	e)/nnomos	ia	conforme a la ley, legal, legítimo; justo, respetuoso de la ley	o2
+q23	e)/nqhma	ia	= ἔνθεμα, depósito	3d
+q2z	e)/ntefros	ia	ceniciento, de color de ceniza	1q
+q3v	e)/nupnos	ia	(poét.) = ἐνύπνιος, de los sueños, visto en sueños	30
+q4r	e)/phlus	ia	que llega, que viene de fuera; extranjero, advenedizo	ej
+q5n	e)/rasis	ia	amor	24
+q6j	e)/ros2	ia	lana	gr
+q7f	e)/ste	ia	conj.: hasta que; mientras, en tanto que	3ae
+q8b	e)ari/dropos	ix	cogido en primavera	0
+q97	e)ca/nqhsis	ia	erupción; brote del primer vello; marchitamiento	ei
+qa3	e)caero/w	ia	convertir en aire, en vapor, vaporizar	6q
+qaz	e)cagwgeu/s	ia	el que saca (las tropas), guía	3j
+qbv	e)caisxu/nomai	ia	avergonzarse + inf.	1q
+qcr	e)caleipte/os	ix	ἐξαλειπτέον: hay que borrar	0
+qdn	e)camfoteri/zw	ia	hacer ambiguo	76
+qej	e)canaste/fw	ia	coronar o ceñir de nuevo	19
+qff	e)capaite/w	ia	reclamar, exigir (intensivo de ἀπαιτέω)	2x
+qgb	e)caqume/w	ia	desanimarse por completo, perder el valor	28
+qh7	e)catima/zw	ia	despreciar, deshonrar por completo	4z
+qi3	e)ce/lkwsis	ia	ulceración	25
+qiz	e)ceilegme/nws	ia	adv. con elegancia	1g
+qjv	e)ceo/w	ia	= ἐξωθέω, expulsar	b
+qkr	e)ceristiko/s	ia	capcioso, disputador	3f
+qln	e)ceuqu/nw	ia	enderezar; examinar, pedir cuentas	3t
+qmj	e)chmme/nws	ia	adv. con ira, airadamente	1j
+qnf	e)cidru/w	ia	hacer sentar	3w
+qob	e)ciswth/s	ia	repartidor de impuestos (bajo el Imperio romano)	6p
+qp7	e)co/rghsis	ia	v. ἐξοργάω	c
+qq3	e)coikeio/w	ia	hacer familiar; pas.: ganarse la intimidad de (+ dat.)	cb
+qqz	e)comali/zw	ia	allanar por completo, igualar; formar regularmente; med.: íd.	ci
+qrv	e)coplasi/a	ia	= ἐξοπλισία, revista en armas	49
+qsr	e)costrakismo/s	ia	destierro por ostracismo	5t
+qtn	e)cu/perqe	ia	adv. por encima	1c
+quj	e)cuyo/w	ia	exaltar, elevar	44
+qvf	e)cwteriko/s	ia	exterior, externo	kg
+qwb	e)faima/ssw	ia	ensangrentar	2k
+qx7	e)fech=s	ia	por orden, seguidamente, sucesivamente; a continuación	19c
+qy3	e)fetmh/	ia	orden, mandato, recomendación	a6
+qyz	e)fhlo/ths	ia	mancha blanca en el ojo, nube	1q
+qzv	e)fika/nw	ia	= ἐφικνέομαι, llegar a, alcanzar	2p
+r0r	e)fomarte/w	ia	seguir, acompañar	4x
+r1n	e)fusterhtiko/s	ia	que se retrasa (de fiebres de accesos cada vez más espaciados)	28
+r2j	e)ggei/nwntai	ia	engendrar en (de moscas que crían gusanos en las heridas)	58
+r3f	e)ggu/h	ia	prenda, fianza, garantía; esponsales	lj
+r4b	e)gka/rdios	ia	que está en el corazón	fs
+r57	e)gkaqismo/s	ia	= ἐγκάθισμα, detención en una sílaba	1a
+r63	e)gkatalekte/os	ia	que debe contarse entre	2h
+r6z	e)gkatw/dhs	ia	semejante a las entrañas	1k
+r7v	e)gkilikeu/omai	ia	= ἐγκιλικίζω, engañar	16
+r8r	e)gko/thma	ia	= ἐγκότησις, rencor	1d
+r9n	e)gkoura/s	ia	pintura del techo; tatuajes en el rostro	2x
+raj	e)gku/matos	ia	sobre las olas	1o
+rbf	e)gresi/kwmos	ia	que excita al κῶμος, a la fiesta (epíteto de Baco)	22
+rcb	e)gxeibro/mos	ia	que truena con la lanza	1r
+rd7	e)gxrh/|zw	ia	tener necesidad de (+ gen.); ser necesario o útil	ay
+re3	e)kba/w	ia	= ἐκβαίνω (lacón.)	1n
+rez	e)kbo/leion	ia	matriz que ha abortado (?)	1g
+rfv	e)kde/w	ia	atar a, sujetar (algo a algo); med.: atarse, colgarse	l9	tr. · + ac. y gen.: atar algo a · med.: colgarse algo
+rgr	e)kdifreu/w	ia	derribar de un carro	23
+rhn	e)kei/ninos	ia	hecho de aquella materia	2e
+rij	e)kfle/gw	ia	inflamar, incendiar	5u
+rjf	e)kfu/shsis	ia	espiración, emisión de aliento	2r
+rkb	e)kka/qarsis	ia	purificación completa; barrido; pulimento	5a
+rl7	e)kkaxru/zw	ia	descascarillar la cebada	s
+rm3	e)kkli/ths	ia	desertor, remolón	28
+rmz	e)kkoprwtiko/s	ia	laxante	2d
+rnv	e)kkue/w	ia	dar a luz, parir	1u
+ror	e)kleigmatw/dhs	ia	de consistencia de electuario	21
+rpn	e)klixma/omai	ia	absorber, agotar	1j
+rqj	e)kmaieu/omai	ia	asistir al parto, sacar a la luz	1j
+rrf	e)kmisqo/w	ia	arrendar, alquilar	63
+rsb	e)kneuro/w	ia	= ἐκνευρίζω: cortar los tendones	1q
+rt7	e)kparqeneu/w	ia	desflorar	1p
+ru3	e)kperispa/w	ia	ejecutar un ἐκπερισπασμός (maniobra militar)	2s
+ruz	e)kpla/ssw	ia	modelar con exactitud; hacer un emplasto	2o
+rvv	e)kpoleme/w	ia	llevar la guerra a otra parte; incitar a la guerra	70
+rwr	e)kproi/hmi	ia	enviar fuera, emitir	0
+rxn	e)kpwta/omai	ia	= ἐκποτάομαι, salir volando (poét.)	1s
+ryj	e)kqhrate/on	ia	hay que cazar	22
+rzf	e)kripi/zw	ia	atizar, encender, inflamar	bn
+s0b	e)kskeua/zw	ia	quitar el mobiliario o los utensilios; pas.: ser saqueado; med.: llevarse consigo (enseres, bienes)	7t
+s17	e)ksuriggo/omai	ia	abrirse en fístula (absceso)	2k
+s23	e)ktelh/s	ia	acabado, cumplido, perfecto	95
+s2z	e)ktomi/zw	ia	= ἐκτέμνω, cortar	1z
+s3v	e)ktrugi/zw	ia	limpiar de heces	32
+s4r	e)kxoli/zw	ia	purgar de bilis	2j
+s5n	e)la/sios	ia	que expulsa (la enfermedad); οἱ Ἐλάσιοι: los Curadores (familia argiva que curaba la epilepsia)	1e
+s6j	e)lafro/s	ia	ligero, ágil, veloz; leve, fácil de soportar; frívolo	1wb
+s7f	e)laiofanh/s	ia	de aspecto oleoso	1s
+s8b	e)laqerh/s	ia	= εἰληθερής, calentado por el sol	n
+s97	e)laxupte/ruc	ia	de aletas cortas (delfín)	1x
+sa3	e)lefanto/pous	ia	de pies de marfil	3u
+saz	e)lehtiko/s	ia	= ἐλεήμων, compasivo	1t
+sbv	e)leuqeropre/peia	ia	carácter propio de un hombre libre	1t
+scr	e)llocote/rws	ia	más oblicuamente	20
+sdn	e)mba/s	ia	especie de calzado basto, zapatilla de fieltro; más tarde, calzado de lujo	dn
+sej	e)mbiwth/rion	ia	morada, vivienda	1e
+sff	e)mbronta/w	ia	dejar atónito, aturdir; pas.: ser herido por el rayo	7k
+sgb	e)metw/dhs	ia	acompañado de vómitos	46
+sh7	e)mfobe/w	ia	aterrorizar, intimidar; pas.: asustarse	2u
+si3	e)mfwne/omai	ia	ser expresado (en ciertos términos)	20
+siz	e)mmh/nios	ia	mensual; τὰ ἐμμήνια: menstruación	3a
+sjv	e)mpatage/w	ia	hacer ruido con	1n
+skr	e)mpelado/n	ia	cerca de (+ dat.)	1l
+sln	e)mpi/mprhmi	ia	= ἐμπίπρημι, encender, incendiar, quemar	12p	tr.
+smj	e)mplhci/a	ia	estupidez, locura; inestabilidad, inconstancia	6v
+snf	e)mpodi/zw	ia	trabar los pies, maniatar; fig. estorbar, impedir; pas.: enredarse en	1b7	tr. · + dat. o ac.: estorbar, impedir · pas.: enredarse en
+sob	e)mpori/zomai	ia	ser provisto; adquirir	2q
+sp7	e)mpu/rwsis	ia	encendido, calentamiento	1q
+sq3	e)na/gisma	ia	sacrificio fúnebre o expiatorio, ofrenda a los muertos	49
+sqz	e)naeri/zw	ia	elevar en el aire	q
+srv	e)naimw/dhs	ia	sanguinolento, semejante a la sangre	1d
+ssr	e)nanti/on	ia	adv. enfrente, cara a cara; + gen.: delante de, contra	j
+stn	e)nape/reisis	ia	fijación de la atención	1e
+suj	e)napoqnh/skw	ix	morir en	0
+svf	e)narke/w	ia	bastar, poder (+ inf.)	2d
+swb	e)nauxe/nios	ia	que rodea el cuello	25
+sx7	e)ndesmeu/w	ia	atar a o en	37
+sy3	e)ndiatripte/on	ia	hay que detenerse en (+ dat.); hay que permanecer; hay que continuar	5f
+syz	e)ndoma/xhs	ix	valiente dentro de casa	0
+szv	e)ne/pw	ia	= ἐννέπω, decir, contar, narrar	1rl	tr. · + ac. y dat. · + ac. e inf.: ordenar que
+t0r	e)nekplu/nw	ia	lavar (la suciedad) en	1i
+t1n	e)nergmo/s	ia	modo de tocar la lira; clavija de la cítara	3s
+t2j	e)nexurasth/s	ia	el que embarga	2c
+t3f	e)ni/ote	ia	a veces, algunas veces	7d
+t4b	e)nisxuri/zomai	ia	apoyarse en, confiar en (+ dat.)	w
+t57	e)nnea/rmenos	ia	de nueve velas	1i
+t63	e)nneo/w	ia	roturar (la tierra)	14
+t6z	e)no/rmisma	ia	fondeadero, rada	1p
+t7v	e)nomo/rgnumai	ia	enjugar sobre, dejar una huella en (+ dat.)	0
+t8r	e)nqa/ptw	ia	enterrar en (+ dat.)	8b
+t9n	e)nqri/aktos	ia	inspirado	1i
+taj	e)nsemnu/nomai	ia	gloriarse en, ufanarse de (+ dat.)	1a
+tbf	e)nsto/misma	ia	freno, bocado	2x
+tcb	e)ntau=qa	ia	allí, aquí; en ese momento, entonces; en esto, en este punto	19v
+td7	e)ntesiergo/s	ia	que trabaja con arneses, de tiro	2e
+te3	e)ntolika/rios	ia	mandatario	2b
+tez	e)ntru/fhma	ia	objeto de deleite, delicia	2d
+tfv	e)nupni/dios	ia	= ἐνύπνιος, de los sueños	1a
+tgr	e)nzwgrafe/w	ia	pintar en o sobre	2a
+thn	e)pa/ntlhma	ia	fomento, loción	1h
+tij	e)pafauai/nomai	ia	secarse; agotarse (de risa)	3f
+tjf	e)pagw/gion	ia	prepucio	15
+tkb	e)painoume/nws	ia	de modo loable	1u
+tl7	e)pakte/on	ia	hay que lanzar contra; hay que aplicar	5h
+tm3	e)palwsth/s	ia	trillador (con bueyes)	24
+tmz	e)pana/tasis	ia	acción de alzar; amenaza	8a
+tnv	e)panakale/w	ia	invocar además, volver a llamar	7j
+tor	e)panapth/simos	ia	pronto a volar	1d
+tpn	e)paneme/w	ia	vomitar después; rumiar	39
+tqj	e)pantlhte/on	ia	hay que irrigar	1m
+trf	e)parti/zw	ia	preparar; intr.: ajustarse	4m
+tsb	e)pau/w	ia	gritar sobre	0
+tt7	e)pe/krhcis	ia	estallido, erupción	1p
+tu3	e)pecerga/zomai	ia	llevar a cabo además; matar de nuevo; volver a trabajar	8v
+tuz	e)pei/	ia	después que, cuando; puesto que, ya que; pues	6jd
+tvv	e)peisfe/rw	ia	traer sucesivamente; introducir además	fu	tr. · + ac. y dat.
+twr	e)pekple/w	ia	salir navegando contra	1y
+txn	e)pendi/dwmi	ia	dar además	2k
+tyj	e)pesqi/w	ia	comer después o además; devorar	eq	tr.
+tzf	e)ph/koos	ia	que presta oído, que escucha (+ gen. o dat.); εἰς ἐπήκοον: al alcance del oído	12g
+u0b	e)phne/mios	ia	ventoso; vano	1o
+u17	e)pi/daitron	ia	plato adicional, golosina	24
+u23	e)pi/flegma	ia	inflamación superficial	23
+u2z	e)pi/kentros	ia	que ocupa un punto cardinal (astr.)	4a
+u3v	e)pi/kruyis	ia	ocultación, disimulo	3i
+u4r	e)pi/luxnos	ia	aceite para lámparas	3m
+u5n	e)pi/nostos	ia	del regreso (canto)	1c
+u6j	e)pi/pneusis	ia	inspiración espasmódica; inspiración divina	2y
+u7f	e)pi/qumos	ia	deseoso	z
+u8b	e)pi/sigma	ia	azuzamiento (de un perro)	22
+u97	e)pi/staton	ia	soporte, pie	4q
+ua3	e)pi/thdes	ia	(át.) = ἐπιτηδές, adrede, a propósito	0
+uaz	e)pi/yogos	ia	censurable; que censura	82
+ubv	e)pibh/twr	ia	el que monta (caballos), jinete; semental	d8
+ucr	e)piboski/s	ia	= προβοσκίς, trompa (de insectos)	1n
+udn	e)pice/w	ia	raspar la superficie; fig. pulir	6j
+uej	e)pidei/knumi	ia	mostrar, exhibir; demostrar, probar; med.: hacer exhibición, exhibirse	299	tr. · + part. u ὅτι: demostrar que · med.: hacer exhibición
+uff	e)pidhmi/a	ia	estancia en un país; llegada	ah
+ugb	e)pidiaskope/w	ia	examinar más a fondo	22
+uh7	e)pidoca/zw	ia	formarse una opinión sobre	34
+ui3	e)pifaidru/nw	ia	hacer brillar, limpiar	20
+uiz	e)pifqu/zw	ia	escupir (para conjurar un maleficio)	2t
+ujv	e)pigame/w	ia	tomar una segunda esposa; dar madrastra a los hijos	b6
+ukr	e)pignwri/zw	ia	dar a conocer	3z
+uln	e)pika/qarsis	ia	limpieza	1l
+umj	e)pikata/dusis	ia	ocaso de un astro poco después de la salida o puesta del sol; (astrol.) nombre de la octava casa	5q
+unf	e)pikatarrh/gnumai	ia	estallar y caer sobre	0
+uob	e)pikei/rw	ia	trasquilar por encima, rasurar; cortar, segar; mermar	7y
+up7	e)piki/xrhmi	ia	prestar además	3y
+uq3	e)piko/lpios	ia	de pecho, lactante	2e
+uqz	e)pikoru/fwma	ia	cumbre, remate (glosa de ἐπικτόλωμα)	11
+urv	e)pikri/nw	ia	decidir sobre, juzgar	w5	tr. · + inf.: decidir que
+usr	e)pikulindro/omai	ia	ser aplanado con rodillos	1u
+utn	e)pilarxi/a	ia	epilarquía (escuadrón de 128 jinetes, dos ilas)	2t
+uuj	e)pilina/w	ia	revisar las redes	p
+uvf	e)pima/ssomai	ia	palpar, tocar	0
+uwb	e)pimeici/a	ia	trato, relaciones, comercio	ge
+ux7	e)pimhku/nw	ia	alargar, prolongar	1a
+uy3	e)pimomfh/	ia	queja, reproche	1p
+uyz	e)pine/w1	ia	hilar (el destino) para alguien (las Parcas), + dat.	7t
+uzv	e)pinohtiko/s	ia	inventivo, ingenioso; debido a la reflexión	44
+v0r	e)pipa/reimi1	ia	sobrevenir; estar presente además, llegar además	ea	intr.
+v1n	e)pipela/zw	ia	acercarse, aproximarse; acercar	1w
+v2j	e)piplhkte/os	ia	digno de reproche	18
+v3f	e)pipompeu/w	ia	triunfar sobre (+ dat.)	1z
+v4b	e)piprosple/w	ia	navegar hacia (+ dat.)	1j
+v57	e)piqalatti/dios	ia	= ἐπιθαλασσίδιος (át.)	0
+v63	e)piqorube/w	ia	responder con aclamaciones o con gritos	4l
+v6z	e)pirrabdofore/w	ia	hacer avanzar o galopar a fustazos	29
+v7v	e)pirrugxi/s	ia	gancho del pico de un ave	2e
+v8r	e)pisfu/ria	ia	grebas, broches de las grebas; tobillo	59
+v9n	e)piskeph/s	ia	cubierto, resguardado	2q
+vaj	e)piskuqi/zw	ia	beber como un escita, beber copiosamente	2x
+vbf	e)pistala/w	ia	= ἐπισταλάζω, gotear sobre	e
+vcb	e)pistenaxi/zw	ia	= ἐπιστένω, gemir sobre	2r
+vd7	e)pistomi/a	ia	lectura de Zenódoto por ἐπεσβολία, charlatanería	1f
+ve3	e)pisu/nqetos	ia	compuesto; τὸ ἐπισύνθετον: metro compuesto	3b
+vez	e)pisurre/w	ia	confluir, afluir (+ dat.)	2z
+vfv	e)pitakte/on	ia	hay que ordenar	1g
+vgr	e)piteleste/on	ia	hay que cumplir	15
+vhn	e)pithdeuth/s	ia	el que practica	2q
+vij	e)pitoceu/w	ia	= ἐπιτοξάζομαι, disparar flechas contra (+ dat.)	2m
+vjf	e)pitropai=os	ia	confiado al cuidado de alguien; delegado; ἐ. ἀρχή: regencia	32
+vkb	e)pixa/rths	ia	el que se alegra del mal ajeno	2k
+vl7	e)pixeirhtiko/s	ia	relativo a la argumentación, dialéctico	6u
+vm3	e)pixroni/zw	ia	durar mucho, prolongarse; ἐπικεχρονικός: crónico, inveterado	6y
+vmz	e)pizare/w	ia	= ἐπιβαρέω, abrumar, caer pesadamente sobre	2t
+vnv	e)po/rnumi	ia	incitar, excitar, impulsar; enviar contra o hacia; med.: lanzarse contra	sx	tr. · + ac. y dat.: incitar contra, enviar a · + ac. e inf. · med. + dat.: lanzarse contra
+vor	e)poimw/zw	ia	gemir por (+ dat.)	1c
+vpn	e)pore/omai	ia	= ἐπόρνυμαι, lanzarse contra	y
+vqj	e)poxetei/a	ia	riego por canales	1f
+vrf	e)pwkh/s	ia	algo ácido	3z
+vsb	e)qe/lexqros	ia	que guarda rencor, hostil adrede	3e
+vt7	e)qelorh/twr	ia	que presume de orador	1e
+vu3	e)ranismo/s	ia	= ἐράνισις, colecta	s
+vuz	e)re/ptomai	ia	comer, alimentarse de	dc	+ ac.
+vvv	e)reistiko/s	ia	que empuja	2z
+vwr	e)reunhte/os	ia	que se ha de investigar	0
+vxn	e)rgatei/a	ia	trabajo, artesanía; cuadrilla de obreros; Ergatia (fiesta de Heracles en Laconia)	5m
+vyj	e)rhma/s	ia	solitaria, desierta (fem.)	17
+vzf	e)ri/floios	ia	de corteza gruesa	27
+w0b	e)ribru/xhs	ia	= ἐρίβρυχος, que muge o ruge con fuerza	38
+w17	e)rioplu/ths	ia	lavador de lana, batanero	3f
+w23	e)riw/dhs	ia	lanoso, semejante a la lana	3u
+w2z	e)rugh/	ia	eructo; mugido	2x
+w3v	e)ruqroda/nwsis	ia	teñido de escarlata	1f
+w4r	e)rwta/w	ia	preguntar, interrogar (+ ac.: a alguien, algo); rogar, pedir	23q	tr. · + doble ac. · + interrogativa indirecta
+w5n	e)sfla/w	ia	fracturarse hacia dentro (pas.)	1i
+w6j	e)sxa/rios	ia	del hogar	1x
+w7f	e)thtumi/h	ia	verdad	0
+w8b	e)uknh/mis	ia	de hermosas grebas	0
+w97	e)xe/trwsis	ia	nueza (planta)	2h
+wa3	e)xini/s	ia	= ἐχῖνος, erizo de mar	1e
+waz	e)xqrw/dhs	ia	hostil	6j
+wbv	ei(rkte/os	ia	que se debe impedir, hay que impedir	0
+wcr	ei)/rwn	ia	el que finge ignorancia, irónico, disimulado	b0
+wdn	ei)=pon	ia	aor. de λέγω: dije; decir, hablar; mandar (+ inf.)	3fh	tr. · + dat. o πρός + ac.: decir a · + ὅτι/ὡς: decir que · + dat. e inf. o ac. e inf.: mandar (que)
+wej	ei)du/los	ia	= εἰδήμων, conocedor, entendido	2c
+wff	ei)kaiologi/a	ia	charla vana, palabras a la ligera	11
+wgb	ei)konopoii/a	ia	fabricación de imágenes	0
+wh7	ei)kosinh/ritos	ia	veinte veces innumerable, inmenso	3h
+wi3	ei)lhda/	ia	enroscándose	0
+wiz	ei)nosi/fullos	ia	de follaje agitado, de hojas temblorosas	32
+wjv	ei)rwneu/omai	ia	fingir ignorancia, hacerse el ignorante, ironizar	ai
+wkr	ei)sai/w	ia	percibir el sonido, oír	0
+wln	ei)sdromh/	ia	incursión, irrupción	3y
+wmj	ei)shghte/on	ia	hay que proponer	w
+wnf	ei)sne/w	ia	entrar a nado; atravesar a nado	20
+wob	ei)spnh/las	ia	amante, enamorado (en Esparta)	2g
+wp7	eu(/rhsis	ia	= εὕρεσις, hallazgo	1b
+wq3	eu)/boulos	ia	de buen consejo, prudente	7v
+wqz	eu)/flastos	ia	fácil de triturar	15
+wrv	eu)/ixqus	ia	rico en peces	3g
+wsr	eu)/krotos	ia	bien sonante, sonoro	4x
+wtn	eu)/mnhstos	ia	que recuerda fielmente (+ gen.)	2w
+wuj	eu)/ormos	ia	de buen fondeadero, de buen puerto	72
+wvf	eu)/polis	ia	rico en ciudades	1g
+wwb	eu)/qraustos	ia	quebradizo, frágil	4r
+wx7	eu)/septos	ia	muy venerable, santo	1m
+wy3	eu)/swtros	ia	de buenas llantas, de buenas ruedas	4d
+wyz	eu)/ugros	ia	muy húmedo	13
+wzv	eu)/zwmos	ia	= εὔζωμον, oruga (planta)	0
+x0r	eu)a/n	ia	¡evan!, ¡evoé! (grito de las bacantes)	61
+x1n	eu)agh/s3	ia	bien conducido, regular; redondeado	10w
+x2j	eu)ana/gwgos	ia	fácil de expectorar	1k
+x3f	eu)apo/niptos	ia	fácil de lavar	1d
+x4b	eu)bafh/s	ia	bien teñido; de color vivo	bo
+x57	eu)daimonismo/s	ia	acción de considerar feliz, felicitación; favor de la fortuna, dicha	4y
+x63	eu)dia/qruptos	ia	fácil de triturar	1m
+x6z	eu)doci/a	ia	buena reputación, celebridad, gloria; buena opinión, confianza	9b
+x7v	eu)e/kruptos	ia	fácil de lavar	15
+x8r	eu)ece/tastos	ia	fácil de examinar o criticar	1n
+x9n	eu)epi/bleptos	ia	fácil de ver, manifiesto	41
+xaj	eu)ergete/w	ia	hacer el bien, beneficiar, + ac.; pas.: recibir beneficios	17g	tr. · + doble ac.: hacer un beneficio · pas.: recibir beneficios
+xbf	eu)fhmismo/s	ia	eufemismo	88
+xcb	eu)fuw=s	ia	ventajosamente, convenientemente; con talento, ingeniosamente	0
+xd7	eu)gone/w	ia	ser fecundo	1n
+xe3	eu)h/trios	ia	bien tejido	9w
+xez	eu)i/sxios	ia	de hermosas caderas	52
+xfv	eu)kata/gwgos	ia	fácil de tensar (máquina de torsión); de buen desembarco (puerto)	47
+xgr	eu)kathgo/rhtos	ia	fácil de acusar, censurable	2f
+xhn	eu)koinwnhsi/a	ia	sociabilidad	1o
+xij	eu)ku/klwtos	ia	bien redondeado	1e
+xjf	eu)loghto/s	ia	bendito	2g
+xkb	eu)me/qodos	ia	fácil de descubrir o abarcar; bien ordenado, metódico	90
+xl7	eu)metri/a	ia	buena medida, buena proporción; excelencia métrica	5a
+xm3	eu)nh/	ia	lecho, cama; lecho conyugal; esposa; unión amorosa; guarida, cubil; pl. piedras de ancla	1t9
+xmz	eu)o/rektos	ia	que abre el apetito, apetitoso	3g
+xnv	eu)oxe/w	ia	guiar bien; pas.: dejarse guiar bien (elefante)	3p
+xor	eu)para/lhptos	ia	de fácil aplicación	19
+xpn	eu)peiqh/s	ia	fácil de persuadir, dócil, obediente; fácil de digerir; persuasivo	h9
+xqj	eu)perio/ristos	ia	bien delimitado	2b
+xrf	eu)poi/kilos	ia	muy variado, muy moteado	1r
+xsb	eu)pro/soistos	ia	fácilmente accesible; fácil	29
+xt7	eu)qanasi/a	ia	muerte dulce, muerte feliz; muerte noble	3s
+xu3	eu)qhlh/s	ia	= εὐθαλής, floreciente	g
+xuz	eu)qu/s2	ia	adv. directamente, derecho (+ gen.); al punto, enseguida, inmediatamente	4kb
+xvv	eu)quma/xos	ia	que va derecho al enemigo	0
+xwr	eu)qutome/w	ia	hacer una incisión recta	2s
+xxn	eu)ru/opa	ia	que ve a lo lejos (épico, epíteto de Zeus)	p1
+xyj	eu)rume/dwn	ia	que reina a lo lejos (= εὐρυκρείων)	4y
+xzf	eu)rwsti/a	ia	fuerza, vigor	4x
+y0b	eu)ski/astos	ia	bien sombreado, bien resguardado	1n
+y17	eu)strofa/ligc	ia	bien enrollado, rizado	1t
+y23	eu)suneidhsi/a	ia	escrupulosidad, integridad	1q
+y2z	eu)tekni/a	ia	dicha de tener hijos nobles o numerosos	bq
+y3v	eu)trapeli/zomai	ia	bromear	2i
+y4r	eu)upe/rbatos	ia	fácil de franquear; (articulación) que se disloca fácilmente; de fácil acceso	55
+y5n	eu)xa/raktos	ia	bien acuñado	1p
+y6j	eu)xrhste/omai	ia	ser bien tratado	0
+y7f	fa/lagc	ia	falange, línea de batalla, formación; tropa formada; tronco, rodillo	23h
+y8b	fa/simos	ia	denunciado	51
+y97	faesi/mbrotos	ia	que brilla para los mortales	99
+ya3	faino/lis	ia	(fem.) brillante, portadora de luz	2x
+yaz	falaggomaxe/w	ia	combatir en falange	3o
+ybv	falo/s	ia	brillante, blanco	7i
+ycr	fantasiastiko/s	ia	imaginativo, receptivo de impresiones; τὸ φαντασιαστικόν: la imaginación	4p
+ydn	farma/ssw	ia	tratar con drogas; envenenar; hechizar; curar; templar (el metal)	rf	tr.
+yej	farmakto/s	ia	envenenado; venenoso	2q
+yff	fatni/on	ia	alvéolo dentario; encía; pesebre pequeño	3l
+ygb	fe/raspis	ia	portador de escudo	3f
+yh7	fellei/ths	ia	habitante de Feleo	15
+yi3	fere/trios	ia	Feretrio (epíteto de Júpiter)	1m
+yiz	feu=	ia	¡ay!, ¡ah! (dolor, asombro); + gen.: ¡ay de…!	ya
+yjv	fhmi/	ia	decir, afirmar; decir que sí; creer, pensar; οὔ φημι: negar	6c3	+ inf. o ac. e inf.: decir que · οὔ φημι + inf.: negar que, rehusar
+ykr	fi/lombros	ia	amante de la lluvia	34
+yln	fialwto/s	ia	en forma de platillo, de cabeza ancha y plana	4e
+ymj	fila/rxaios	ia	= φιλαρχαῖος, amante de lo antiguo	4q
+ynf	filalusth/s	ia	que se turba fácilmente	1j
+yob	filaute/w	ia	amarse a sí mismo	12
+yp7	fileortasth/s	ia	= φιλέορτος, amante de las fiestas	w
+yq3	filh/donos	ia	amante del placer, voluptuoso	7a
+yqz	filhth/s	ia	amante	1b
+yrv	filo/cenos	ia	hospitalario, amigo de los extranjeros	d5
+ysr	filo/komos	ia	que cuida su cabellera	1m
+ytn	filo/neikos	ia	pendenciero, amigo de disputas	0
+yuj	filo/skepos	ia	que busca abrigo	32
+yvf	filo/zwos	ia	apegado a la vida	ey
+ywb	filofo/rmigc	ia	amigo de la lira, que acompaña a la lira (del canto)	2w
+yx7	filoi/stwr	ix	deseoso de saber, curioso	0
+yy3	filokte/anos	ia	amante de las posesiones, codicioso, ávido de lucro	2a
+yyz	filomh/la	ix	Filomela (hija de Pandión); ruiseñor, golondrina	0
+yzv	filopaqh/s	ia	entregado a sus pasiones, sensual	1p
+z0r	filoposi/a	ia	afición a la bebida	41
+z1n	filorrhmati/a	ia	afición a las expresiones rebuscadas	1g
+z2j	filosuggenh/s	ia	que ama a sus parientes	2n
+z3f	filotrafh/s	ia	= φιλότροφος, nutricio	11
+z4b	filozwwte/on	ia	hay que aferrarse a la vida	2e
+z57	fitro/s	ia	tronco, leño	79
+z63	flebiko/s	ia	de las venas, venoso	4h
+z6z	flegu/hs	ix	Flegias (rey de los lapitas); (pl.) flegias (pueblo de Tesalia)	0
+z7v	flogi/s	ia	trozo de carne asada, filete	48
+z8r	floistiko/s	ia	= φλοϊστικός, relativo al descortezado	0
+z9n	fluktainoeidh/s	ia	semejante a una ampolla	1c
+zaj	fobe/w	ia	poner en fuga; asustar, aterrar; pas.: huir; temer, tener miedo (+ ac., μή + subj.); respetar	4ah	tr. · pas.: huir · pas. + ac.: temer · pas. + μή + subj.: temer que · pas. + inf.: temer (hacer)
+zbf	foiba/stria	ia	profetisa	x
+zcb	foinikai=os	ia	Fenicio (mes de Corinto)	1p
+zd7	foinikofo/ros	ia	portador de palmas (cargo religioso); que lleva una palma (moneda)	5e
+ze3	fona/w	ia	ansiar la matanza, ser sanguinario	98
+zez	forbeia/	ia	cabestro, ronzal; bocera de cuero del flautista	ji
+zfv	formu/nios	ia	variedad de higo	1y
+zgr	fourna/kios	ia	cocido al horno	1a
+zhn	fqeirotrage/w	ia	comer piojos	1z
+zij	fqito/s	ia	consumido, destruido, muerto; οἱ φθιτοί: los muertos	ef
+zjf	fra/cis	ia	barricada; cercado (de un recinto); tipo de armadura defensiva	4q
+zkb	frastiko/s	ia	relativo a la expresión; τὸ φ.: facilidad de palabra	82
+zl7	frenitiko/s	ia	que padece frenitis, frenético	7q
+zm3	fri/c	ia	encrespamiento del mar; erizamiento del pelo; escalofrío	jt
+zmz	froimia/zomai	ia	hacer un preludio o exordio; decir a modo de preámbulo	i
+znv	froumenta/rios	ia	frumentario (lat. frumentarius)	5z
+zor	frugani/zomai	ia	recoger leña menuda, ramas secas	0
+zpn	fu/geqron	ia	inflamación de los ganglios (ingle, axila), bubón	71
+zqj	fu/skion	ia	embutido pequeño	16
+zrf	fugadeuto/s	ia	desterrado	28
+zsb	fukio/eis	ia	lleno de algas	3o
+zt7	fulakth/rios	ia	que sirve de protección, protector	5y
+zu3	fullofo/ros	ia	que lleva hojas; que gana la corona de hojas	35
+zuz	fush/twr	ia	= φυσητήρ, que sopla	1t
+zvv	fusiolo/ghma	ia	proposición científica	1r
+zwr	futo/omai	ia	convertirse en ser vegetativo	2c
+zxn	fw/kh	ia	foca	60
+zyj	fwleute/on	ia	hay que ocultarse	1j
+zzf	fwsfo/rion	ia	figurilla de la Fósforo (en un sello); santuario de la Fósforo	7p
+100b	ga/lion	ia	cuajaleche (planta)	2x
+1017	gaggliw/dhs	ia	de tipo ganglionar	2c
+1023	galakti/as	ia	= γαλαξίας, Vía Láctea	1v
+102z	galerwpo/s	ia	de rostro alegre	1h
+103v	game/tis	ia	esposa	0
+104r	ganwto/s	ia	estañado, pulido, barnizado	1p
+105n	gastrologi/a	ia	Gastrología (tratado gastronómico de Arquéstrato)	45
+106j	ge/h	ia	= γῆ, tierra	2k
+107f	gefuri/zw	ia	lanzar burlas groseras (como desde el puente en los misterios de Eleusis)	3y
+108b	geiso/w	ia	proteger con un alero o cornisa	1c
+1097	gelgopwle/w	ia	vender ajos	1p
+10a3	genealogi/a	ia	genealogía	4u
+10az	genh/	ia	= γενεά, linaje, raza (poét.)	1v
+10bv	gerai/rw	ia	honrar, recompensar con una distinción; obsequiar (+ ac. y dat.); venerar	yy	tr. · + ac. y dat.: honrar a alguien con
+10cr	gerontomani/a	ia	locura senil	2w
+10dn	gewgra/fos	ia	geógrafo	3m
+10ej	gewtragi/a	ia	ingestión de sustancias terrosas, geofagia	1t
+10ff	ghqe/w	ia	alegrarse; pf. γέγηθα: estar alegre	1cg	intr. · + part.: alegrarse de · + ac. o dat.
+10gb	gi/ggras	ia	pequeña flauta fenicia	8e
+10h7	glago/trofos	ia	alimentado con leche	w
+10i3	glaukoxai/ths	ia	de cabellera o crines grisáceas	2b
+10iz	glisxro/ths	ia	viscosidad; mezquindad; sutileza, espíritu de chicana	a2
+10jv	gluka/dion	ia	golosina; vinagre	2v
+10kr	gluku/strufnos	ia	dulce y astringente	1w
+10ln	glwssi/dion	ia	lengüecita; lengüeta (de flauta)	3h
+10mj	gna/qwn	ia	glotón, comilón	0
+10nf	gnwmateu/w	ia	discernir, distinguir	ak
+10ob	gnwto/s	ia	conocido, sabido; familiar	au
+10p7	goggulo/rugxos	ia	de pico redondo	1b
+10q3	gomfwth/r	ia	constructor de barcos; instrumento quirúrgico para extirpar hueso	3q
+10qz	gonukline/w	ia	doblar la rodilla, arrodillarse	10
+10rv	gra/pis	ia	piel mudada (de serpiente); arrugado; especie de ave	3v
+10sr	grammati/as	ia	piedra preciosa parecida a la esmeralda	48
+10tn	grapte/os	ia	que se debe escribir, dibujar o pintar	22
+10uj	gripeu/w	ia	pescar	k
+10vf	gruph/	ia	pl.: nidos de buitre	15
+10wb	gu/rwsis	ia	excavación de hoyo circular (para plantar)	25
+10x7	gumnasi/arxos	ia	gimnasiarca	8b
+10y3	gumnosa/ndalos	ia	sin sandalias, descalzo	1l
+10yz	gunaikogh/rutos	ia	proclamado por una mujer	1u
+10zv	gurgaqi/on	ia	cestita, red (para suspender sustancias)	2v
+110r	gwniopoie/omai	ia	formar en ángulo	1r
+111n	h(=mai	ia	estar sentado; estar quieto, inactivo; residir	1pr	intr. · + dat. o ἐν/ἐπί + dat.: estar sentado en
+112j	h(du/glwssos	ia	de dulce lengua, de voz agradable	1x
+113f	h(duloge/w	ia	decir cosas agradables	1c
+114b	h(gemo/neuma	ia	conducción, guía	36
+1157	h(li=tis	ia	de clavos; ἡ. λεπίς: escoria de hierro de los clavos	3g
+1163	h(liokaute/w	ia	quemarse al sol	1u
+116z	h(meri/s	ia	domesticado, cultivado; ἡ ἡ.: vid cultivada	8w
+117v	h(meroskopei=on	ia	puesto de vigilancia diurna	1t
+118r	h(mi/kautos	ia	medio quemado	e
+119n	h(mi/qeos	ia	semidiós	b2
+11aj	h(mibraxh/s	ia	medio regado; empapado	39
+11bf	h(mikefa/laion	ia	= ἡμίκραιρα, media cabeza (forma menos ática)	26
+11cb	h(mime/qusos	ia	= ἡμιμεθής, medio borracho	16
+11d7	h(mipo/dion	ia	medio pie	4w
+11e3	h(mistro/ggulos	ia	medio redondo	19
+11ez	h(mizu/gios	ia	que forma un brazo de la balanza	1y
+11fv	h(patoskopi/a	ia	inspección del hígado, hepatoscopia	1b
+11gr	h(suxasth/s	ia	ermitaño	19
+11hn	h)/ra	ia	2.ª sg. aor. med. de αἴρω (dór.); 3.ª sg. impf. de ἐράω	3v
+11ij	h)e/1	ia	= ἤ, o (ép.)	23
+11jf	h)lai/nw	ia	= ἀλαίνω, errar, vagar	4v
+11kb	h)ma/tios	ia	diurno, de día; de cada día	8a
+11l7	h)phth/rion	ia	aguja	1n
+11m3	h)qmo/s	ia	colador, criba; pestañas	0
+11mz	h)rieu/s	ia	cadáver	v
+11nv	h)xiko/s	ia	= ἠχητικός; que canta (en eolio)	3m
+11or	i(/ppeusis	ia	equitación, cabalgada	1j
+11pn	i(e/rwma	ia	objeto consagrado, ofrenda	72
+11qj	i(eratei/a	ia	sacerdocio, función sacerdotal	85
+11rf	i(ero/s	ia	sagrado, santo; consagrado (+ gen.); augusto, poderoso (hom.); τὸ ἱ.: santuario; τὰ ἱ.: sacrificios, ritos	6f1
+11sb	i(eroni/khs	ia	vencedor en los juegos sagrados	5x
+11t7	i(erw/sunos	ia	sacerdotal; τὰ ἱ.: porciones de la víctima reservadas al sacerdote	8z
+11u3	i(la/ria	ia	hilarias (fiestas de regocijo, esp. de la Gran Madre)	5l
+11uz	i(mali/s	ia	Himalis (epíteto siracusano de Deméter)	1f
+11vv	i(mero/frwn	ia	de espíritu amable	1t
+11wr	i(pparxe/w	ia	ser comandante de caballería	b2
+11xn	i(ppiatriko/s	ia	de veterinaria, de albeitería; τὰ ἱ.: tratados de veterinaria	64
+11yj	i(ppo/tis	ia	fem. de ἱππότης, ecuestre, amazona	1m
+11zf	i(ppoko/mos	ia	palafrenero, mozo de cuadra, escudero	6k
+120b	i(ppoqow/nteion	ia	santuario de Hipotoonte	16
+1217	i(rwsu/nh	ia	= ἱερωσύνη, sacerdocio (jón.)	2g
+1223	i(stourge/w	ia	tejer, trabajar en el telar	2q
+122z	i)/gkros	ia	= ἐγκέφαλος, cerebro	19
+123v	i)/pnon	ia	cola de caballo acuática (Hippuris vulgaris)	1w
+124r	i)/wsis	ia	refinación (del oro), oxidación	68
+125n	i)alemi/zw	ia	lamentarse	1v
+126j	i)atreu/w	ia	tratar médicamente, curar, + ac.	ed	tr. · intr.: ejercer la medicina
+127f	i)ceuth/rios	ia	semejante a la liga	16
+128b	i)di/wtis	ia	profana, inexperta (fem. de ἰδιώτης)	0
+1297	i)diologi/a	ia	teoría subjetiva; conversación privada	4x
+12a3	i)diwti/zw	ia	pronunciar a la manera local	1o
+12az	i)kri/wma	ia	andamio, tablado	2u
+12bv	i)luspa/omai	ia	arrastrarse, retorcerse	7d
+12cr	i)obafh/s	ia	teñido de violeta	1t
+12dn	i)pno/s	ia	horno, hornillo; lugar del fogón, cocina; linterna	f3
+12ej	i)qudi/khs	ia	que juzga rectamente, justo	25
+12ff	i)sa/kis	ia	adv. el mismo número de veces	e7
+12gb	i)shmerino/s	ia	equinoccial; ὁ ἰσημερινός (κύκλος): el ecuador	i8
+12h7	i)so/ogkos	ia	de igual volumen	2h
+12i3	i)so/xnoos	ia	tan lanoso como, + dat.	1u
+12iz	i)sogra/fos	ia	que escribe igual	0
+12jv	i)somoiriko/s	ia	(astrol.) de posiciones equivalentes	1y
+12kr	i)sostrofh/	ia	correspondencia, reciprocidad	2a
+12ln	i)sqmw/dhs	ia	semejante a un istmo	0
+12mj	i)sxno/ths	ia	delgadez, flaqueza; (estilo) sobriedad, sencillez	a5
+12nf	i)sxuropoio/s	ia	fortificante	21
+12ob	i)wli/a	ia	= φήμη, rumor	t
+12p7	i)xquako/s	ia	= ἰχθυικός, de los peces; puerta del Pescado	3k
+12q3	i)xquopw/lhs	ia	pescadero	63
+12qz	ka/gkelos	ia	cancela, barrera; cajón de salida (en carreras)	ci
+12rv	ka/lpasos	ia	= κάρπασος, lino fino	10
+12sr	ka/mwn	ia	= σκαμμωνία, escamonea	14
+12tn	ka/ppa	ia	kappa (letra); como cifra: 20	h
+12uj	ka/ra	ia	cabeza; rostro, persona; cima	1ex
+12vf	ka/rron	ia	carro, carreta	3r
+12wb	ka/teimi	ia	bajar, descender; regresar, volver del exilio; desembocar	z1	intr. · + εἰς + ac.: bajar a · volver (del exilio)
+12x7	kaba/llhs	ia	caballo de trabajo, jamelgo	25
+12y3	kai=ros	ia	hilera de lizos del telar (para sujetar la urdimbre)	5x
+12yz	kainoprage/w	ia	acuñar formas nuevas	20
+12zv	kaka/bh	ia	= κακκάβη, olla	f
+130r	kakka/bion	ia	olla pequeña	36
+131n	kako/logos	ia	maldiciente	0
+132j	kako/rruqmos	ia	de mal ritmo; arrítmico (del pulso)	3l
+133f	kakodai/mwn	ia	poseído por un mal genio; desdichado, demente; funesto	f3
+134b	kakofrone/w	ia	meditar el mal, tener malos designios	37
+1357	kakokrisi/a	ia	juicio ilegal o inicuo	2e
+1363	kakopaqhtiko/s	ia	desdichado	1f
+136z	kakorrafeu/s	ia	= κακοποιός, malhechor	r
+137v	kakote/xnhma	ia	mala arte, artimaña	1n
+138r	kakwnumi/a	ia	mal nombre, mala fama	1b
+139n	kalamhtri/s	ia	= καλαμήτρια, espigadora	t
+13aj	kalaqoeidh/s	ia	en forma de cesta, estrecho por la base	4f
+13bf	kalli/difros	ia	de hermoso carro	1w
+13cb	kalli/pulos	ia	de hermosas puertas	1o
+13d7	kallie/rhsis	ia	= καλλιέρημα, sacrificio favorable	1c
+13e3	kallio/w	ia	embellecer	1e
+13ez	kalliw/numos	ia	de hermoso nombre; ὁ κ.: uranoscopo (pez)	5l
+13fv	kaloeidh/s	ia	de hermosa forma	1v
+13gr	kalou/fantos	ia	bien tejido	0
+13hn	kama/kion	ia	pértiga pequeña	1e
+13ij	kamhlw/n	ia	establo de camellos	22
+13jf	kampu/loxos	ia	de ruedas redondeadas	26
+13kb	kanhfori/a	ia	acción de llevar los cestillos sagrados; cargo de canéfora	1m
+13l7	kanqi/s	ia	estiércol de asno	y
+13m3	kapnoba/ths	ia	que camina entre el humo (epíteto de un pueblo pastor)	2j
+13mz	kaqa/risis	ia	= κάθαρσις, purificación	3l
+13nv	kaqaristh/s	ia	podador	15
+13or	kaqekte/os	ia	que se ha de contener	0
+13pn	kaqhlo/w	ia	clavar	jp	tr.
+13qj	kaqisth/rion	ia	asiento	1p
+13rf	kaqosio/omai	ix	consagrar, purificar	0
+13sb	kaqupourge/w	ia	prestar servicio	1e
+13t7	kardami/zw	ia	parecerse al mastuerzo; fig. hablar de nimiedades	3g
+13u3	karfi/on	ia	brizna; pl. ventosas (del pulpo)	3m
+13uz	karkino/w	ia	encorvar como pinzas de cangrejo; pas. extenderse como un cangrejo	cl
+13vv	karpoba/lsamon	ia	fruto del bálsamo	2n
+13wr	karro/qen	ia	de algo mejor	1u
+13xn	karu/kh	ia	cariqué (salsa lidia); guiso refinado	8h
+13yj	kasaurei=on	ia	burdel	2l
+13zf	kata/basis	ia	descenso, bajada; expedición de vuelta hacia el mar	e7
+140b	kata/fobos	ia	aterrado, espantado	8i
+1417	kata/kissos	ia	coronado de hiedra	16
+1423	kata/labros	ia	muy impetuoso (intensivo de λάβρος)	11
+142z	kata/neusis	ia	asentimiento	21
+143v	kata/pnicis	ia	ahogo, sofocación	2x
+144r	kata/rrafos	ia	cosido, remendado	1o
+145n	kata/stacis	ia	goteo	1h
+146j	kata/xristos	ia	para untar, en ungüento	3f
+147f	katabapte/on	ia	hay que sumergir	17
+148b	katablakeu/w	ia	descuidar, echar a perder por negligencia	5a
+1497	kataburso/w	ia	recubrir de cuero; coser en un saco de cuero	2j
+14a3	katade/w1	ia	atar fuertemente, sujetar; encarcelar, aprisionar; condenar; hechizar	1fk	tr. · + ac. e inf.: condenar por (ser)
+14az	katadoke/w	ia	juzgar desfavorablemente; sospechar, suponer	l0	+ ac. e inf.: sospechar que alguien hace algo · + dat. de pers.
+14bv	katafeu/gw	ia	refugiarse, buscar asilo; recurrir a	xj	intr. · + εἰς/ἐπί/πρός + ac.: refugiarse en, recurrir a
+14cr	katafro/nhma	ia	desprecio, arrogancia	4c
+14dn	kataggeleu/s	ia	heraldo, anunciador	42
+14ej	kataguio/w	ia	debilitar	12
+14ff	kataigi/s	ia	tempestad, huracán, ráfaga violenta	9m
+14gb	katakalu/ptw	ia	cubrir por completo, ocultar; med.: cubrirse	gh	tr.
+14h7	kataklhrodote/w	ia	distribuir en herencia	3c
+14i3	katakolumba/w	ia	sumergirse, bucear	22
+14iz	katakrhmni/zw	ia	despeñar, precipitar	eg	tr.
+14jv	katakwma/zw	ia	irrumpir como en un cortejo festivo; ultrajar, insultar	2b
+14kr	katalh/yimos	ia	que debe ser apresado y condenado	1z
+14ln	kataloidore/w	ia	injuriar violentamente	1m
+14mj	katamaqhte/on	ia	hay que aprender a fondo, observar atentamente	20
+14nf	katami/gnumi	ia	mezclar; med.: mezclarse (εἰς + ac.)	w
+14ob	katanali/skw	ia	gastar, consumir, agotar; repartir, digerir	yt	tr. · + εἰς + ac.: gastar en
+14p7	katanoste/w	ia	volver del destierro	19
+14q3	katapaideu/w	ia	castigar	v
+14qz	katapeirasmo/s	ia	ataque, acceso (de enfermedad); escaramuza	4c
+14rv	katapla/ssw	ia	untar, emplastar; med.: untarse	q4	tr. · + ac. y dat.: untar con · med. + doble ac.
+14sr	katapo/rneusis	ia	prostitución	23
+14tn	kataprodi/dwmi	ia	entregar; traicionar	59
+14uj	kataqea/omai	ia	mirar desde arriba; contemplar atentamente	7h
+14vf	katardeu/w	ia	= κατάρδω, regar	z
+14wb	katarre/zw	ia	acariciar con la mano, palmear suavemente	6t
+14x7	katarxh/	ia	comienzo, principio	g2
+14y3	kataskeleteu/w	ia	reducir a esqueleto, desecar por completo	8x
+14yz	kataskoti/zw	ia	cubrir de tinieblas	1a
+14zv	kataspouda/zomai	ia	ser serio, obrar con seriedad	ed	intr. · + dat.: tomarse en serio
+150r	katasthmatiko/s	ia	sosegado, tranquilo	au
+151n	katastrofh/	ia	trastorno, derrocamiento; sometimiento, conquista; desenlace, fin; muerte	vs
+152j	katatagh/	ia	reducción (de huesos dislocados); colocación (de nombres en un mapa)	4l
+153f	katatribh/	ia	derroche, disipación	2g
+154b	kataxalkeu/w	ia	trabajar en bronce, guarnecer de bronce	4u
+1557	kataxrai/nomai	ia	embadurnar	0
+1563	katayu/xw	ia	refrescar, enfriar; secar, desecar	se	tr.
+156z	kateceumari/zw	ia	facilitar	x
+157v	katelpi/zw	ia	esperar firmemente	8p
+158r	kateqi/zw	ia	hacer habitual; acostumbrar	6c
+159n	kateudokime/w	ia	superar en reputación (+ gen.)	1b
+15aj	kateutuxe/w	ia	ser feliz, tener éxito	5p
+15bf	kathgoriko/s	ia	acusatorio; afirmativo (lóg.)	h0
+15cb	kato/mbrisis	ia	= κατομβρία, lluvia intensa	16
+15d7	katoiki/a	ia	establecimiento de una colonia; colonia; habitación	i0
+15e3	katonoma/zw	ia	nombrar, denominar	e5	tr. · + doble ac. · pas. + dat.: ser prometida a
+15ez	katoulo/omai	ix	cicatrizarse	0
+15fv	katwmisth/s	ia	que arroja al jinete por encima de los hombros (caballo)	1t
+15gr	kau=sos	ia	calor excesivo; fiebre ardiente, causón; serpiente cuya mordedura da sed ardiente	ar
+15hn	kauqmo/s	ia	quemadura, abrasamiento (enfermedad de los árboles); leña	4p
+15ij	kaxektiko/s	ia	= καχέκτης, de mala constitución	y
+15jf	ke/leuma	ia	= κέλευσμα, orden	m
+15kb	ke/rkouros	ia	nave ligera (chipriota)	bs
+15l7	kedri/a	ia	resina de cedro	2w
+15m3	kefaliko/s	ia	de la cabeza, para la cabeza	pe
+15mz	kei/rw	ia	cortar (el pelo), rapar, esquilar; segar, talar; devastar; devorar	3jg	tr. · med.: cortarse el pelo (en duelo)
+15nv	kekrime/nws	ia	juiciosamente, con conocimiento de causa	2p
+15or	keleu/qeios	ia	de los caminos; protectora de los caminos (Atenea)	2x
+15pn	kenandri/a	ia	falta de hombres, despoblación	1h
+15qj	kenofwne/w	ia	hablar vaciedades	o
+15rf	kentri/skos	ia	especie de pez	22
+15sb	kera/mwsis	ia	techado con tejas	2v
+15t7	kerami/dion	ia	tejita	2a
+15u3	kerati/a	ia	algarrobo	1g
+15uz	kerauni/as	ia	fulminado	12
+15vv	kerdw/	ia	zorra (la astuta)	6u
+15wr	kerofo/ros	ia	que lleva cuernos, cornudo	1n
+15xn	keuqmw/n	ia	escondrijo; regiones subterráneas, infierno; guarida (de fiera)	i9
+15yj	kh/rucis	ia	proclamación (como prueba de certamen)	20
+15zf	khdeuth/s	ia	= κηδεμών, protector	1a
+160b	khmo/s	ia	bozal; tapadera de mimbre en forma de embudo de la urna de votos	hb
+1617	khri/nh	ia	= κηρίων, cirio; nombre de un emplasto	2p
+1623	khropoio/s	ia	que fabrica cera	1c
+162z	khto/fagos	ix	que come cetáceos	0
+163v	ki/llos	ia	asno gris	4l
+164r	ki/ssinos	ia	de hiedra	58
+165n	kiki/balos	ia	especie de marisco	1y
+166j	kindayo/s	ia	= σκινδαψός	h
+167f	kinu/romai	ia	lamentarse, gemir; hacer resonar	bp
+168b	kiqarw|de/w	ia	cantar acompañándose de la cítara	1e
+1697	kissa/mpelos	ia	= ἑλξίνη, parietaria; especie de ciclamen	49
+16a3	kisswto/s	ia	cubierto o coronado de hiedra	1j
+16az	kla/sis	ia	rotura, fractura; modulación (de la voz); poda	h7
+16bv	klasauxeneu/w	ix	torcer el cuello con afectación, contonearse	0
+16cr	kleenno/s	ia	= κλεινός, famoso, ilustre (eol.)	3d
+16dn	klemma/dios	ia	robado	1o
+16ej	klh/qra	ia	aliso	2s
+16ff	klhrono/mhma	ia	herencia	1e
+16gb	klima/zw	ia	= κλιμακίζω, hacer la zancadilla (lucha)	0
+16h7	klinostro/fion	ia	instrumento de tortura	1c
+16i3	klopei=on	ia	objeto robado	12
+16iz	klusmatiko/n	ia	= κλυσμάτιον, pequeña lavativa	17
+16jv	klw=|stron	ia	= κλοῖστρον, cerrojo	i
+16kr	knafei=on	ia	batán, taller de batanero	4i
+16ln	knhmidofo/ros	ia	que lleva grebas	27
+16mj	knipei/a	ia	tacañería	1p
+16nf	knw/dac	ia	perno, pivote, eje	cx
+16ob	ko/llouros	ia	especie de pez	15
+16p7	ko/ndulos	ia	puño cerrado, nudillo; puñetazo; cóndilo (medida de longitud)	qx
+16q3	ko/qouros	ia	de cola cortada (del zángano)	2c
+16qz	ko/rxoros	ia	murajes azul, anagálide azul (planta amarga)	a4
+16rv	kobaleu/w	ia	acarrear como mozo de cuerda	3e
+16sr	kogxw/dhs	ia	= κοχλιώδης, en espiral	1p
+16tn	koiliolusi/a	ia	diarrea, flojedad de vientre	4j
+16uj	koimismo/s	ia	= κοίμισις, acción de adormecer	y
+16vf	koinofilh/s	ia	de afecto común	2h
+16wb	koinwno/s	ia	partícipe, socio, compañero (+ gen., + dat.); cómplice; esposo	o1
+16x7	kokkologe/w	ia	separar los granos (de cizaña del trigo); vendimiar	3c
+16y3	kolasth/rios	ia	punitivo; τὸ κολαστήριον: correccional; instrumento de castigo	7c
+16yz	kollopw/lhs	ia	vendedor de cola	1k
+16zv	koloiti/a	ia	árbol de las islas Lípari (Cytisus aeolicus)	4h
+170r	kolpoeidh/s	ia	semejante a un golfo	1u
+171n	kombi/on	ia	hebilla, broche	1x
+172j	kommwtiko/s	ia	relativo al acicalamiento; ἡ κομμωτική: arte del tocador; afectado (estilo)	cs
+173f	konh/	ia	asesinato; = κώνειον, cicuta	25
+174b	kontwto/s	ia	provisto de pértiga; τὸ κοντωτόν: barca de pértiga	3l
+1757	kopri/zw	ia	estercolar, abonar	7p
+1763	korakh/sion	ix	Coracesio (ciudad de Cilicia)	0
+176z	kori/skos	ia	muchachito; Corisco (como nombre de una persona cualquiera)	5s
+177v	koru/mbion	ia	racimito (dim. de κόρυμβος)	2f
+178r	korunio/eis	ia	nudoso	2u
+179n	koskini/zw	ia	= κοσκινεύω, cribar; golpear, zurrar	44
+17aj	kosmografi/a	ia	descripción del mundo, cosmografía	2e
+17bf	kotta/bion	ia	premio del vencedor en el cótabo	1y
+17cb	kou=fos	ia	ligero, ágil; no cargado; fácil de llevar o soportar; vano, irreflexivo	2tb
+17d7	kourew=tis	ia	Cureótide (tercer día de las Apaturias)	8s
+17e3	koxli/as	ia	caracol, concha en espiral; tornillo de Arquímedes; escalera de caracol	mp
+17ez	kra/ntwr	ia	= κραντήρ, el que cumple; soberano, rey	43
+17fv	kraipno/s	ia	pronto, rápido; impetuoso, violento	j0
+17gr	kratai/bios	ia	violentamente fuerte	28
+17hn	krateuth/rion	ia	= κρατευταί, morillo	v
+17ij	krauga/nomai	ia	= κραγγάνομαι, gritar	0
+17jf	krei/wn	ia	señor, soberano, jefe; noble	nw
+17kb	kreofa/gos	ia	carnívoro	2o
+17l7	krhmnismo/s	ia	= κρήμνισις, acción de despeñar	2g
+17m3	krhti/zw	ia	hablar u obrar como un cretense, mentir, engañar	0
+17mz	krikoeidh/s	ia	en forma de anillo	1q
+17nv	kriqi/asis	ia	indigestión de cebada (de los caballos)	3e
+17or	kro/kion	ia	cinta de lana	1p
+17pn	krokobafh/s	ia	teñido de azafrán, amarillento	5z
+17qj	krote/w	ia	hacer resonar; golpear, batir; aplaudir; forjar a martillo	1dt	tr. · intr.: aplaudir
+17rf	krousilu/rhs	ia	que tañe la lira	1j
+17sb	krufio/ths	ia	secreto, oscuridad	32
+17t7	krustallw/dhs	ia	helado, glacial; cristalino (agua)	2q
+17u3	kteati/zw	ia	adquirir, conquistar; med.: adquirir para sí	br
+17uz	kthsi/bios	ia	que posee bienes	1r
+17vv	ku/bela	ia	guaridas de fieras	13
+17wr	ku/knos	ia	cisne	h1
+17xn	ku/peiros	ia	= κύπειρον, juncia (planta)	3g
+17yj	ku/stis	ia	vejiga	ev
+17zf	kuanaigi/s	ia	la de la égida oscura (Palas)	0
+180b	kuaqiai=os	ia	del contenido de un ciato	4z
+1817	kubi/sthsis	ia	voltereta	1z
+1823	kufale/os	ia	= κυφός, encorvado (poét.)	1k
+182z	kuklismo/s	ia	movimiento circular, circularidad	3p
+183v	kuli/ndrion	ia	pequeño cilindro	3j
+184r	kuma/s	ia	mujer encinta	1l
+185n	kuminopristokardamoglu/fos	ia	parte-comino-raspa-berros, avaro redomado	2k
+186j	kunh/podes	ia	menudillos, cuartillas (del caballo)	24
+187f	kuno/glwsson	ia	cinoglosa, lengua de perro (planta)	0
+188b	kunokau/mata	ia	calores caniculares	3p
+1897	kunw/phs	ia	de mirada de perro, desvergonzado	9d
+18a3	kuqhgenh/s	ia	nacido en secreto	23
+18az	kuro/w	ia	sancionar, ratificar, confirmar; hacer prevalecer, decidir; pas.: ser decidido	19e	tr. · + inf. o ac. e inf.: decidir, decretar que
+18bv	kuye/lh	ia	vasija hueca; arca, cofre; colmena, celdilla; cerumen del oído	dt
+18cr	kw/rion	ia	= κόριον, muchachita (dór.)	m
+18dn	kwfhte/os	ia	= βλαπτέος, que se ha de dañar	p
+18ej	kwlusiergo/s	ia	que impide el trabajo; + gen.: que impide	24
+18ff	kwmodrome/w	ia	recorrer las aldeas	15
+18gb	kwnw/pion	ia	mosquito pequeño; lecho con mosquitero	7a
+18h7	kwri/a	ia	= κουρεύτρια, peluquera (dór.)	u
+18i3	la/gneuma	ia	coito; semen	2e
+18iz	la/qrh|	ia	= λάθρᾳ, en secreto, a escondidas (jón.)	rd
+18jv	la/xhsis	ia	= λάχεσις, suerte	12
+18kr	labroposi/a	ia	bebida excesiva	1e
+18ln	laga/nion	ia	= λάγανον, torta fina	2x
+18mj	lagw/xeilos	ia	de labio leporino	16
+18nf	laikasth/s	ia	prostituto, libertino	5z
+18ob	lake/ruza	ia	chillona, gritona	7h
+18p7	lalagh/	ia	murmullo, rumor leve; parloteo	18
+18q3	lampadodromiko/s	ia	de la carrera de antorchas	2q
+18qz	lampru/nw	ia	hacer brillante, pulir; dar esplendor, ilustrar; med.: distinguirse, hacer ostentación	za	tr. · med.: hacer ostentación, distinguirse
+18rv	laome/dwn	ia	soberano del pueblo	0
+18sr	laqraio/koitos	ia	adúltero, fornicador	1e
+18tn	laruggotomi/a	ia	traqueotomía	h
+18uj	latu/ph	ia	esquirla de piedra (al tallarla); piedra caliza	6f
+18vf	laxmhth/rion	ia	= λάχος, suerte, lote	19
+18wb	le/pion	ia	corteza fina, costra	2p
+18x7	leci/dion	ia	palabrita, vocablo (dim. de λέξις)	5k
+18y3	lei=os	ia	liso, pulido; sin bordar, llano; allanado, despejado + gen.; suave, tranquilo	2a4
+18yz	leionth=	ia	= λεοντῆ, piel de león (poét.)	1v
+18zv	leixhniko/s	ia	contra las erupciones de la piel	4e
+190r	lektroxarh/s	ia	que goza del lecho conyugal	1o
+191n	leonto/xortos	ia	devorado por un león	22
+192j	lepido/omai	ia	pas.: cubrirse de escamas; descamarse (huesos)	4k
+193f	lepto/liqos	ia	cubierto de guijarros	1r
+194b	leptome/rimnos	ia	meticuloso	2f
+1957	lesxhneu/w	ia	conversar + dat.; med.: id.	7s
+1963	leukaqe/w	ia	= λευκαθίζω, ser blanco	2d
+196z	leuko/pous	ia	de pies blancos, descalzo	3s
+197v	leukofle/gmatos	ia	que padece flema blanca	1r
+198r	leukoxrw/matos	ia	= λευκόχρως, de piel blanca	18
+199n	lh/mwsis	ia	secreción de legañas	2v
+19aj	lhi/dios	ia	capturado como botín	0
+19bf	lhmato/omai	ia	tener ánimo para la empresa	1q
+19cb	lhro/s	ix	= λῆρος: tontería, desvarío	0
+19d7	li/geios	ia	= λιγύς, sonoro, agudo	42
+19e3	li/sfos	ia	(át.) = ἄπυγος, sin nalgas; οἱ λίσφοι: caderas	4o
+19ez	libano/omai	ia	estar mezclado con incienso	3d
+19fv	ligu/kortos	ia	= λιγύκροτος, que resuena con fuerza	u
+19gr	liknofo/ros	ia	portador de la criba sagrada (en las fiestas de Dioniso)	2m
+19hn	limnasmo/s	ia	irrigación, inundación	26
+19ij	limw/dhs	ia	hambriento; escaso de alimentos; de hambrientos	6s
+19jf	linoplh/c	ia	= λινόπληκτος, que teme la red	w
+19kb	lipante/on	ia	hay que ungir	1p
+19l7	lipo/glhnos	ia	sin ojos, ciego	1s
+19m3	lipoqumiw/dhs	ia	semejante al desmayo	1o
+19mz	liqargurofanh/s	ia	semejante al litargirio	11
+19nv	liqobo/lhsis	ia	= λιθοβολία	e
+19or	liqokopiko/s	ia	de la talla de piedra, para cortar piedra	1w
+19pn	liqwmo/ths	ia	el que jura sobre la piedra del altar	2f
+19qj	litrw/dhs	ia	= νιτρώδης, nitroso	2p
+19rf	lo/pisma	ia	= λοπός, cáscara	14
+19sb	lofhfo/ros	ia	crestado, que lleva penacho	17
+19t7	logi/zomai	ia	calcular, contar; tener en cuenta, considerar; razonar, reflexionar; juzgar, creer	2pl	tr. · + ac. e inf. u ὅτι: calcular, juzgar que
+19u3	logole/sxhs	ia	charlatán	1e
+19uz	logxo/omai	ia	estar provisto de punta; estar adornado con puntas de lanza	6j
+19vv	loimeu/omai	ia	ser pestilente	1h
+19wr	lordo/s	ia	encorvado hacia atrás	3q
+19xn	loxagi/a	ia	mando de una compañía	4j
+19yj	lu/gisma	ia	torcedura	1u
+19zf	lu/zw	ia	sollozar; tener hipo	9u
+1a0b	lukaugh/s	ia	crepuscular; τὸ λ.: el crepúsculo	46
+1a17	luma/ntwr	ia	= λυμαντήρ, destructor	u
+1a23	luroergo/s	ia	que toca la lira	1f
+1a2z	lusimelh/s	ia	que relaja los miembros	88
+1a3v	lutiko/s	ia	apto para desatar; apto para refutar	9s
+1a4r	luxnomantei/a	ia	adivinación por medio de una lámpara	2s
+1a5n	lwbo/s	ia	= λωβητός, ultrajado, mutilado	1b
+1a6j	ma/disis	ia	= μάδησις, caída del pelo	3v
+1a7f	ma/lh	ia	axila; ὑπὸ μάλης: bajo el brazo, a escondidas	jg
+1a8b	ma/ransis	ia	extinción, consunción; marchitamiento	96
+1a97	ma/stac	ia	boca; papilla que los pájaros dan a sus crías; langosta (insecto)	mw
+1aa3	madaro/ths	ia	calvicie; caída de las pestañas	32
+1aaz	magga/na	ia	barril de vino	17
+1abv	maiandrw/dhs	ia	sinuoso	16
+1acr	makariste/on	ia	hay que considerar feliz	16
+1adn	makro/kwlos	ia	de miembros largos (de un período retórico)	4c
+1aej	makrofwne/w	ia	gritar, cantar en voz alta	1b
+1aff	makroqumi/a	ia	longanimidad, paciencia	5c
+1agb	malagmati/zw	ia	ablandar	z
+1ah7	malakoptuxh/s	ia	de pliegues blandos (de panes)	1v
+1ai3	malqaki/zomai	ia	ablandarse; ceder, aflojar; ser cobarde	70
+1aiz	mani/kia	ia	puños, mangas (lat. manica)	2a
+1ajv	manteuth/s	ia	= μάντις, adivino	r
+1akr	maraqi/s	ia	= ἱππομάραθον, hinojo de caballo	13
+1aln	marmaro/eis	ia	brillante, resplandeciente	1w
+1amj	masqwto/n	ia	= μαστάριον, tapa de alambique	1q
+1anf	mastixa=ton	ia	vino de almáciga	16
+1aob	mataiofrone/w	ia	pensar neciamente	14
+1ap7	mattua/zw	ia	comer o preparar matía	1b
+1aq3	maxla/s	ia	lasciva, libidinosa; exuberante (de cosas)	5q
+1aqz	me/dw	ia	cuidar de, proteger, reinar sobre (+ gen.)	11j
+1arv	me/los	ia	miembro, articulación; canto, melodía; poesía lírica	1v2
+1asr	me/rmis	ia	cordel, cuerda	5j
+1atn	me/trhsis	ia	medición	6t
+1auj	megalau/xhtos	ia	muy celebrado	1e
+1avf	megalo/frwn	ia	de sentimientos elevados, magnánimo; orgulloso, altivo	bp
+1awb	megalo/splagxnos	ia	de vientre abultado; altivo, de alma altanera	7b
+1ax7	megalofrosu/nh	ia	grandeza de ánimo, nobleza de sentimientos; orgullo, altivez	c5
+1ay3	megalopoli/ths	ia	ciudadano de una gran ciudad	1p
+1ayz	megasxidh/s	ia	de gran hendidura	11
+1azv	mei=rac	ia	muchacha; muchacho	bf
+1b0r	meio/w	ia	disminuir, aminorar (+ ac.); rebajar; pas.: decrecer, menguar; ser inferior a (+ gen.)	sz	tr. · pas.: menguar · pas. + gen.: ser inferior a
+1b1n	mela/gxolos	ia	impregnado de bilis negra	1k
+1b2j	mela/nsternos	ia	de pecho negro	16
+1b3f	melampe/talos	ia	de hojas negras	1x
+1b4b	melano/pteros	ia	de alas negras	35
+1b57	melanw=pis	ia	de aspecto negro	1y
+1b63	melhdw/n	ia	= μελεδώνη, cuidado, preocupación	31
+1b6z	meli/ptorqos	ia	de ramas dulces (regaliz)	1w
+1b7v	melikhrw/dhs	ia	debido a una meliceris	1c
+1b8r	melithro/s	ia	de miel, para miel; semejante a la miel; ἡ μελιτηρά: emplasto	62
+1b9n	mellhtiko/s	ia	inclinado a demorar, irresoluto	2h
+1baj	melw|do/s	ia	que canta; melodioso	65
+1bbf	memyimoiri/a	ia	queja de la propia suerte, descontento	3c
+1bcb	meqekto/s	ia	participable; participante	57
+1bd7	meqodiko/s	ia	metódico	k0
+1be3	mequtro/fos	ia	que produce vino	1d
+1bez	mesa/dios	ia	central (eol.)	1x
+1bfv	mesh/rhs	ia	situado en medio	5d
+1bgr	meso/kwlon	ia	parte media de un miembro; mesocolon	4q
+1bhn	mesokrinh/s	ia	que separa por el medio	3r
+1bij	mesotei/xios	ia	entre la muralla y las obras de asedio; τὸ μεσοτείχιον: espacio entre la muralla y las obras de asedio	44
+1bjf	meta/frasis	ia	traducción, paráfrasis, explicación	2t
+1bkb	meta/tacis	ia	cambio en el orden de batalla	1w
+1bl7	metaculogi/a	ia	uso de digresiones	38
+1bm3	metaforiko/s	ia	metafórico, figurado; aficionado a las metáforas	6i
+1bmz	metai/ssw	ia	lanzarse tras	0
+1bnv	metako/nduloi	ia	falanges distales de los dedos	6q
+1bor	metallei/a	ia	explotación minera; minado; mina	97
+1bpn	metamosxeu/w	ia	trasplantar	26
+1bqj	metaphda/w	ia	saltar de un lugar a otro	75
+1brf	metarri/ptw	ia	trastornar, cambiar de arriba abajo; hacer cambiar de partido	al
+1bsb	metastre/fw	ia	volver, dar la vuelta; cambiar; refutar; intr. y pas.: volverse	1ie	tr. · intr. y pas.: volverse · + gen.: preocuparse de
+1bt7	metauti/ka	ia	inmediatamente después	1r
+1bu3	mete/mbasis	ia	transición	1t
+1buz	metenhnegme/nws	ia	metafóricamente	22
+1bvv	metewropore/w	ia	recorrer los aires	4h
+1bwr	metoikofu/lac	ia	magistrado encargado de los metecos (en Atenas)	24
+1bxn	metrio/ths	ia	justa medida, moderación, mesura	iz
+1byj	mh/kistos	ia	superl. de μακρός: larguísimo, altísimo; neutr. adv.: lo más lejos; pl.: por fin	tj
+1bzf	mh/tra	ia	matriz, útero, seno materno	of
+1c0b	mhdo/lws	ia	de ningún modo, en absoluto	28
+1c17	mhli/zw	ia	ser de color amarillo membrillo	2m
+1c23	mhlope/pwn	ia	especie de melón	2t
+1c2z	mhnoeidh/s	ia	en forma de media luna, semilunar	f3
+1c3v	mhtragurte/w	ia	ser sacerdote mendicante de Cibeles	1i
+1c4r	mhtropa/twr	ia	abuelo materno	2f
+1c5n	mhxanopoii/a	ia	construcción de máquinas de guerra	0
+1c6j	mi/nion	ia	minio (sustancia semejante al cinabrio)	1x
+1c7f	miai/nw	ia	teñir; manchar, mancillar, contaminar	1tn	tr. · + ac. y dat.: manchar con
+1c8b	micoludisti/	ia	en modo mixolidio	2e
+1c97	mikro/sarkos	ia	de poca carne	1l
+1ca3	mikrokle/pths	ia	ladronzuelo	1f
+1caz	mikru/nw	ia	empequeñecer; escribir con ómicron	5z
+1cbv	mimhla/zw	ia	= μιμέομαι, imitar	4s
+1ccr	minuro/s	ia	quejumbroso, que gime suavemente	6a
+1cdn	miso/dikos	ia	que odia los pleitos	1y
+1cej	misoguni/a	ia	misoginia	24
+1cff	misotu/rannos	ia	que odia a los tiranos o la tiranía	25
+1cgb	misqwth/s	ia	arrendatario; arrendador de impuestos	8p
+1ch7	mnh/sios	ia	de la memoria	1z
+1ci3	mnhsikaki/a	ia	rencor, resentimiento	25
+1ciz	mo/mfos	ia	= μομφή, reproche, censura	5q
+1cjv	mo/ron	ia	mora (fruto del moral o de la zarza)	83
+1ckr	moi/xios	ia	= μοιχικός, adúltero	1i
+1cln	moixeuto/s	ia	adúltero, adulterino	16
+1cmj	molpoi/	ia	cofradía de músicos (en Mileto)	1r
+1cnf	mona/lusis	ia	cadena simple	17
+1cob	monaxou=	ia	solamente; en un solo lugar	55
+1cp7	mono/fwnos	ia	de una sola voz o tono	2a
+1cq3	mono/pelmos	ia	de una sola suela	2a
+1cqz	mono/wros	ia	en el espacio de una hora	2d
+1crv	monogra/mmatos	ia	de una sola letra	2d
+1csr	mononou/k	ix	casi, poco menos que	0
+1ctn	monotone/w	ia	ser obstinado	12
+1cuj	morfoeidh/s	ia	que tiene forma, formal (filos.)	4m
+1cvf	mosxei/a	ia	plantación de esquejes o acodos	3q
+1cwb	mousi/zw	ia	cantar, tocar música	43
+1cx7	mousta/rion	ia	= μουστάκιον, torta de mosto; medida de vino	19
+1cy3	mu/dhsis	ia	moho, podredumbre	7d
+1cyz	mu/rmhc	ia	hormiga; especie de cuadrúpedo de la India	o0
+1czv	mu/xouros	ia	guardián del interior	1l
+1d0r	mue/linos	ia	tierno como la médula	1u
+1d1n	mukhth/s	ia	que muge, mugidor	2n
+1d2j	mullo/s	ia	torcido; especie de pastel de sésamo y miel (siciliano)	2d
+1d3f	muoqhre/w	ia	cazar ratones	q
+1d4b	muqologi/a	ia	mitología, estudio de las fábulas; relato fabuloso, cuento	5k
+1d57	muri/dion	ia	un poco de perfume (dim. de μύρον)	1a
+1d63	murio/kranos	ia	de muchas cabezas	1i
+1d6z	murmhki/a	ia	hormiguero; pl.: trinos, gorgoritos del cantor	0
+1d7v	muropw/lion	ia	perfumería, tienda de perfumes	3o
+1d8r	musarwpo/s	ia	de aspecto repugnante	11
+1d9n	musti/polos	ia	que celebra misterios	4y
+1daj	muxai/tatos	ia	el más recóndito (superl. de μύχιος)	4h
+1dbf	mw=mai	ia	buscar, desear con afán	jg	tr.
+1dcb	mwro/logos	ia	que habla neciamente	0
+1dd7	na/rkwsis	ia	entumecimiento	1l
+1de3	nakodai/mwn	ia	= νακοδέψης, curtidor (con juego de palabras con κακοδαίμων)	1q
+1dez	narqh/kion	ia	tablilla pequeña; varilla pequeña; = asfódelo	3t
+1dfv	nau/staqmon	ia	puerto, fondeadero	75
+1dgr	nauklhre/w	ia	ser armador o patrón de una nave; fletar; fig. dirigir, gobernar + ac.	br
+1dhn	naupo/ros	ia	= ναυσίπορος, que impulsa la nave	19
+1dij	nautiko/n	ia	flota	0
+1djf	ne/oi	ix	= νέοικος: recién edificado	0
+1dkb	nea/zw	ia	ser joven, estar en la juventud; ser nuevo	m6	intr.
+1dl7	nebri/dion	ia	pequeña piel de cervatillo	14
+1dm3	nefri/ths	ia	de los riñones, renal	7a
+1dmz	neio/s	ia	barbecho, tierra recién arada	pb
+1dnv	nekrokori/nqia	ia	vasos extraídos de las tumbas de Corinto	1r
+1dor	nekuomantei/a	ia	nigromancia, adivinación por evocación de los muertos	4l
+1dpn	neo/foitos	ia	recién llegado; recién visitado	2y
+1dqj	neo/plektos	ia	= νεοπλεκής, recién trenzado	h
+1drf	neo/trwtos	ia	recién herido	5t
+1dsb	neoge/nnhtos	ia	recién nacido	t
+1dt7	neopenqh/s	ia	de duelo reciente, recién afligido	4w
+1du3	neospa/raktos	ia	recién desgarrado	1c
+1duz	neourge/w	ia	renovar, restaurar; innovar	22
+1dvv	neuro/qlastos	ia	contuso en los tendones	1w
+1dwr	neusto/s	ia	que nada; νευστὴ ἐλαία: aceituna en salmuera	1b
+1dxn	newteropoie/w	ia	innovar; hacer experimentos; + ac.: revolucionar	7f
+1dyj	nh/riqmos	ia	innumerable	1n
+1dzf	nhfalieu/s	ia	= νηφάλιος, sobrio	14
+1e0b	nhni/a	ia	elogio fúnebre; lamento, canto fúnebre (lat. nenia)	5a
+1e17	nhputi/a	ia	infancia	2o
+1e23	nhsu/drion	ia	islita, islote	1t
+1e2z	nifo/blhtos	ia	= νιφοβλής, cubierto de nieve	1t
+1e3v	nitre/laion	ia	emulsión de sosa y aceite	26
+1e4r	noero/s	ia	intelectual; dotado de inteligencia	ld
+1e5n	nomisma/tion	ia	monedita (dim. de νόμισμα)	3f
+1e6j	nomoqesi/a	ia	legislación; código de leyes	9t
+1e7f	nosfi/zw	ia	apartar, separar; privar de; med.: apartarse, abandonar; apropiarse, malversar	21l	tr. · + ac. y gen.: privar a alguien de · med. + gen.: apartarse de · med. + ac.: abandonar; apropiarse de
+1e8b	notaphliwtiko/s	ia	del sudeste	2k
+1e97	nouqeti/a	ia	= νουθετεία, amonestación	e
+1ea3	nuktairodu/teira	ia	la que sale y se pone de noche (la luna)	22
+1eaz	nukti/bromos	ia	que resuena de noche	1r
+1ebv	nuktixarh/s	ia	que se goza en la noche	1g
+1ecr	numfai/a	ia	nenúfar amarillo; nenúfar blanco	5o
+1edn	nuqw/dhs	ia	= νυθός, mudo; oscuro	e
+1eej	nwga/lisma	ia	golosina (= νώγαλα)	14
+1eff	nwtia/s	ia	dorsal (fem. de νωτιαῖος)	1x
+1egb	o(/mhros	ia	prenda, rehén	kq
+1eh7	o(/rmisis	ia	acción de anclar (una nave)	2e
+1ei3	o(di/zw			0
+1eiz	o(li/zw	ia	hacer un todo único	1s
+1ejv	o(lo/kaustos	ia	= ὁλόκαυτος, quemado entero	1n
+1ekr	o(lofuh/s	ia	de una sola pieza; que tiene naturaleza de todo	4l
+1eln	o(losfu/rion	ia	pieza de metal forjado	1r
+1emj	o(malo/s	ia	llano, liso, igual, uniforme; fig. concorde, tranquilo	1gy
+1enf	o(mi/lhma	ia	tema de conversación; compañía, trato	4i
+1eob	o(mo/gamos	ia	casado con la misma mujer; οἱ ὁμόγαμοι: concuñados	4p
+1ep7	o(mo/polis	ia	de la misma ciudad, conciudadano	3f
+1eq3	o(mo/tropos	ia	de las mismas costumbres o carácter (+ dat.)	fl
+1eqz	o(moei/deia	ia	identidad de naturaleza o forma; semejanza	84
+1erv	o(moh/qhs	ia	de las mismas costumbres o carácter	44
+1esr	o(moio/xroos	ia	de color semejante	54
+1etn	o(moiosxh/mwn	ia	de forma semejante	gz
+1euj	o(momaqh/s	ia	condiscípulo	1r
+1evf	o(morro/qios	ia	= ὁμόρροθος, que rema a la vez, concorde	h
+1ewb	o(mozhli/a	ia	celo común	1y
+1ex7	o(plitei/a	ia	servicio de hoplita, guerra	1z
+1ey3	o(ploqh/kh	ia	depósito de armas, arsenal	6c
+1eyz	o(qenou=n	ia	de dondequiera que sea, v. ὅθεν	0
+1ezv	o(rkiko/s	ia	propio del juramento	2t
+1f0r	o(rmia/	ia	sedal, línea de pesca	6u
+1f1n	o(ssi/xos	ia	cuan pequeño	2c
+1f2j	o)/klasis	ia	acción de agacharse, de doblar las rodillas	2m
+1f3f	o)/mnumi	ia	jurar (+ ac.: por un dios; + inf.); prometer con juramento	3d2	tr. · + ac. del dios: jurar por · + inf. fut.: jurar que (hará) · + ac. y dat.: jurar algo a
+1f4b	o)/qma	ia	= ὄμμα, ojo	3i
+1f57	o)/rqrios	ia	matinal, madrugador; τὸ ὄ.: el alba	mp
+1f63	o)/strimon	ia	establo, corral	4i
+1f6z	o)/yis	ia	vista, acción de ver; aspecto, apariencia; visión, aparición; rostro, ojos; espectáculo	36n
+1f7v	o)bri/kala	ia	= ὄβρια, crías de animales salvajes	7i
+1f8r	o)cu/ggion	ia	manteca, grasa (lat. axungia)	2c
+1f9n	o)cu/s2	ia	agudo, puntiagudo; cortante, afilado; agrio, ácido, picante; penetrante, vivo, rápido; agudo (del sonido)	4xi
+1faj	o)cugw/nios	ia	acutángulo; neutro: cuerpo acutángulo	57
+1fbf	o)cuo/eis	ia	agudo, puntiagudo; o bien de madera de haya	5k
+1fcb	o)cuwph/s	ia	de vista penetrante	bd
+1fd7	o)donto/futos	ia	= ὀδοντοφυής, nacido de dientes	13
+1fe3	o)dwdh/	ia	olor	1i
+1fez	o)fiobo/ros	ia	que devora serpientes	1e
+1ffv	o)fqalmofanh/s	ia	que se muestra a los ojos, visible	70
+1fgr	o)gkhro/s	ia	voluminoso, grueso, hinchado; τὸ ὀ.: ampulosidad (del estilo)	cu
+1fhn	o)izu/w	ia	lamentarse, gemir; sufrir	0
+1fij	o)kta/kerkis	ia	de ocho radios	1k
+1fjf	o)ktako/sioi	ia	ochocientos	1i
+1fkb	o)ktwkaieikosto/s	ia	vigesimoctavo	1n
+1fl7	o)le/qreusis	ia	destrucción	17
+1fm3	o)ligaimi/a	ia	escasez de sangre	1e
+1fmz	o)ligo/fullos	ia	de pocas hojas	1j
+1fnv	o)ligo/xlwron	ia	= κάππαρις, alcaparra	w
+1for	o)ligomaqh/s	ia	que ha aprendido poco	1p
+1fpn	o)ligoxrh/matos	ia	de poco dinero	1z
+1fqj	o)lofurmo/s	ia	lamentación	27
+1frf	o)mbrodo/kos	ia	que recoge el agua de lluvia	28
+1fsb	o)mfalw/dhs	ia	= ὀμφαλοειδής, semejante a un ombligo	1p
+1ft7	o)nei/a	ia	fem. de ὄνειος, de asno	0
+1fu3	o)neiropole/w	ia	soñar, soñar con (+ ac.); pas.: ser soñado	dm	intr. · + ac.: soñar con
+1fuz	o)no/kwlos	ia	= ὀνοσκελίς, con patas de asno (de Empusa)	2v
+1fvv	o)nomatolo/gos	ia	= ὀνομακλήτωρ, nomenclátor; coleccionista de palabras	3p
+1fwr	o)nuxi/ths	ia	de la clase del ónice	42
+1fxn	o)pidno/s	ia	temido, terrible	1d
+1fyj	o)pisqofo/ros	ia	que va hacia atrás	1p
+1fzf	o)pokalpaqi/zw	ia	oler a ὀποκάλπασον (la mirra)	1f
+1g0b	o)pw/ra	ia	final del verano, otoño; frutos del otoño; fig. madurez, flor de la edad	174
+1g17	o)re/gw	ia	tender, extender, alargar; ofrecer, dar; med.: tenderse hacia, alcanzar (+ gen.); desear, aspirar a (+ gen.)	34k	tr. · med. + gen.: tender hacia, desear · med. + inf.: aspirar a
+1g23	o)reioba/ths	ia	= ὀρειβάτης, que recorre los montes	3o
+1g2z	o)ressi/gonos	ia	= ὀρειγενής, nacido en los montes (poét.)	2w
+1g3v	o)rfno/s	ia	oscuro, sombrío	2f
+1g4r	o)rgia/zw	ia	celebrar misterios u orgías; honrar con misterios (+ ac.); iniciar	hp	intr. · + ac.: celebrar, honrar con misterios
+1g5n	o)rneo/foitos	ia	frecuentado por las aves	1m
+1g6j	o)rniqo/mantis	ia	= ὀρνεόμαντις, augur	1a
+1g7f	o)rnu/fion	ia	pajarillo, polluelo	40
+1g8b	o)rofwto/s	ia	techado, artesonado	1h
+1g97	o)rqo/kwlos	ia	de miembros rígidos y extendidos	49
+1ga3	o)rqognwmone/w	ia	pensar o juzgar rectamente	1d
+1gaz	o)rqostado/n	ia	= ὀρθοστάδην, de pie, erguido	2r
+1gbv	o)rropugo/stiktos	ia	de cola moteada	1l
+1gcr	o)rtugotro/fos	ia	criador de codornices	1g
+1gdn	o)rxhsth/s	ia	bailarín, pantomimo	97
+1gej	o)smhto/s	ia	olido; que puede olerse	1t
+1gff	o)stologi/a	ia	recogida de los huesos tras la cremación	44
+1ggb	o)tle/w	ia	sufrir, soportar (+ ac.)	2u
+1gh7	o)xetokra/nion	ia	boca de acueducto (dim. de ὀχετόκρανον)	0
+1gi3	o)xloterph/s	ia	grato a la multitud	1b
+1giz	o)yi/blastos	ia	= ὀψιβλαστής, de brote tardío	26
+1gjv	o)yismo/s	ia	retraso	13
+1gkr	o)ywne/w	ia	comprar provisiones, esp. pescado	8w
+1gln	oi)/h	ia	= κώμη, aldea	2q
+1gmj	oi)/xomai	ia	irse, marcharse, haberse ido; desaparecer, perecer, morir	2pb	intr. · + part.: marcharse (haciendo algo) · part. οἰχόμενος: muerto, desaparecido
+1gnf	oi)da/w	ia	= οἰδέω, hincharse	9
+1gob	oi)keiwtiko/s	ia	apropiativo, que concilia; acorde (+ πρός)	4t
+1gp7	oi)ko/pedon	ia	solar de una casa; edificio, casa	9i
+1gq3	oi)kofqo/ros	ia	que arruina la casa, pródigo; adúltero, seductor	4z
+1gqz	oi)kouriko/s	ia	casero, sedentario	2h
+1grv	oi)na/nqh	ia	yema o flor de la vid; vid silvestre; enante (planta)	qm
+1gsr	oi)no/lhptos	ia	ebrio, poseído por el vino	1e
+1gtn	oi)nofu/lac	ia	enofílace (magistrado encargado del vino público)	4p
+1guj	oi)notro/fos	ia	que produce vino	1o
+1gvf	oi)oioi=	ia	¡ay, ay! (interj. de dolor)	7
+1gwb	oi)stromani/a	ia	furor, frenesí	1a
+1gx7	oi)wnosko/pos	ia	augur (= lat. augur)	3r
+1gy3	ou)/qhn	ix	= οὐ θήν: ciertamente no (poét.)	0
+1gyz	ou)ai/	ia	¡ay! (+ dat.)	8i
+1gzv	ou)do/s2	ia	= ὁδός, camino (ép. y jón.)	1bi
+1h0r	ou)lo/w	ia	cicatrizar	d
+1h1n	ou)rai/a	ia	= οὐρά, cola	4a
+1h2j	ou)ranosko/pos	ia	que observa el cielo; subst.: uranoscopo (pez)	4h
+1h3f	ou)rio/w	ia	agitar la crin al viento; dar a los vientos	1n
+1h4b	pa/garxos	ia	= παγάρχης, pagarca (gobernador de distrito)	1i
+1h57	pa/lacis	ia	imprimación, primera capa de pintura	30
+1h63	pa/mmhnos	ia	que dura todos los meses; luna llena	6g
+1h6z	pa/ndoulos	ia	esclavo de todos	1q
+1h7v	pa/nspermos	ia	compuesto de toda clase de semillas	1u
+1h8r	pa/rac	ia	= βάραξ (cierto pan o torta)	17
+1h9n	pa/roikos	ia	vecino de (+ gen. o dat.); de vecinos; subst. vecino, extranjero residente	n9
+1haj	pa/tanon	ia	fuente, plato llano	63
+1hbf	paganiko/s	ia	civil (opp. militar); no oficial; laico	4n
+1hcb	pagko/nitos	ia	donde uno se cubre de polvo; fatigoso, penoso	2t
+1hd7	pai/palon	ia	despeñadero, risco	2x
+1he3	paiderasti/a	ia	pederastia, amor a los muchachos	1a
+1hez	paidofile/w	ia	amar a los niños; amar a los muchachos (= παιδεραστέω)	2x
+1hfv	paidopi/phs	ia	que acecha a los muchachos, pederasta	1q
+1hgr	paio/nios	ia	salutífero (épic. = παιώνιος)	1b
+1hhn	palai/wsis	ia	envejecimiento, vetustez	ay
+1hij	palaistriko/s	ia	de la palestra	83
+1hjf	pali/mphga	ia	zapatos remendados	1t
+1hkb	pali/rroos	ia	que refluye	8r
+1hl7	palimplekh/s	ia	trenzado hacia atrás	21
+1hm3	palinstrafh/s	ia	vuelto hacia atrás	1d
+1hmz	palmiko/s	ia	relativo a las palpitaciones (como presagio)	2l
+1hnv	pamma/taios	ia	totalmente vano	1o
+1hor	pampo/rfuros	ia	todo purpúreo	17
+1hpn	pana/pustos	ia	totalmente inaudito	2e
+1hqj	panalhqh/s	ia	completamente veraz	60
+1hrf	pande/kteira	ia	que todo lo recibe (fem. de πανδέκτης)	1f
+1hsb	pandw/teira	ia	dadora de todo	1x
+1ht7	paneu/fhmos	ia	digno de toda alabanza (título honorífico)	22
+1hu3	pani/meros	ia	todo deseo, lleno de amor, encantador	39
+1huz	panopli/ths	ia	guerrero armado de pies a cabeza	2l
+1hvv	panspermhdo/n	ia	con toda clase de semillas	1q
+1hwr	pantaxou=	ia	en todas partes (+ gen.); absolutamente	f0
+1hxn	pantodapo/s	ia	de todo país, de toda clase, variado; que adopta toda clase de formas	r9
+1hyj	pantopw/lhs	ia	buhonero, vendedor de todo	46
+1hzf	pao/w	ia	emparentar (pas.: hacerse pariente)	d
+1i0b	paqhto/s	ia	sensible, impresionable; que ha padecido	eh
+1i17	para/foron	ia	llevado a un lado	0
+1i23	para/krhmnos	ia	escarpado, en pendiente	5k
+1i2z	para/monos	ia	duradero, permanente	5g
+1i3v	para/qranos	ia	pasillo junto a los bancos de los tranitas	6h
+1i4r	para/tomon	ia	tablón con rebajo	34
+1i5n	parabai/nw	ia	marchar al lado; ir junto al auriga en el carro; transgredir, violar; omitir, pasar por alto	1zr	intr. · + dat.: ir al lado de · tr.: transgredir, violar
+1i6j	paraboa/w	ia	gritar junto a	1u
+1i7f	paradeipne/omai	ia	quedarse sin cenar	2f
+1i8b	paradoxh/	ia	acción de recibir de otro, recepción; aceptación	l8
+1i97	parafro/nimos	ia	insensato	15
+1ia3	paragi/gnomai	ia	estar junto a, estar presente, asistir (+ dat.); llegar, presentarse; socorrer	1in	intr. · + dat.: estar presente en, asistir a, socorrer · + εἰς + ac.: llegar a
+1iaz	parai/sios	ia	de mal agüero	2o
+1ibv	parakai/rios	ia	intempestivo; inconveniente, culpable	22
+1icr	parakatoru/ssw	ia	enterrar o plantar al lado	2i
+1idn	parakindu/neusis	ia	audacia excesiva, temeridad	1q
+1iej	parakoh/	ia	acción de oír al pasar; error al oír, malentendido; desobediencia	6x
+1iff	parakri/nw	ia	colocar uno al lado de otro, alinear; juzgar mal	7q
+1igb	paralh/rhsis	ia	delirio, desvarío	1j
+1ih7	paralute/os	ix	neutro: hay que soltar, desatar	0
+1ii3	paramona/rios	ia	guardián, vigilante	1b
+1iiz	parani/sthmi	ia	levantar junto a; intr. y med.: levantarse junto a	3v
+1ijv	parapefulagme/nws	ia	adv. con cautela, circunspectamente	2e
+1ikr	paraplh/rwma	ia	relleno, ripio; (geom.) complemento de un paralelogramo	6b
+1iln	parapresbei/a	ia	embajada desleal o mal desempeñada	4l
+1imj	paraqu/ra	ia	puerta lateral, postigo	20
+1inf	parasfu/rios	ia	junto a los tobillos	1p
+1iob	paraskhna/w	ia	= παρασκηνέω, acampar junto a	3a
+1ip7	paraste/gh	ia	techo, cubierta	1a
+1iq3	parasxhmatismo/s	ia	derivación por ligero cambio; cambio de expresión; mala posición del feto	5a
+1iqz	parati/ltria	ia	esclava depiladora	32
+1irv	parau/a	ia	= παρειά, mejilla (eol.)	2e
+1isr	paraxra/w	ia	usar mal, abusar	0
+1itn	parazwni/dion	ia	puñal que se lleva al cinto	1n
+1iuj	pare/mptwsis	ia	afluencia, entrada; inserción de palabras, paréntesis; implicación	ez
+1ivf	parecwqe/w	ia	empujar de lado	1q
+1iwb	parei/sdusis	ia	infiltración, introducción furtiva	g1
+1ix7	parekkli/nw	ia	desviarse, apartarse	d9	intr. · + ac.: evitar
+1iy3	parempi/plhmi	ia	llenar secretamente de, + gen.	3n
+1iyz	parepigrafh/	ia	anotación marginal; acotación escénica	7z
+1izv	pareuna/zomai	ia	acostarse junto a, + dat.	35
+1j0r	parhmelhme/nws	ia	negligentemente	36
+1j1n	parista/w	ia	= παριστάνω, poner al lado	d
+1j2j	parocutone/w	ia	pronunciar como paroxítono	2t
+1j3f	paroimiasth/s	ia	autor de proverbios	2s
+1j4b	parori/zw	ia	expulsar fuera de los límites; traspasar los linderos	9w
+1j57	parpo/dios	ia	= παραπόδιος, que está ante los pies, presente (poét.)	x
+1j63	parrhsi/a	ia	libertad de palabra, franqueza; licencia de lenguaje, desenfado	z1
+1j6z	parwmi/s	ia	hombrera	1a
+1j7v	pasipo/rnh	ia	prostituta común	1s
+1j8r	pata/neyis	ia	anguila guisada en una patana	1j
+1j9n	patrikio/ths	ia	patriciado	25
+1jaj	patrotupi/a	ia	acción de golpear al padre	1w
+1jbf	pauste/on	ia	hay que hacer cesar, poner fin a; hay que cesar, + gen.	54
+1jcb	paxuda/ktulos	ia	de dedos gruesos	1f
+1jd7	pe/lekkon	ia	mango de hacha	2p
+1je3	pe/ntapolis	ix	Pentápolis (conjunto de cinco ciudades)	0
+1jez	pe/rkos	ia	negruzco, moteado; ὁ π.: especie de halcón	1f
+1jfv	pe/yis	ia	cocción; fermentación (del vino); maduración (de una herida); digestión	ro
+1jgr	pedoixne/w	ia	ir en busca de, perseguir	1y
+1jhn	peiqa/nwr	ia	obediente a los hombres	1q
+1jij	peismonh/	ia	persuasión; confianza	6l
+1jjf	pele/khma	ia	astillas, virutas (pl.)	3i
+1jkb	pelio/omai	ia	ponerse lívido, amoratarse	4b
+1jl7	pempa/zw	ia	contar con los cinco dedos, contar de cinco en cinco; contar, calcular; med.: calcular para sí	ex	tr.
+1jm3	penqh/meros	ia	de cinco días	71
+1jmz	penta/plokos	ia	torcido cinco veces	2f
+1jnv	pentafu/lakos	ia	dividido en cinco vigilias	1y
+1jor	pentaplo/os	ia	quíntuple; ἡ π.: copa de cinco ingredientes	6q
+1jpn	pentekaidekaeth/s	ia	de quince años, que dura quince años	5m
+1jqj	penthko/ntoros	ia	de cincuenta remos; nave de cincuenta remos, pentecontero	i
+1jrf	pento/druon	ia	= στρύχνον μανικόν (planta)	z
+1jsb	peponqe/w	ia	ser afectado, padecer	1y
+1jt7	peratwto/s	ia	sujeto a límite	1m
+1ju3	peri/cusma	ia	raeduras, virutas (pl.)	22
+1juz	peri/fwros	ia	sorprendido en flagrante, descubierto	18
+1jvv	peri/kurtos	ia	convexo	2r
+1jwr	peri/pemptos	ia	enviado por todas partes, hecho por orden circular	23
+1jxn	peri/qema	ia	lo que se pone alrededor; cinta, collar; cubierta, envoltura	64
+1jyj	peri/sseuma	ia	sobrante, superabundancia; excremento	97
+1jzf	peri/trimma	ia	cosa gastada por el roce; fig. pilar de plaza (de un vago o intrigante)	6p
+1k0b	peria/gw	ia	llevar alrededor, pasear; hacer girar, volver; rodear; med.: volverse	1sw	tr. · + doble ac.: llevar a alguien alrededor de · intr. y med.: volverse, girar
+1k17	perialeipte/on	ia	hay que untar por completo	1f
+1k23	periauga/zw	ia	brillar alrededor, iluminar	1m
+1k2z	peribrome/w	ia	zumbar alrededor (+ ac.)	3p
+1k3v	peridiw/kw	ia	perseguir por todas partes	2d
+1k4r	periekxe/omai	ia	derramarse alrededor	17
+1k5n	perifeu/gw	ia	conseguir huir, escapar de (+ ac.)	dn	tr.: escapar de · intr.
+1k6j	perifronhtiko/s	ia	desdeñoso (+ gen.)	1t
+1k7f	perigrafiko/s	ia	conclusivo	2c
+1k8b	periite/on	ia	hay que dar un rodeo	0
+1k97	perikata/ssomai	ia	romperse alrededor	27
+1ka3	periklu/zomai	ix	bañar por todas partes; med.: enjuagarse	0
+1kaz	perikru/ptw	ia	ocultar por completo	5b
+1kbv	perilepi/zw	ia	= περιλέπω, pelar alrededor	2v
+1kcr	perimhka/omai	ia	balar alrededor	1r
+1kdn	perio/ristos	ia	delimitado, determinado	12
+1kej	periorgh/s	ia	muy irritado	5d
+1kff	peripe/tomai	ia	volar alrededor (+ ac.)	7l
+1kgb	periplekh/s	ia	= περίπλεκτος, entrelazado	17
+1kh7	peripola/rxhs	ia	jefe de patrulla	4w
+1ki3	periqarsh/s	ia	muy confiado	18
+1kiz	perirroph/	ia	inclinación hacia un lado	1d
+1kjv	periskepa/zw	ia	cubrir, resguardar por todas partes	3u
+1kkr	perispwme/nws	ia	con acento circunflejo	4n
+1kln	perissotexni/a	ia	exceso de esmero artístico	1n
+1kmj	peristeri/s	ia	pichoncito; adorno femenino	45
+1knf	peristrofi/s	ia	rasero; manivela (de prensa de batanero)	45
+1kob	peritimh/eis	ia	muy honrado	1d
+1kp7	peritrwxa/w	ia	= περιτρέχω, correr alrededor (ép.)	17
+1kq3	perixara/ssw	ia	atrincherar alrededor; delimitar con incisión (med.)	85
+1kqz	periyofe/w	ia	hacer ruido alrededor, aturdir con ruido	2n
+1krv	persiki/a	ia	melocotonero	x
+1ksr	petasw/dhs	ia	en forma de sombrero	23
+1ktn	petroboliko/s	ia	para lanzar piedras	1w
+1kuj	peuqw/	ia	información, noticia	17
+1kvf	pezomaxi/a	ia	combate de infantería; combate en tierra	4m
+1kwb	ph=ma	ia	sufrimiento, mal, desgracia; azote, calamidad	pw
+1kx7	phgesi/mallos	ia	de espeso vellón	1s
+1ky3	phlopati/des	ia	botas de suela gruesa para el barro	4a
+1kyz	phxi/skos	ia	codito (dim. de πῆχυς)	15
+1kzv	pi/sa	ia	= πίστρα, abrevadero	1h
+1l0r	pi=sos	ia	praderas, lugares húmedos	3k
+1l1n	pikri/dion	ia	endibia	2f
+1l2j	pilopoio/s	ia	fabricante de fieltro, sombrerero	1e
+1l3f	pini/kios	ia	de la nacra; πινικόν: perla de nacra	3z
+1l4b	piqanolo/gos	ia	que habla de modo persuasivo, persuasivo	1m
+1l57	pismo/s	ia	= ποτισμός, acción de dar de beber	w
+1l63	pista/kion	ia	pistacho	6y
+1l6z	pituotro/fos	ia	que produce pinos	1l
+1l7v	pla/ssw	ia	modelar, dar forma, formar; fingir, inventar; med.: fingir, imaginar	31l	tr.
+1l8r	plagio/mmatos	ia	de ojos oblicuos, bizco	1i
+1l9n	plakountopoio/s	ia	que hace pasteles; pastelero	3m
+1laj	plastogra/fos	ia	falsificador	2q
+1lbf	platu/glwssos	ia	de lengua ancha	3b
+1lcb	platukori/asis	ia	= πλατυκορία, midriasis	z
+1ld7	pleiono/ths	ia	longitud de cuerda (en el monocordio)	2q
+1le3	pleona/kis	ia	más a menudo, más veces	fd
+1lez	pleuri/ths	ia	de las costillas, costal	1q
+1lfv	plh=gma	ia	golpe; herida	7x
+1lgr	plhmuri/s	ia	oleaje, flujo, marea alta; (fig.) diluvio de lágrimas	sq
+1lhn	plhsi/os	ia	cercano, vecino, próximo a (+ gen. o dat.); ὁ π.: el prójimo, el vecino; adv. πλησίον: cerca	1hu
+1lij	plinqh/ion	ix	molde de ladrillos (jón.)	0
+1ljf	plo/kos	ia	mechón de pelo, trenza, rizo; corona trenzada	c4
+1lkb	plouti/zw	ia	enriquecer; pas.: enriquecerse	c8
+1ll7	pluto/s	ia	lavado; π. ἄρτος: cierto pan ligero	2x
+1lm3	pneumatokh/lh	ia	varicocele aneurismático	1d
+1lmz	pnoh/	ia	soplo (del viento); aliento, respiración; exhalación, vaho	1im
+1lnv	po/panon	ia	torta de sacrificio	7n
+1lor	po/rw	ia	(aor.) procurar, ofrecer; (perf.) estar decretado por el destino	0
+1lpn	podabro/s	ia	de paso afeminado	1b
+1lqj	podiai=os	ia	de un pie de largo o de ancho	d8
+1lrf	pohfagi/a	ia	acción de comer hierba	u
+1lsb	poihtikeu/omai	ia	ser invención poética; med.: hablar poéticamente	3y
+1lt7	poikilo/qric	ia	de pelo moteado; de plumas moteadas	41
+1lu3	poimano/rion	ia	rebaño de hombres, multitud	2g
+1luz	poiono/mos	ia	que pace hierba, herbívoro	2h
+1lvv	polemiko/s	ia	de guerra, bélico, militar; belicoso, apto para la guerra; τὰ πολεμικά: asuntos de guerra; τὸ π.: señal de combate	180
+1lwr	polia/rxhs	ia	= πολίαρχος, jefe de la ciudad (epíteto de Zeus)	1x
+1lxn	polisso/os	ia	salvador de la ciudad, protector de la ciudad	23
+1lyj	pollaplasiepimerh/s	ia	que contiene a otro número varias veces y además varias partes alícuotas	6v
+1lzf	polu/arxos	ia	que gobierna sobre muchos	1d
+1m0b	polu/doulos	ia	que tiene muchos esclavos	1e
+1m17	polu/fqoros	ia	completamente devastado, arruinado; lleno de desgracias; expuesto a mil peligros	6v
+1m23	polu/kamptos	ia	= πολυκαμπής, muy sinuoso	2j
+1m2z	polu/kriqos	ia	rico en cebada	2a
+1m3v	polu/mnhstos	ia	de buena memoria, agradecido; muy recordado	6n
+1m4r	polu/phnos	ia	de tejido espeso; brocado	1x
+1m5n	polu/qouros	ia	muy lascivo	1d
+1m6j	polu/skarqmos	ia	que da grandes saltos, muy saltarín	4z
+1m7f	polu/teknos	ia	de muchos hijos, prolífico; fig. muy fecundo	6w
+1m8b	polu/xordos	ia	de muchas cuerdas; de muchos sonidos	7s
+1m97	polua/nqemon	ia	= βατράχιον, ranúnculo	1l
+1ma3	poluandre/w	ia	ser muy populoso; tr. poblar; pas.: estar muy poblado	5b
+1maz	polubou/ths	ia	rico en bueyes	50
+1mbv	poludu/namos	ia	de muchas potencias o facultades; poderoso	4t
+1mcr	poluferbh/s	ia	= πολύφορβος, que alimenta a muchos	15
+1mdn	polughqh/s	ia	que causa gran alegría, muy grato, alegre	8a
+1mej	poluhmereu/w	ia	alcanzar muchos días de vida	27
+1mff	polukhdh/s	ia	que causa gran aflicción, muy penoso	4o
+1mgb	poluku/matos	ia	de muchas olas, muy agitado	2k
+1mh7	polumeta/blhtos	ia	que se transforma a menudo	1i
+1mi3	poluo/rgios	ia	celebrado con muchos ritos orgiásticos	1p
+1miz	poluph/dhtos	ia	que salta mucho (glosa de πολύσκαρθμος)	x
+1mjv	polupo/tnia	ia	muy venerable, augusta señora	29
+1mkr	poluqei/a	ia	politeísmo	0
+1mln	poluskw/mmwn	ia	muy burlón	1d
+1mmj	polusw/matos	ia	de muchos cuerpos	4o
+1mnf	polutrafh/s	ia	que nutre mucho, fértil	1k
+1mob	poluxeu/mwn	ia	caudaloso, de abundante corriente	20
+1mp7	pomfolugo/w	ia	hacer burbujear o hervir; pas.: formar burbujas	4c
+1mq3	poniko/s	ia	laborioso, trabajador; penoso	6h
+1mqz	poppu/zw	ia	silbar con los labios, chasquear la lengua	kt	intr.
+1mrv	porfuranqh/s	ia	de flores purpúreas	4o
+1msr	pori/zw	ia	abrir camino, dar paso; proporcionar, procurar, suministrar; med.: procurarse	2dh	tr. · + ac. y dat.: procurar algo a alguien · med.: procurarse
+1mtn	porpafo/ros	ia	que lleva fíbula	1t
+1muj	posqi/a	ia	miembro viril, prepucio	2d
+1mvf	potarxe/w	ia	= συμποσιαρχέω, presidir un banquete	19
+1mwb	potiptu/ssw	ia	= προσπτύσσω, plegar hacia sí; med.: abrazar, acoger	19
+1mx7	pra/sinos	ia	verde puerro, verde claro; οἱ πράσινοι: la facción de los Verdes (en el circo)	72
+1my3	pragmatopoii/a	ia	arte de gobernar	0
+1myz	prasia/zw	ia	dividir en bancales	1o
+1mzv	praupa/qeia	ia	mansedumbre de carácter	0
+1n0r	presbeu/teira	ia	mensajera (fem. de πρεσβευτής)	2w
+1n1n	prhsthria/zw	ia	abrasar como con el rayo	1l
+1n2j	pristiko/s	ia	de serrar, para serrar	2u
+1n3f	pro/esis	ia	acción de soltar, abandono; prodigalidad	dl
+1n4b	pro/krisis	ia	preferencia, selección	39
+1n57	pro/oida	ia	saber de antemano, prever	fa	tr. · + part. o ὅτι: saber de antemano que
+1n63	pro/rrhgma	ia	membrana que envuelve el feto	24
+1n6z	pro/sfqoggos	ia	que sirve para saludar o dirigir la palabra	3w
+1n7v	pro/skrousma	ia	obstáculo; motivo de descontento	e8
+1n8r	pro/sptugma	ia	objeto de abrazos	29
+1n9n	pro/stupos	ia	en bajorrelieve; que yace plano	5r
+1naj	pro/xeiron	ia	= προχείριον; pala para mover la lana en el tinte	3x
+1nbf	proafani/zomai	ia	desaparecer antes	1x
+1ncb	proai/resis	ia	elección previa; propósito deliberado; voluntad, plan, intención; preferencia	2aq
+1nd7	proameu/w	ia	= προαμείβω (dór.)	q
+1ne3	proanapla/ssw	ia	transformar antes; imaginar de antemano	3i
+1nez	proapelau/nw	ia	ahuyentar antes	ar
+1nfv	proapota/ssomai	ia	despedirse antes	1k
+1ngr	proba/tion	ia	ovejita	8i
+1nhn	probebouleume/nws	ia	con premeditación	18
+1nij	probouleuma/tion	ia	pequeño decreto preliminar (dim. de προβούλευμα)	1w
+1njf	prodhlwtiko/s	ia	que anuncia de antemano (+ gen.)	3n
+1nkb	prodiapore/omai	ia	ser discutido antes	2d
+1nl7	prodioike/w	ia	disponer o regular antes (+ ac.)	69
+1nm3	prodwre/omai	ia	regalar antes	1y
+1nmz	proecaire/w	ia	quitar o destruir antes	67
+1nnv	proefodia/zomai	ia	ser provisto	1s
+1nor	proekklu/zw	ia	enjuagar antes	2g
+1npn	proeme/w	ia	vomitar antes	3n
+1nqj	proepi/stamai	ia	saber de antemano	49
+1nrf	proestia/w	ia	agasajar antes, ofrecer antes un banquete	1q
+1nsb	profeu/gw	ia	huir adelante, escapar; huir de, + ac.	a7
+1nt7	profulakh/	ia	avanzada, puesto avanzado; precaución, preservativo	hw
+1nu3	progi/gnomai	ia	aparecer, presentarse; suceder antes, preceder	y9
+1nuz	prohgemw/n	ia	guía, conductor, jefe	35
+1nvv	proikimai=os	ia	gratuito; dotal	30
+1nwr	prokalu/ptw	ia	tender delante para cubrir; ocultar interponiéndose; med.: cubrirse; pretextar	la	tr. · med.: cubrirse
+1nxn	prokatakai/w	ia	quemar antes	2n
+1nyj	prokatasxa/zw	ia	escarificar antes	1o
+1nzf	prokh/rucis	ia	proclamación por heraldo	31
+1o0b	prokoiti/a	ia	guardia que se monta ante alguien	22
+1o17	prolabh/	ia	empuñadura (de la espada)	18
+1o23	prolussa/w	ia	avanzar enfurecido	14
+1o2z	prometrhth/s	ia	ayudante de los metrónomos; agrimensor	3i
+1o3v	promolh/	ia	entrada, acceso; falda o pie de un monte; cima	7f
+1o4r	pronomh/	ia	forrajeo, expedición en busca de forraje; provisión de forraje; derecho a ser servido el primero	it
+1o5n	prooike/w	ia	habitar antes	18
+1o6j	prooru/ssw	ia	cavar antes	1r
+1o7f	propare/xw	ia	ofrecer de antemano; proporcionar de antemano	64
+1o8b	prophda/w	ia	saltar antes; lanzarse fuera de un salto (+ gen.)	9d
+1o97	propolemhth/rion	ia	bastión, obra avanzada	1r
+1oa3	propu/laios	ia	que está ante la puerta; τὰ προπύλαια: propileos, vestíbulo	hc
+1oaz	proqhra/w	ia	cazar antes	17
+1obv	prosa/ntlhsis	ia	= προσάντλημα, ducha	17
+1ocr	prosagwgeu/s	ia	introductor; delator, espía	9z
+1odn	prosamu/nw	ia	acudir en ayuda, socorrer (+ dat.)	2f
+1oej	prosanapeira/omai	ia	intentar además (el mar)	2y
+1off	prosantle/w	ia	sacar y verter sobre; bañar, aplicar fomentos	3h
+1ogb	prosaptiko/s	ia	aficionado a tocar (+ gen.)	1t
+1oh7	prosba/llw	ia	lanzar hacia o contra; aplicar; atacar (+ dat.); llegar a, arribar; afectar (sentidos)	46p	tr. · + ac. y dat.: aplicar a · intr. + dat. o πρός + ac.: atacar · intr. (naves) + εἰς + ac.: arribar a
+1oi3	prosde/xomai	ia	recibir, acoger; aceptar, admitir; esperar, aguardar	28s	tr. · + ac. e inf. fut. o part. fut.: esperar que
+1oiz	prosdiarqro/w	ia	detallar además	1t
+1ojv	prose/leusis	ia	acercamiento, acceso	6c
+1okr	prosechge/omai	ia	referir además	1c
+1oln	prosekdekte/on	ia	hay que entender además	3d
+1omj	prosembrekte/on	ia	hay que humedecer además	18
+1onf	prosephxe/w	ia	aumentar la resonancia	1d
+1oob	prosepineu/w	ia	inclinar la cabeza hacia	1r
+1op7	prosepitalaipwre/w	ia	soportar aún más tiempo	1c
+1oq3	proseuergete/w	ia	hacer además un favor a	1p
+1oqz	prosfilotexne/w	ia	añadir con arte, emplear más arte	6b
+1orv	prosgumna/zw	ia	ejercitar en (+ dat.)	9x
+1osr	prosi/sthmi	ia	colocar junto a; intr.: ponerse junto a, presentarse; ocurrir	1ew	tr. · intr. (ao. 2, pf., med.) + dat.: ponerse junto a · + dat.: venir a la mente
+1otn	proskaqopli/zw	ia	armar además	1f
+1ouj	proskataspa/w	ia	botar además (naves); pas.: ser arrastrado a la vez	4l
+1ovf	proskluste/on	ia	hay que lavar	23
+1owb	proskti/zw	ia	fundar además	8e
+1ox7	proslipa/rhsis	ia	asiduidad, perseverancia; insistencia	30
+1oy3	prosmuqe/omai	ia	dirigir la palabra a	2u
+1oyz	prosofei/lw	ia	deber además; pas.: quedar por pagar	jq	tr. · pas.: quedar por pagar
+1ozv	prosorgi/zomai	ia	irritarse contra (+ dat.)	2p
+1p0r	prosparamuqe/omai	ia	med.: exhortar además	4d
+1p1n	prospisteu/w	ia	creer además	3h
+1p2j	prosptu/ssw	ia	estrechar, abrazar; tratar con afecto; med.: plegarse a, abrazar	136	tr. · med. + ac. o dat.: abrazar · pas. + dat.: adherirse a
+1p3f	prosrapte/os	ia	que hay que coser	0
+1p4b	prosta/tis	ia	protectora, patrona	c5
+1p57	prosthre/w	ia	vigilar	18
+1p63	prosula/kthsis	ia	crítica mordaz	1h
+1p6z	proswfe/lhsis	ia	ayuda, asistencia; utilidad	1j
+1p7v	prosxra/omai	ia	servirse además de (+ dat.)	fr	+ dat.: servirse además de
+1p8r	prote/leios	ia	que precede a una ceremonia; τὰ προτέλεια: ceremonia o sacrificio preliminar (esp. antes de la boda)	na
+1p9n	protexnologe/w	ia	tratar técnicamente antes	5t
+1paj	protu/pths	ia	sin explicación (palabra de sentido desconocido)	16
+1pbf	proupomnhmati/zomai	ia	comentar antes; part.: comentaristas anteriores	0
+1pcb	proxeima/zw	ia	ser tormentoso antes; provocar tormentas prematuras	6e
+1pd7	proxwrhtiko/s	ia	= προφορικός, expresado (λόγος)	1q
+1pe3	prw/n	ia	promontorio, cabo; colina	wm
+1pez	prwqh/bhs	ia	en la primera juventud	82
+1pfv	prwto/mfalon	ia	centro mismo (del escudo)	1a
+1pgr	prwtodeu/teroi	ia	los dos primeros	1p
+1phn	prwtopa/qeia	ia	afección primaria (opuesto a simpatía)	22
+1pij	prw|reu/s	ia	oficial de proa, segundo del piloto	5x
+1pjf	pterni/zw	ia	golpear con el talón; poner la zancadilla, suplantar	6o
+1pkb	pteru/gwma	ia	alas; lo que se extiende como un ala; pabellón de la oreja	bs
+1pl7	ptilw/ssw	ia	tener los ojos enfermos	1s
+1pm3	ptu/sis	ia	acción de escupir, esputo	2k
+1pmz	ptwmatismo/s	ia	epilepsia	3o
+1pnv	pu/lh	ia	hoja de puerta, puerta; pl.: puertas (de casa, ciudad o campamento); desfiladero, paso	2ff
+1por	pu/rwsis	ia	acción de quemar; calentamiento; calor, ardor	kg
+1ppn	pugh/	ia	nalga; pl.: trasero	fo
+1pqj	pukno/fullos	ia	de follaje espeso	1s
+1prf	pukti/s2	ia	tejón (prob. por πικτίς)	3t
+1psb	punqa/nomai	ia	informarse, preguntar (τί τινος: algo a alguien); enterarse, saber, oír decir	2go	+ ac. de cosa y gen. de pers. o παρά + gen. · + part.: enterarse de que · + ac. e inf.: oír decir que
+1pt7	puramhto/s	ia	época de la siega del trigo	3y
+1pu3	purgi/on	ia	torrecilla	4y
+1puz	puri/ama	ia	= πυρία, baño de vapor, fomento	3g
+1pvv	puri/spartos	ia	sembrado de fuego, ardiente	1z
+1pwr	puriklo/nos	ia	que agita el fuego	17
+1pxn	purobo/ros	ia	que come trigo	11
+1pyj	purri/xh	ia	pírrica, danza guerrera	e4
+1pzf	pursoe/liktos	ia	que se retuerce en el fuego	1t
+1q0b	pw/mala	ia	de ningún modo, en absoluto	7
+1q17	pwlhth/s	ia	vendedor; poleta (magistrado ateniense que arrendaba los bienes públicos)	g2
+1q23	pwrokh/lh	ia	tumor duro del testículo	29
+1q2z	qa/rshsis	ia	confianza, buen ánimo	2k
+1q3v	qalami/s	ia	= θαλαμηπόλος, camarera	19
+1q4r	qalassoma/xos	ia	que combate por mar	1y
+1q5n	qalpwrh/	ia	calor suave; consuelo, aliento	6p
+1q6j	qanath/foros	ia	mortífero	0
+1q7f	qau=ma	ia	maravilla, prodigio; objeto de asombro; asombro, admiración	1ry
+1q8b	qe/hma	ia	= θέαμα, espectáculo (jón.)	13
+1q97	qe/rmion	ia	altramuz pequeño	33
+1qa3	qeai/thtos	ia	obtenido de Dios; Teeteto (n. pr.)	2m
+1qaz	qeh/kolos	ia	sacerdote	0
+1qbv	qeio/ths	ia	naturaleza divina, divinidad; confianza en la divinidad	8a
+1qcr	qemati/zw	ia	depositar (dinero); ordenar, disponer; establecer	d9
+1qdn	qemitw/dhs	ia	oracular	1g
+1qej	qeo/moiros	ia	partícipe de la naturaleza divina	2r
+1qff	qeo/timos	ia	= θεοτίμητος, honrado por los dioses	2m
+1qgb	qeofo/rhsis	ia	inspiración divina	23
+1qh7	qeolhyi/a	ia	inspiración divina; superstición	3i
+1qi3	qeopo/nhtos	ia	trabajado por un dios	2d
+1qiz	qeote/ratos	ia	con prodigios divinos	70
+1qjv	qerapeuth/r	ia	servidor, adorador (de un dios); el que cuida de algo; médico	4k
+1qkr	qeristo/s	ia	τὸ θ.: especie de bálsamo	23
+1qln	qermokrasi/a	ia	mezcla de bebida caliente	16
+1qmj	qesmofu/lakes	ia	guardianes de las leyes	0
+1qnf	qew/rhsis	ia	contemplación, espectáculo	1m
+1qob	qh/reusis	ia	caza, persecución	36
+1qp7	qhlu/noos	ia	de sentimientos de mujer, afeminado	26
+1qq3	qhlustoli/a	ia	vestido de mujer	13
+1qqz	qhreuto/s	ia	= θηρατός: que se puede cazar	1a
+1qrv	qhro/boros	ia	devorado o despedazado por las fieras	3d
+1qsr	qhroto/kos	ia	que engendra fieras	1p
+1qtn	qiaseu/w	ia	iniciar en un tíaso; celebrar un tíaso; med.: tomar parte en un tíaso	6f
+1quj	qnhto/ths	ia	mortalidad	1y
+1qvf	qolomigh/s	ia	mezclado con suciedad	1g
+1qwb	qra=|tta	ia	esclava tracia; pececillo de mar	3g
+1qx7	qrasuglwtti/a	ia	audacia de lengua	17
+1qy3	qrekto/s	ia	= τροχαῖος: de carrera, rápido	3l
+1qyz	qrhskeu/w	ia	practicar ritos religiosos; tr. venerar, rendir culto	9v
+1qzv	qrigkw/dhs	ia	semejante a un remate de muro	1b
+1r0r	qru/yis	ia	acción de enervar; molicie, vida muelle y afeminada	cv
+1r1n	qu/mwma	ia	acceso de cólera, cólera	2x
+1r2j	qu=ma	ia	víctima de un sacrificio; sacrificio	p9
+1r3f	quhle/omai	ia	= θυλέομαι, ofrecer en sacrificio	x
+1r4b	qumai/nw	ia	irritarse; + dat.: enfadarse con	4t
+1r57	qumiko/s	ia	animoso, valiente, ardoroso	c3
+1r63	qunni/s	ia	atún hembra joven	49
+1r6z	qureofo/ros	ia	armado de escudo largo	3j
+1r7v	qursotina/kths	ia	que agita el tirso	1s
+1r8r	quwri/s	ia	mesa de ofrendas	27
+1r9n	qwrakoeidh/s	ia	en forma de coraza	1d
+1raj	r(a/ntisma	ia	cierta afección de la piel	1x
+1rbf	r(abdomantei/a	ia	adivinación por medio de una vara	1a
+1rcb	r(agi/zw	ia	recoger granos de uva	1b
+1rd7	r(akth/rios	ia	apto para golpear; estridente, discordante	5s
+1re3	r(axetri/zw	ia	partir el espinazo	1z
+1rez	r(e/kths	ia	el que hace, activo	23
+1rfv	r(eu=ma	ia	flujo, corriente; flujo de humores, catarro; afluencia, multitud	14p
+1rgr	r(hcike/leuqos	ia	que abre camino a la fuerza	1m
+1rhn	r(htoriko/s	ia	oratorio, retórico, de orador; ἡ ῥητορική: retórica; hábil para hablar	m7
+1rij	r(i=gos	ia	frío, helada	9y
+1rjf	r(inegxute/w	ia	inyectar por la nariz	1r
+1rkb	r(ipi/dion	ia	fuelle pequeño, abanico pequeño	1z
+1rl7	r(izo/fagos	ia	que se alimenta de raíces	0
+1rm3	r(o/don	ia	rosa; pudenda femeninos	m9
+1rmz	r(odo/mhlon	ia	manzana rosada; fig. mejilla sonrosada; confitura de membrillo y rosas	5h
+1rnv	r(ogo/s	ia	granero (en Sicilia y Magna Grecia)	3e
+1ror	r(oizw/dhs	ia	ruidoso, silbante; impetuoso	4t
+1rpn	r(ow/dhs	ia	de corriente impetuosa; τὸ ῥοῶδες: corriente impetuosa	p0
+1rqj	r(u/yis	ia	limpieza, purificación	2d
+1rrf	r(uparofa/gos	ia	que se alimenta de inmundicias	1d
+1rsb	r(uso/s	ia	contraído, encogido; ceñudo; arrugado	ge
+1rt7	r(w=|on	ia	vino de Troya	21
+1ru3	sa/bbaton	ia	sábado (día de descanso judío); semana	0
+1ruz	sa/lpigc	ia	trompeta; toque de trompeta, señal	l9
+1rvv	sa/rwma	ia	barreduras	2b
+1rwr	sagga/ndhs	ia	= σαγγάδης, mensajero	c
+1rxn	sakki/zw	ia	= σακίζω, filtrar	b
+1ryj	salo/omai	ia	andar con afectación	1b
+1rzf	sandara/kh	ia	rejalgar, arsénico rojo	d3
+1s0b	sapw/nion	ia	jaboncillo	2f
+1s17	sarkiko/s	ia	de carne; carnal; sensual	48
+1s23	sarkotakh/s	ia	que consume la carne	20
+1s2z	sau=ros	ia	lagarto; jurel (pez)	66
+1s3v	se/bhma	ia	acto de culto	3c
+1s4r	sei=sis	ia	sacudida; conmoción de la columna	31
+1s5n	sela/ghsis	ia	= λαμπηδών, resplandor	r
+1s6j	selhno/gonos	ia	peonía	1t
+1s7f	semno/ths	ia	gravedad, majestad; recato; solemnidad afectada	el
+1s8b	seswfronisme/nws	ia	con moderación	1x
+1s97	sfagisth/rion	ia	= σφαγεῖον, vaso para la sangre de la víctima	v
+1sa3	sfairwto/s	ia	redondeado; provisto de botón	37
+1saz	sfendonhdo/n	ia	a modo de honda	1z
+1sbv	sfhnoke/falos	ia	de cabeza puntiaguda	1r
+1scr	sfragi/s	ia	sello, anillo de sellar; impronta de un sello; piedra preciosa para sellos	2bb
+1sdn	sfuri/on	ia	= σφυρίδιον, cestillo	50
+1sej	shki/s	ia	criada de la casa	4c
+1sff	shmei=on	ia	señal, signo; marca distintiva, huella; presagio; estandarte; prueba	3z3
+1sgb	shriko/s	ia	de seda	it
+1sh7	si/dhron	ia	= σίδηρος, hierro	g
+1si3	si/mblh	ia	= σίμβλος, colmena	k
+1siz	si/tth	ia	trepador azul (ave)	68
+1sjv	sidhrei=a	ia	minas de hierro	49
+1skr	sidhrofore/w	ia	llevar armas o armadura de hierro; escoltar en armas	7c
+1sln	siga/lwma	ia	instrumento para alisar o pulir (de zapateros); orla de un vestido	5h
+1smj	sikuaste/on	ia	hay que aplicar ventosas	y
+1snf	silo/douroi	ia	soldurios (vasallos galos que juran vivir y morir con su señor)	4z
+1sob	sindonufh/s	ia	tejido como la muselina o de muselina	1z
+1sp7	sita/rion	ia	un poco de trigo	6z
+1sq3	sitisto/s	ia	= σιτευτός, cebado	1x
+1sqz	sitofulakei=on	ia	granero	q
+1srv	sitw/n	ia	campo de trigo, trigal	14
+1ssr	ska/rifon	ix	= σκάριφος: estilete, punzón; esbozo	0
+1stn	skaiou/rghma	ia	mala conducta, acción torpe	1h
+1suj	skanda/lhqron	ia	palito que dispara la trampa; trampa	a5
+1svf	skatofo/roi	ia	basureros, portadores de estiércol	13
+1swb	skeli/dion	ia	dim. de σκελλίς: pequeño diente de ajo	1q
+1sx7	skeua/rion	ia	mueble o utensilio pequeño; pl.: ajuar, menaje	7w
+1sy3	skeuw/rhma	ia	maquinación, intriga	1i
+1syz	skhnopoie/w	ia	construir una tienda o cabaña; med.: construirse una tienda, establecerse	6x
+1szv	ski/ndion	ia	= λεύκωμα: tablilla blanqueada, álbum	1p
+1t0r	skiaqi/s	ia	pez desconocido (quizá = σκίαινα: corvina)	1j
+1t1n	skindareu/omai	ia	hacer un gesto obsceno	e
+1t2j	skirthtiko/s	ia	saltarín, retozón	1s
+1t3f	sklhro/w	ia	endurecer	1g
+1t4b	sknipofa/gos	ia	que come insectos (σκνῖπες)	1f
+1t57	skolio/kaulos	ia	de tallo torcido	22
+1t63	skopeloeidh/s	ia	rocoso	1g
+1t6z	skorodopandokeutriarto/pwlis	ia	posadera vendedora de ajo y pan	28
+1t7v	skoteinw/dhs	ia	= σκοτώδης: oscuro	10
+1t8r	skou/tla	ia	rombo; = lat. scutula: trabajo de marquetería	3o
+1t9n	sku/zhsis	ia	época de celo (de los perros)	1v
+1taj	skulei/a	ia	expolio, saqueo	1e
+1tbf	skuta/lion	ia	bastoncillo; palanca; ombligo de Venus (planta)	i5
+1tcb	skuza/w	ia	estar en celo	4a
+1td7	skwpto/lhs	ia	burlón, que lanza pullas	1u
+1te3	smh=gma	ia	jabón, sustancia detergente, ungüento	41
+1tez	smila	ix	= σμίλη: cuchilla, escalpelo	0
+1tfv	smurnofo/ros	ia	que produce mirra	1z
+1tgr	sofiste/on	ia	hay que ingeniárselas	1r
+1thn	sou/kinos	ia	de ámbar	3n
+1tij	spa/rton	ia	cuerda de esparto; cuerda, cable	c6
+1tjf	spaqa/w	ia	apretar el tejido con la espada del telar; derrochar, malgastar; entregarse a excesos	oi	intr. · tr.: derrochar
+1tkb	sparti/on	ia	cordel de esparto; lengüeta de la balanza; esparto; especie de calzado	cm
+1tl7	spei/rama	ia	enroscamiento; anillos de una serpiente	ch
+1tm3	spermato/omai	ia	ser sembrado; granar, producir semilla	3u
+1tmz	speuste/on	ia	hay que apresurarse	1m
+1tnv	spinqhrobole/w	ia	centellear	1m
+1tor	spo/dios	ia	ceniciento, gris; de las cenizas (epíteto de Apolo)	68
+1tpn	spoggodete/w	ia	sujetar una esponja (sobre el ojo)	1k
+1tqj	sporadiko/s	ia	disperso; esporádico (enfermedad)	4x
+1trf	spuraqw/dhs	ia	semejante a cagarrutas	3q
+1tsb	sta/qmhsis	ia	medición, peso	1l
+1tt7	stafuli=nos	ia	zanahoria	bz
+1tu3	stami/nes	ix	travesaños, cuadernas (de la nave)	0
+1tuz	stasia/zw	ia	estar en discordia, sublevarse (+ dat., πρός + ac.: contra); formar partido, estar en lucha política	17e	intr. · + dat. o πρός + ac.: estar en discordia con, rebelarse contra
+1tvv	staurw/simos	ia	digno de crucifixión	1n
+1twr	ste/gastron	ia	cubierta; carro cubierto, furgón	8o
+1txn	steati/ths	ia	= στεάτινος, (pastel) de masa	d
+1tyj	stefanopw/lhs	ia	vendedor de coronas	90
+1tzf	stegono/mia	ia	= στεγανόμιον, alquiler	1k
+1u0b	stelexw/dhs	ia	con tallo o tronco	2v
+1u17	steno/stomos	ia	de boca o desembocadura estrecha	4o
+1u23	stepto/s	ia	coronado	23
+1u2z	stergocu/neunos	ia	que ama a su consorte	17
+1u3v	steu=mai	ia	estar de pie; afirmar, prometer (+ dat. y + inf.); pretender, hacer ademán de	15s	+ inf. (fut.): afirmar, prometer · + dat.
+1u4r	sthmononhtiko/s	ia	σ. τέχνη: arte de hilar	2u
+1u5n	sti/c	ia	fila, hilera; fila de combatientes; κατὰ στίχας: en filas	0
+1u6j	stibe/w	ia	= στιβεύω, recorrer, hollar	3k
+1u7f	stilpno/ths	ia	brillo, resplandor	2i
+1u8b	stixopoii/a	ia	versificación	0
+1u97	sto/rqugc	ia	punta; colmillo (de jabalí); cuerna (de ciervo); punta de tierra	ag
+1ua3	stoixhdi/s	ia	= στοιχηδόν, en fila	1a
+1uaz	stomaule/w	ia	imitar la flauta con los labios	23
+1ubv	stoxando/n	ia	por conjetura	2g
+1ucr	straggi/s	ia	= στράγξ, gota	1t
+1udn	strathlasi/a	ia	expedición, campaña; ejército	8q
+1uej	stre/yis	ia	giro, vuelta; fig. engaño	2l
+1uff	strifno/ths	ia	textura apretada (del estilo)	2s
+1ugb	strofa/s	ia	que gira, giratorio; circular	er
+1uh7	stroggulonau/ths	ia	marinero de nave mercante	1f
+1ui3	strwfe/omai	ia	dar vueltas	1l
+1uiz	stufeli/zw	ia	golpear con fuerza; derribar; expulsar; maltratar	nc	tr.
+1ujv	stulwto/s	ia	con columnas	1h
+1ukr	su/ggamos	ia	unido en matrimonio, esposo, esposa; que comparte el lecho con otro	c0
+1uln	su/gkthsis	ia	posesión común	2i
+1umj	su/lliqos	ia	empedrado	19
+1unf	su/mmaxos	ia	aliado, auxiliar (+ dat.)	oz
+1uob	su/mplous	ia	= σύμπλοος, compañero de travesía	x
+1up7	su/narqros	ia	acompañado del artículo	6a
+1uq3	su/nneuma	ia	señal de asentimiento	1c
+1uqz	su/nqrausis	ia	rotura, fractura	2d
+1urv	su/rigma	ia	silbido, sonido sibilante; sonido de flauta	6e
+1usr	su/sxesis	ia	detención, encarcelamiento	1l
+1utn	sufo/s	ia	= συφεός, pocilga	10
+1uuj	suggnw/mh	ia	perdón, indulgencia; disculpa; reconocimiento, confesión	1do
+1uvf	sugkakouxe/omai	ia	ser maltratado con (+ dat.)	1p
+1uwb	sugkata/gw	ia	ayudar a hacer volver; bajar juntamente	8s
+1ux7	sugkataktei/nw	ia	matar juntamente, matar con	3n
+1uy3	sugkatastasia/zw	ia	ayudar a derribar con una sedición	1z
+1uyz	sugkekomme/nws	ia	concisamente	1f
+1uzv	sugklhro/w	ia	designar juntamente por sorteo; atribuir una suerte común; pas.: compartir la suerte	jq	tr. · pas. + dat.: compartir la suerte de
+1v0r	sugkomisth/ria	ia	fiesta de la cosecha	1z
+1v1n	sugkrote/w	ia	hacer chocar, entrechocar; batir (palmas); forjar, soldar; organizar, adiestrar; formar, componer	1j4	tr.
+1v2j	sugkuri/a	ia	encuentro fortuito, casualidad, coincidencia, suceso	4s
+1v3f	sugxriste/on	ia	hay que untar	2t
+1v4b	sukasth/s	ia	= συκοφάντης, sicofanta	1p
+1v57	sukofore/w	ia	producir higos; llevar higos	18
+1v63	sullagxa/nw	ia	tocar en suerte juntamente con (+ dat.)	5q
+1v6z	sullu/w	ia	soltar juntamente las amarras, navegar en conserva; resolver juntos (una disputa), reconciliarse	n6	tr. e intr.
+1v7v	sumbioteu/w	ia	= συμβιόω, convivir	1c
+1v8r	sumbouleu/w	ia	aconsejar, dar consejo + dat.; aconsejar + inf.; med.: deliberar con, consultar + dat.	1ln	+ dat. de pers. y ac. de cosa o inf.: aconsejar · med. + dat.: deliberar con, consultar
+1v9n	sumfoithth/s	ia	condiscípulo	7a
+1vaj	sumfura/w	ia	= συμφύρω, mezclar, confundir	84
+1vbf	summeio/omai	ia	disminuir a la vez	3b
+1vcb	summetro/ths	ia	= συμμετρία	z
+1vd7	summoxqe/w	ia	compartir la fatiga o la pena de + dat.	1e
+1ve3	sumpaqh/s	ia	compasivo, que simpatiza; que siente lo mismo que + dat.; afectado a la vez	wm
+1vez	sumparasponde/w	ia	violar juntamente una tregua	1b
+1vfv	sumpe/ssw	ia	madurar por cocción; digerir; hacer supurar	f3	tr.
+1vgr	sumperiferh/s	ia	circular	20
+1vhn	sumpie/zw	ia	apretar, comprimir	k5	tr.
+1vij	sumpni/gw	ia	ahogar, sofocar	a8
+1vjf	sumposiai=os	ia	= συμποσιακός, de banquete	10
+1vkb	sumproxe/w	ia	derramar juntamente	1b
+1vl7	suna/gxh	ia	angina, inflamación de garganta	4e
+1vm3	sunafani/zomai	ia	desaparecer o perecer juntamente con + dat.	3u
+1vmz	sunagw/gimon	ia	= συναγώγιον, comida a escote	1h
+1vnv	sunaisxu/nw	ia	ensuciar a la vez	1q
+1vor	sunalghdw/n	ia	dolor compartido	3h
+1vpn	sunanabakxeu/w	ia	entregarse juntos al delirio báquico	1u
+1vqj	sunanaple/kw	ia	entrelazar con	5m
+1vrf	sunanhba/w	ia	rejuvenecer con	23
+1vsb	sunapexqa/nomai	ia	enemistarse juntos	19
+1vt7	sunapomarai/nomai	ia	pas.: marchitarse y extinguirse a la vez	4a
+1vu3	sunara/ssw	ia	chocar uno con otro; quebrar, destruir	mp	tr.
+1vuz	sunasfali/zomai	ia	pas.: estar asegurado	22
+1vvv	sunaugasmo/s	ia	concurso de rayos, foco	16
+1vwr	sundetiko/s	ia	que sirve para unir; de la conjunción (astros); (gram.) copulativo	8o
+1vxn	sundiaithth/s	ia	coárbitro; compañero de vida	5b
+1vyj	sundiatri/bw	ia	pasar el tiempo juntos; vivir con, frecuentar	ce
+1vzf	sundra/ssw	ia	agarrar; med.: asir, + gen.	2e
+1w0b	sune/peicis	ia	gran prisa	1f
+1w17	sunecatmi/zw	ia	evaporar juntamente; intr.: evaporarse	42
+1w23	sunecumne/w	ia	celebrar juntos con himnos	1k
+1w2z	suneilapina/zw	ia	banquetear con	1p
+1w3v	sunekdoxh/	ia	comprensión conjunta; (ret.) sinécdoque	73
+1w4r	sunekmala/ssw	ia	ablandar por completo	1q
+1w5n	sunekti/ktw	ia	engendrar o producir a la vez	5y
+1w6j	sunendi/dwmi	ia	abandonarse, dejarse llevar, ceder por completo a (+ dat.)	39
+1w7f	sunepeisre/w	ia	afluir juntamente	1h
+1w8b	sunepigrafh/	ia	consentimiento escrito	1t
+1w97	sunepiqeia/zw	ia	atribuir a la divinidad; reconocer como de origen divino (+ ac.)	3j
+1wa3	sunepitri/bw	ia	triturar juntamente; destruir, arruinar juntamente	1y
+1waz	sunereistiko/s	ia	que se sostiene por la trabazón de sus partes	2u
+1wbv	sunestia/zw	ia	= συνεστιάω	1e
+1wcr	suneutone/w	ia	ser vigoroso a la vez	1f
+1wdn	sunhgore/w	ia	hablar en favor de, defender en juicio (+ dat.); asentir; ejercer de síndico	pa	+ dat.: defender, abogar por
+1wej	suni/stwr	ia	testigo, conocedor de (+ gen. o ac.)	e2
+1wff	sunnaumaxe/w	ia	combatir en el mar junto con (+ dat.)	36
+1wgb	suno/milos	ia	que convive, compañero	2g
+1wh7	sunoide/w	ia	hincharse juntamente	3a
+1wi3	sunomai/mwn	ia	de la misma sangre; hermano, hermana	5d
+1wiz	sunore/w	ia	ser limítrofe de (+ dat.)	2x
+1wjv	sunoxos	ia	unido, junto	0
+1wkr	sunqhreu/w	ia	= συνθηράω; capturar o ganar juntos; med.: perseguir, alcanzar	a1
+1wln	suntagmatogra/fos	ia	compilador de tratados	1e
+1wmj	suntelei/wsis	ia	liquidación completa; acción concluida	3w
+1wnf	suntina/ssw	ia	sacudir a la vez, conmover	8t
+1wob	suntrufa/w	ia	compartir el lujo con, + dat.	1a
+1wp7	sunupodeikte/on	ia	hay que indicar a la vez	0
+1wq3	sunwri/s	ia	pareja de animales, tiro de dos caballos; biga; par; ligadura	ya
+1wqz	surigge/mbolos	ia	cañería	1k
+1wrv	surre/w	ia	confluir, afluir juntos; fluir con, + dat.	sx	intr. · + dat.: fluir con
+1wsr	suskiasmo/s	ia	= συσκίασις, sombra	13
+1wtn	sussitopoie/w	ia	amasar con	1b
+1wuj	sustenoxwre/w	ia	estrechar, encerrar	1k
+1wvf	suw/dhs	ia	porcino, glotón como un cerdo	3o
+1wwb	sw=tron	ia	pina de la rueda, llanta	36
+1wx7	swlhnoeidh/s	ia	en forma de tubo, acanalado	4c
+1wy3	swmatopoie/w	ia	formar un cuerpo; dar cuerpo, personificar; robustecer, fortalecer	u7	tr.
+1wyz	swth/rios	ia	salvador, que preserva, propicio, + dat.; τὰ σ.: sacrificio por la salvación	1ny
+1wzv	sxedia/zw	ia	obrar a la ligera; improvisar, inventar	f2	intr. · + ac.: improvisar algo
+1x0r	sxhmatourge/omai	ia	formarse (del feto)	1g
+1x1n	sxoineu/s	ia	esqueneo (ave desconocida)	11
+1x2j	sxola/rxhs	ia	escolarca, director de una escuela	1s
+1x3f	ta/kths	ia	tasador del tributo	1o
+1x4b	ta/xistos	ia	superl. de ταχύς: rapidísimo	l
+1x57	tafroeidh/s	ia	semejante a un foso o a una trinchera	1p
+1x63	tainioeidh/s	ia	en forma de cinta	25
+1x6z	talantiai=os	ia	del valor de un talento; del peso de un talento	fy
+1x7v	tamisi/nhs	ia	(queso) hecho con cuajo	1t
+1x8r	tanu/knhmos	ia	= τανυκνήμις, de piernas largas	1d
+1x9n	tanustu/s	ia	tensión, acción de tensar	1r
+1xaj	tarbe/w	ia	asustarse, temer, + ac.; con μή: temer que; sentir temor religioso, venerar, respetar	zz	tr. e intr. · + μή + subj.: temer que · + inf.: temer
+1xbf	tarso/s	ia	zarzo para escurrir quesos; zarzo, estera; planta del pie, fila de los dedos; hilera de remos; ala desplegada	1gn
+1xcb	tau=	ia	tau (letra τ)	2z
+1xd7	taurofo/nos	ia	= ταυροσφάγος, que mata toros; en que se inmolan toros	5h
+1xe3	taxino/s	ia	= ταχύς (poét.), rápido, veloz	6v
+1xez	taxuba/mwn	ia	que anda rápido	3c
+1xfv	te/cis	ia	parto	1t
+1xgr	te/nwn	ia	tendón, músculo alargado	lu
+1xhn	te/tmon	ia	alcanzar, encontrar	es	tr.: alcanzar, encontrar
+1xij	tei/ws	ia	= τέως (ép.), mientras, entretanto	r
+1xjf	teixomaxiko/s	ia	propio del asedio	2i
+1xkb	teknoktone/w	ia	matar a sus hijos	1d
+1xl7	tele/wsis	ia	= τελείωσις, cumplimiento, desarrollo	e
+1xm3	telesiourgo/s	ia	que acaba una obra; eficaz; que cumple	63
+1xmz	telwna/rxhs	ia	jefe de aduanas	1r
+1xnv	tenqrh/nion	ia	nido de avispas	1q
+1xor	teratolo/gos	ia	que cuenta prodigios, fantaseador; prodigioso	4k
+1xpn	termodrome/w	ia	correr hasta la meta	10
+1xqj	tessarakosto/s	ia	cuadragésimo; αἱ τεσσαρακοσταί: cuarentavos (moneda de Quíos)	af
+1xrf	tethrhme/nws	ia	atentamente	24
+1xsb	tetra/metros	ia	de cuatro medidas; tetrámetro (métr.); τὸ τ.: tetrámetro; cuarto de medimno	ej
+1xt7	tetra/s	ia	el número cuatro, grupo de cuatro; el cuarto día del mes	ja
+1xu3	tetrabo/eios	ia	de cuatro pieles de buey	1u
+1xuz	tetragwnismo/s	ia	cuadratura	5p
+1xvv	tetralogi/a	ia	tetralogía, grupo de cuatro obras	6x
+1xwr	tetrapu/rgios	ia	edificio de cuatro torres	0
+1xxn	tetraxroni/a	ia	cuatro tiempos (métr.)	26
+1xyj	teu/xhma	ia	obra, artefacto	22
+1xzf	texna/zw	ia	usar de artificio o astucia; med.: emplear todo su arte, maquinar, tramar	s9	intr. · + inf.: ingeniárselas para · med. + ὅπως: maquinar
+1y0b	texnourgo/s	ia	artesano (clase de Solón)	2v
+1y17	thga/nion	ia	sartén pequeña (dim. de τήγανον)	3x
+1y23	thlefw/nion	ia	= τηλέφιον (planta)	s
+1y2z	thnesmo/s	ia	falsa lectura por τεινεσμός, tenesmo	25
+1y3v	ti/lma	ia	pelo arrancado; hilas	7r
+1y4r	tifw/dhs	ia	pantanoso	1z
+1y5n	timio/w	ia	honrar, tener en estima	2z
+1y6j	tiqasei/a	ia	domesticación	3l
+1y7f	titigo/nion	ia	insecto semejante a la cigarra	kg
+1y8b	tmh/dhn	ia	cortando, de un corte	20
+1y97	to/pazos	ia	topacio (piedra preciosa)	ek
+1ya3	toci=tis	ia	cuerda del arco (en máquinas de torsión); Toxítide (epíteto de Ártemis en Cos)	5o
+1yaz	toiouto/tropos	ia	de tal clase, de la misma clase	6n
+1ybv	tokoglu/fos	ia	prestamista rapaz, usurero	66
+1ycr	toniai=os	ia	de un tono (mús.)	5z
+1ydn	topokra/twr	ia	= τόπαρχος, gobernador de un lugar	13
+1yej	toru/nh	ia	cucharón de madera, espumadera	89
+1yff	tra/gos	ia	macho cabrío; pubertad; lascivia	17f
+1ygb	tragoeidh/s	ia	semejante al macho cabrío	1d
+1yh7	trape/zion	ia	mesita	6f
+1yi3	traulo/ths	ia	tartamudeo	24
+1yiz	traxu/stomos	ia	de pronunciación áspera	64
+1yjv	trexe/deipnos	ia	que corre a los banquetes, gorrón	5r
+1ykr	tri/fqoggos	ia	triptongo; de tres voces	3m
+1yln	tri/lofos	ia	de tres penachos; de tres cumbres	3c
+1ymj	tri/pous	ia	de tres pies; subst.: trípode	23f
+1ynf	tri/strofos	ia	retorcido tres veces; de tres estrofas	3f
+1yob	tria/delfos	ia	de tres hermanos	1l
+1yp7	triakonta/xronos	ia	= τριακοντάσημος, de treinta tiempos	1e
+1yq3	tribiko/s	ia	basado en la práctica	6i
+1yqz	trifore/w	ia	dar fruto tres veces; pas.: usarse en tres formas	42
+1yrv	trih/meros	ia	que vive tres días; subst.: espacio de tres días	36
+1ysr	triko/ruqos	ia	= τρίκορυς, de triple penacho	1c
+1ytn	trio/fqalmos	ia	de tres ojos	3f
+1yuj	triplasia/zw	ia	triplicar	3a
+1yvf	trisa/nqrwpos	ia	tres veces hombre	26
+1ywb	trismaka/rios	ia	tres veces bienaventurado	3j
+1yx7	trisxidh/s	ia	hendido en tres	3c
+1yy3	tritosta/tis	ia	tercera en la fila del coro	0
+1yyz	trixia/w	ia	padecer triquiasis	5j
+1yzv	trixqa/	ia	en tres partes, de tres maneras	5k
+1z0r	trofei=on	ia	= οἰκίσκος, jaula (de pájaros)	x
+1z1n	tropaiofore/w	ia	triunfar, celebrar un triunfo	q
+1z2j	troxastiko/s	ia	apto para correr, de carrera	34
+1z3f	troxope/dh	ia	freno de rueda	27
+1z4b	trufa/w	ia	vivir con molicie, ser delicado, afeminado; hacerse el delicado, ser desdeñoso, engreírse	1bv	intr.
+1z57	trugi/a	ia	= τρύξ, heces, poso, sedimento	6q
+1z63	truphma/tion	ia	dim. de τρύπημα, agujerito	1j
+1z6z	trwglodu/ths	ia	que habita en agujeros, troglodita; reyezuelo (ave)	7r
+1z7v	tu/mpanon	ia	tambor, tamboril, pandero; instrumento de tortura para apalear	18g
+1z8r	tuflhgore/w	ia	sentido dudoso	1s
+1z9n	tula/s	ia	especie de tordo	46
+1zaj	tumbwru/xos	ia	saqueador de tumbas; sepulturero	4e
+1zbf	tupw/dhs	ia	esbozado, esquemático, superficial	7a
+1zcb	turi/dion	ia	dim. de τυρός, quesito	2s
+1zd7	tuxai=os	ia	fortuito, accidental	e7
+1ze3	u(/drios	ia	de agua; ὑδρίων ὡροσκοπείων: clepsidras	4r
+1zez	u(/moios	ix	= ὅμοιος: semejante (eol.)	0
+1zfv	u(/pombros	ia	algo lluvioso o húmedo	g7
+1zgr	u(=s	ia	cerdo, puerco, jabalí; cerda	23r
+1zhn	u(brismo/s	ia	= ὕβρισμα, ultraje, insulto	1u
+1zij	u(de/w	ia	llamar, nombrar; cantar, celebrar; pas.: ser llamado	e7	tr. · + doble ac.: llamar · pas.: ser llamado
+1zjf	u(dreutiko/s	ia	para regar o sacar agua	2d
+1zkb	u(drofantikh/	ia	arte de descubrir agua	2y
+1zl7	u(droqh/kh	ia	depósito de agua, cisterna	1j
+1zm3	u(drwpoeidh/s	ia	= ὑδρωπιώδης, hidrópico	e
+1zmz	u(fana/w	ia	= ὑφαίνω, tejer (poét.)	1p
+1znv	u(fhghte/on	ia	hay que guiar, hay que enseñar	15
+1zor	u(gi/eia	ia	salud, buena salud; curación	18a
+1zpn	u(gro/muron	ia	ungüento líquido	35
+1zqj	u(groqhrikh/	ia	pesca	22
+1zrf	u(lakthth/s	ia	ladrador	2i
+1zsb	u(loforbo/s	ia	que pace en los bosques	1v
+1zt7	u(meno/w	ia	cubrir con una película; pas.: volverse membrana	40
+1zu3	u(mnw/dhs	ia	= ὑμνῳδός, cantor de himnos	23
+1zuz	u(pa/llagma	ia	lo que se recibe a cambio	a1
+1zvv	u(pagw/gion	ia	pequeño puente (de un instrumento)	1p
+1zwr	u(paloifh/	ia	= ὑπάλειψις, unción, engrase	2b
+1zxn	u(papai/deutos	ia	algo inculto, poco instruido	26
+1zyj	u(patoeidh/s	ia	(mús.) de la región de la hípate	2u
+1zzf	u(pe/rantlos	ia	que hace agua, inundado; fig. abrumado	dh
+200b	u(pe/rinos	ia	purgado violentamente	6r
+2017	u(pe/rploutos	ia	riquísimo	1x
+2023	u(pe/rxronos	ia	supratemporal	1k
+202z	u(peido/mhn	ia	mirar con recelo, sospechar (v. ὑφοράω)	fq	tr.: sospechar de
+203v	u(pekre/w	ia	escurrirse poco a poco; fig. borrarse de la memoria; escabullirse de (+ gen.)	cl
+204r	u(pera/gnoia	ia	ignorancia absoluta	1b
+205n	u(peraiwre/w	ia	levantar o tener suspendido encima; pas.: elevarse sobre (+ gen.), sobresalir; (náut.) llegar a la altura de	lh	tr. · pas. + gen.: elevarse sobre, llegar a la altura de
+206j	u(peraspi/stria	ia	protectora	0
+207f	u(perbeblhme/nws	ia	adv.: excesivamente, extraordinariamente	30
+208b	u(perdika/zw	ia	vindicar, defender (+ gen.)	19
+2097	u(perekperissou=	ia	adv.: sobreabundantemente	37
+20a3	u(pereuqh/s	ia	= ὑπέρυθρος, rojizo (poét.)	1w
+20az	u(perfuh/s	ia	desmesurado, enorme; extraordinario, prodigioso, maravilloso	1bm
+20bv	u(peri/stwr	ia	que sabe demasiado bien (+ gen.)	24
+20cr	u(perkolakeu/w	ia	adular sin medida	1p
+20dn	u(permetre/w	ia	exceder toda medida; dar más de lo debido	5l
+20ej	u(peropli/zomai	ia	vencer por la fuerza de las armas; según otros, tratar con arrogancia	6a
+20ff	u(perperisseu/w	ia	sobreabundar	37
+20gb	u(perqemati/zw	ia	pujar más alto	2u
+20h7	u(pertele/w	ia	pasar por encima, franquear, + ac.	48
+20i3	u(perw=|os	ia	situado en el piso superior; subst. τὸ ὑπερῷον: piso superior; ἡ ὑπερῴα: paladar	c2
+20iz	u(ph/koos	ia	que presta oído; obediente, sumiso, súbdito, + gen. o dat.; οἱ ὑπήκοοι: los súbditos	rw
+20jv	u(pna/w	ia	dormir	0
+20kr	u(po/brwmos	ia	algo maloliente	1d
+20ln	u(po/foros	ia	tributario, + dat.	5z
+20mj	u(po/krousis	ia	interrupción	2h
+20nf	u(po/mucos	ia	algo mucoso	2s
+20ob	u(po/rnumi	ia	excitar poco a poco, suscitar insensiblemente	c4
+20p7	u(po/splhnos	ia	enfermo del bazo	23
+20q3	u(po/topos	ia	suspicaz	1x
+20qz	u(po/yuxros	ia	algo frío, fresco; escalofriante; soso, sin gracia	br
+20rv	u(pobolimai=os	ia	supuesto, sustituido furtivamente (hijo)	ak
+20sr	u(podei/elos	ia	hacia el atardecer	1g
+20tn	u(podia/foros	ia	subdividido	10
+20uj	u(podu/skolos	ia	algo difícil, algo molesto	5n
+20vf	u(pofoini/zw	ia	ser purpúreo, tirar a púrpura	1o
+20wb	u(poghra/w	ia	empezar a envejecer	19
+20x7	u(poisto/s	ia	soportable, tolerable	1o
+20y3	u(poke/leusma	ia	voz del cómitre que marca el ritmo de los remeros	e
+20yz	u(poko/risma	ia	nombre cariñoso, diminutivo; eufemismo	9o
+20zv	u(pokudh/s	ia	cubierto por aguas someras; hondonada	6r
+210r	u(polhptiko/s	ia	capaz de comprender, relativo a la comprensión	3n
+211n	u(pomala/ssw	ia	ablandar poco a poco; relajar (el vientre)	5i
+212j	u(pomnhmatiko/s	ia	que sirve para memorias o comentarios	di
+213f	u(pono/qeusis	ia	seducción, corrupción	2g
+214b	u(pope/mpw	ia	enviar debajo; enviar en secreto, apostar; enviar como espía	8u
+2157	u(popo/dion	ia	escabel, escabelillo	5k
+2163	u(popukna/zw	ia	darse con cierta frecuencia a	2y
+216z	u(poqumiate/on	ia	hay que fumigar	20
+217v	u(posfragi/zw	ia	sellar debajo	2x
+218r	u(poskufismo/s	ia	limpieza del grano con pala (v. l. por περισκυφισμός)	1z
+219n	u(posth/rigma	ia	puntal, soporte	29
+21aj	u(posugxe/w	ia	confundir un poco; pas.: ser algo confuso o indistinto	7i
+21bf	u(potele/w	ia	pagar una deuda, un tributo; soportar	d7	tr. · + ac. y dat. · intr.: pagar tributo
+21cb	u(potre/w	ia	temblar un poco, asustarse un poco; retroceder; + ac.: temer un poco ante	8g
+21d7	u(poua/tios	ia	que está bajo las orejas	1o
+21e3	u(poxoiri/s	ia	hierba del halcón, hipoquéride (Hypochoeris radicata)	3h
+21ez	u(poza/koros	ia	ayudante del guardián de un templo, subsacristán	3y
+21fv	u(pwqe/w	ia	empujar, rechazar; empujar desde abajo	4j
+21gr	u(stero/lhptos	ia	recobrado después (glosa de παλινάγρετος)	x
+21hn	u(yerefh/s	ia	= ὑψηρεφής, de alto techo	65
+21ij	u(yi/deiros	ia	de altos riscos	2y
+21jf	u(yibo/hs	ix	que grita fuerte, de voz potente	0
+21kb	u(yo/qi	ia	en lo alto, arriba	4j
+21l7	ui(wno/s	ia	nieto	7w
+21m3	w(ria/s	ia	fem. de ὥριος, de la estación (poét.)	1e
+21mz	w(sau/tws	ia	del mismo modo, igualmente	hj
+21nv	w)=ka	ia	rápidamente, velozmente; enseguida	8w
+21or	w)kimw/dhs	ia	semejante a la albahaca	1y
+21pn	w)kulo/xeia	ia	que procura un parto rápido (Ártemis)	2r
+21qj	w)mi/as	ia	persona de anchas espaldas	1o
+21rf	w)mokotu/lh	ia	articulación del hombro	13
+21sb	w)ph/	ia	vista, mirada; aspecto	3l
+21t7	w)ta/rion	ia	orejita (dim. de οὖς)	9y
+21u3	w)xro/canqos	ia	amarillo pálido	1c
+21uz	xa/ios	ia	genuino, noble, bueno	0
+21vv	xa/rmh	ia	ardor guerrero; combate, batalla; alegría	fz
+21wr	xaite/eis	ia	= χαιτήεις, de larga cabellera (jón.)	1i
+21xn	xalazokope/w	ia	azotar con granizo; pas.: ser dañado por el granizo	24
+21yj	xalinofa/gos	ia	que muerde el freno	1t
+21zf	xalkeo/sternos	ia	= χαλκοθώραξ, de pecho de bronce	w
+220b	xalkiofu/lac	ia	encargado de las calderas (en los baños)	2y
+2217	xalkoa/ras	ia	de armadura de bronce	3b
+2223	xalkoteixh/s	ia	de muros de bronce	1b
+222z	xamai/geiron	ia	= βήχιον, tusílago, uña de caballo	u
+223v	xamailexh/s	ia	en el suelo (lecho)	1m
+224r	xamhlo/s	ia	que está en tierra, bajo; muy pequeño; humilde	am
+225n	xaraki/zw	ia	cercar con estacas cruzadas; cruzar las patas (la mosca)	4o
+226j	xaristi/wn	ia	balanza de Arquímedes; aparejo para levantar pesos	4w
+227f	xartoula/rios	ia	cartulario, archivero	4h
+228b	xe/llioi	ia	= χίλιοι, mil (eol.)	1v
+2297	xei/risma	ia	parte tratada u operada; tratamiento	37
+22a3	xeimie/w	ia	tener frío, estar aterido	1q
+22az	xeiro/grafon	ia	escrito a mano, documento autógrafo; obligación por escrito, pagaré	0
+22bv	xeirokrasi/a	ia	= χειροκρατία, dominio por la fuerza	2e
+22cr	xeirotone/w	ia	alzar la mano para votar; votar a mano alzada; elegir por votación, nombrar	13n	intr.: votar a mano alzada · tr.: elegir · + doble ac.: elegir a uno como
+22dn	xelidonideu/s	ia	polluelo de golondrina	18
+22ej	xernh/s	ia	que vive del trabajo de sus manos, jornalero; pobre, mísero	ap
+22ff	xeu=ma	ia	lo que se vierte o derrama; corriente (de un río); libación; vaso para verter	o8
+22gb	xhni/on	ia	ansarino	16
+22h7	xi=dra	ia	= χῖδρον, granos de trigo verde	0
+22i3	xilio/kwmos	ia	de mil aldeas	1m
+22iz	ximetlia/w	ia	tener sabañones	13
+22jv	xiw/n	ia	nieve; copos de nieve; agua helada	10z
+22kr	xleu/asma	ia	burla	1u
+22ln	xliw/dhs	ia	ligeramente caliente	1r
+22mj	xlwra/zw	ia	comer forraje verde	18
+22nf	xnoi/zw	ia	estar cubierto de pelusa	0
+22ob	xoiko/s	ia	de tierra, terrenal	0
+22p7	xoirospe/leqos	ia	= ὀνόκλεια (planta)	v
+22q3	xoloibo/ros	ia	que corroe como la bilis	1i
+22qz	xordostro/fos	ia	torcedor de cuerdas	3c
+22rv	xorodidaskaliko/s	ia	del maestro de coro	2b
+22sr	xortofa/gos	ia	que come hierba, herbívoro	17
+22tn	xraismh/twr	ia	protector	1o
+22uj	xrewfeile/ths	ia	deudor	7j
+22vf	xrhmatofula/kion	ia	tesoro, erario	y
+22wb	xrhsmw|do/s	ia	que canta oráculos; ὁ χ.: adivino, profeta	ag
+22x7	xri/w	ia	ungir, untar; rozar; picar, herir	22n	tr. · + ac. y dat.: ungir con
+22y3	xronokratori/a	ia	dominio de un astro durante un periodo (astrol.)	v
+22yz	xrusattiko/s	ia	(vino) ático dorado	38
+22zv	xrush/rhs	ia	incrustado de oro, guarnecido de oro	52
+230r	xruso/mallos	ia	de vellón de oro	4s
+231n	xruso/teros	ia	más precioso que el oro, más dorado	3g
+232j	xrusofori/a	ia	uso de adornos de oro; derecho a llevarlos	8z
+233f	xrusonh/ths	ia	hilador de hilo de oro	1o
+234b	xrusoto/reutos	ia	repujado en oro	2r
+2357	xrw=ma	ia	color de la piel, tez; color, tinte, afeite; (mús.) género cromático; adorno del estilo	1wq
+2363	xudaiologi/a	ia	lenguaje vulgar, grosería	1t
+236z	xutri/s	ia	olla de barro, marmita	6j
+237v	xwla/w	ia	= χωλεύω, cojear	26
+238r	xwri/on	ia	lugar, sitio, emplazamiento; espacio, superficie (geom.); plaza fuerte; región, comarca; finca	zc
+239n	ya/llion	ia	= ψάλιον, cadena	1s
+23aj	yakasto/s	ia	que gotea, destilado gota a gota	16
+23bf	yammi/on	ia	grano de arena; pl.: arenilla (en la orina)	4b
+23cb	yedno/ths	ia	calvicie	12
+23d7	yeudaggeli/a	ia	falsa noticia	1o
+23e3	yeudo/fhmos	ia	de falsa predicción, mentiroso	1b
+23ez	yeudoka/rpasos	ia	= κάχρυ (planta)	r
+23fv	yeudoqu/rion	ia	puertecilla secreta	0
+23gr	yhfa/s	ia	prestidigitador	21
+23hn	yhfoqete/w	ia	hacer mosaicos	e
+23ij	yi/lwqron	ia	depilatorio; nueza blanca (planta)	7b
+23jf	yilometri/a	ia	poesía recitada sin acompañamiento musical; prosa	3y
+23kb	yofode/eia	ia	miedo a cualquier ruido	1f
+23l7	yudro/s	ia	mentiroso, falso	36
+23m3	yuxei=on	ia	lugar para enfriar agua	19
+23mz	yuxopompo/s	ia	conductor de las almas de los muertos, psicopompo (Hermes); el que trae las almas del Hades	4j
+23nv	yuxrokauth/r	ia	cáustico	1b
+23or	ywmi/on	ia	bocadito, pedacito de pan	36
+23pn	za/grion	ia	dim. de ζάγρα	q
+23qj	zamenh/s	ia	muy fuerte, impetuoso, furioso; hostil	d5
+23rf	zeselaiopagh/s	ia	cocido en aceite hirviendo	1c
+23sb	zeukto/s	ia	uncido, enganchado	8i
+23t7	zhmio/w	ia	causar daño, perjudicar; multar, castigar; pas.: sufrir una pérdida	1ik	tr. · + ac. de pers. y ac. o dat. de la pena: multar · pas.: sufrir una pérdida
+23u3	zo/h	ia	= ζωή, vida (jón.)	8
+23uz	zughdo/n	ia	por parejas	11
+23vv	zugwqri/zw	ia	pesar; según otros, encerrar bajo cerrojo	3w
+23wr	zw=|ion	ix	= ζῳύφιον: animalillo, bicho	0
+23xn	zwma/rion	ia	dim. de ζωμός, caldito	1e
+23yj	zwofore/w	ia	parir crías vivas; dar fruto (de plantas)	34
+23zf	zwro/s	ia	puro, sin mezcla (del vino); bien mezclado, templado	u0
+240b	zw|oqhriko/s	ia	relativo a la caza de seres vivos	38
