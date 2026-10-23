@@ -161,7 +161,7 @@
       if (/^[A-Za-z'()\/\\=+|*_^]+$/.test(word)) {        // escrito en betacode o transliterado
         const b = word.toLowerCase().replace(/^\*?/, '');
         k = keyOfBeta(b); cIn = /[()\/\\=+|]/.test(b) ? canon(betaToUni(b)) : null;
-      } else { k = keyOf(word); cIn = canon(word); }
+      } else { k = keyOf(word); cIn = /[\u0300-\u036f]/.test(word.normalize('NFD')) ? canon(word) : null; }   // sin diacríticos: no se exige acentuación
       if (!k) return [];
       let entries = (await this.shard(hash(k) % NF)).get(k) || [];
       if (!entries.length && k.endsWith("'")) entries = (await this.shard(hash(k.slice(0, -1)) % NF)).get(k.slice(0, -1)) || [];

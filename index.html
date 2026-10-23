@@ -224,6 +224,8 @@ body.no-reg .regime { display: none; }
 .toc-list button:hover { background: var(--chip); }
 .toc-list .lv1 button { padding-left: 22px; } .toc-list .lv2 button { padding-left: 38px; }
 .search-row { display: flex; gap: 8px; }
+.kbd-hint { font-family: var(--f-ui); font-size: 0.8rem; color: var(--muted); margin: 6px 0 0; line-height: 1.45; }
+.kbd-hint b { font-family: var(--f-text); font-size: 0.95rem; color: var(--ink); font-weight: 400; }
 .search-row input { flex: 1; min-width: 0; height: 40px; border: 1px solid var(--line); border-radius: 8px; padding: 0 10px; background: var(--paper); font-family: var(--f-text); font-size: 1.05rem; }
 #searchOut .pop { position: static; width: auto; max-height: none; box-shadow: none; border: 0; margin-top: 8px; }
 #searchOut .pop-head { display: none; }
@@ -316,9 +318,10 @@ body.no-reg .regime { display: none; }
 <div class="panel" id="panelSearch" hidden role="dialog" aria-label="Buscar una palabra">
   <h2>Buscar una palabra</h2>
   <form class="search-row" id="searchForm">
-    <input id="searchInput" type="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="p. ej. λόγον o logon" lang="grc">
+    <input id="searchInput" type="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="p. ej. λογον (sin acentos)" lang="grc">
     <button class="btn primary" type="submit">Buscar</button>
   </form>
+  <p class="kbd-hint">Escribe con tu teclado: las letras se convierten en griegas, sin acentos, espíritus ni iota suscrita. Teclas menos evidentes: <b>η</b> h · <b>θ</b> u · <b>υ</b> y · <b>ξ</b> j · <b>χ</b> x · <b>ψ</b> c · <b>ω</b> v · la <b>ς</b> final sale sola.</p>
   <div id="searchOut"></div>
 </div>
 
@@ -826,6 +829,26 @@ $('#btnToc').addEventListener('click', () => togglePanel('#panelToc'));
 $('#btnMenu').addEventListener('click', () => togglePanel('#panelMenu'));
 $('#btnVocab').addEventListener('click', () => { if (togglePanel('#panelVocab')) Vocab.render(); });
 $('#btnSearch').addEventListener('click', () => { if (togglePanel('#panelSearch')) setTimeout(() => $('#searchInput').focus(), 30); });
+// teclado latino → letras griegas (distribución del teclado griego), sin diacríticos
+const GRK_KEYS = { a: 'α', b: 'β', g: 'γ', d: 'δ', e: 'ε', z: 'ζ', h: 'η', u: 'θ', i: 'ι', k: 'κ', l: 'λ', m: 'μ', n: 'ν', j: 'ξ', o: 'ο', p: 'π', r: 'ρ', s: 'σ', t: 'τ', y: 'υ', f: 'φ', x: 'χ', c: 'ψ', v: 'ω', w: 'ς' };
+function toGreekKeys(v) {
+  let out = '';
+  for (const ch of v) {
+    const lo = ch.toLowerCase(), gk = GRK_KEYS[lo];
+    if (gk) out += ch === lo ? gk : (gk === 'ς' ? 'Σ' : gk.toUpperCase());
+    else if (lo === 'q') continue;
+    else out += ch;
+  }
+  return out.replace(/σ(?![\p{L}\p{M}])/gu, 'ς').replace(/ς(?=[\p{L}\p{M}])/gu, 'σ');
+}
+$('#searchInput').addEventListener('input', (e) => {
+  const inp = e.target; if (e.isComposing) return;
+  const v = inp.value, nv = toGreekKeys(v);
+  if (nv === v) return;
+  const pos = inp.selectionStart == null ? nv.length : toGreekKeys(v.slice(0, inp.selectionStart)).length;
+  inp.value = nv;
+  try { inp.setSelectionRange(pos, pos); } catch (err) { /* sin cursor */ }
+});
 $('#searchForm').addEventListener('submit', async (e) => {
   e.preventDefault();
   const w = $('#searchInput').value.trim().split(/\s+/)[0] || '';

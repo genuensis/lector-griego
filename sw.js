@@ -1,5 +1,5 @@
 /* Service worker del Lector griego: guarda la aplicación y el léxico para usarlos sin conexión. */
-const CACHE = 'lectorgr-2026-10-23';
+const CACHE = 'lectorgr-2026-10-23-2';
 const FILES = [
   "./",
   "index.html",
