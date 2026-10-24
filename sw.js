@@ -1,9 +1,5 @@
 /* Service worker del Lector griego: guarda la aplicación y el léxico para usarlos sin conexión. */
-<<<<<<< Updated upstream
-const CACHE = 'lectorgr-2026-10-23-2';
-=======
 const CACHE = 'lectorgr-2026-10-24-2';
->>>>>>> Stashed changes
 const FILES = [
   "./",
   "index.html",
