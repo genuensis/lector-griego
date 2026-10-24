@@ -1,11 +1,13 @@
 /* Service worker del Lector griego: guarda la aplicación y el léxico para usarlos sin conexión. */
-const CACHE = 'lectorgr-2026-10-24-2';
+const CACHE = 'lectorgr-2026-10-24-3';
 const FILES = [
   "./",
   "index.html",
   "greek.js",
   "grworker.js",
   "manifest.webmanifest",
+  "extras.js",
+  "biblioteca.json",
   "data/f/0.txt",
   "data/f/1.txt",
   "data/f/10.txt",
